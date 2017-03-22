@@ -1,6 +1,6 @@
 # Summary
 
-* [Préambule](README.md)
+* [Bienvenue](README.md)
 * [Introduction](chapter1.md)
 * [Configurations sociales](configurations-sociales.md)
 * [Patrimoine commun](patrimoine-commun.md)
