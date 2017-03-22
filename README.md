@@ -4,7 +4,7 @@ Bienvenue ! Si vous êtes en consultation de cette page, c'est que vous êtes li
 
 # À propos
 
-Ce document est UNE mise en forme des textes rédigés pour "[l'expérience tiers-lieu](https://archive.is/gkBhw)" de la [Biennale de design de Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/) \(9 mars - 9 avril 2017\) consacrée aux mutations du travail \("_Working Promesse_"\). Ils sont régis par les termes de la [licence Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) et ont été co-rédigés par un réseau de contributeurs des tiers-lieux, sous l'impulsion décisive de Yoann Duriaux \("super concierge", [Movilab](http://movilab.org)\),  Sylvia Fredriksson \(chercheure, [Cité du Design](http://www.citedudesign.com/fr/la-recherche/)\) et Juliette Gelli \(designer, [collectif RDC](https://vimeo.com/200720088)\).
+Ce document est UNE mise en forme des textes rédigés pour "[l'expérience tiers-lieu](https://archive.is/gkBhw)" de la [Biennale de design de Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/) \(9 mars - 9 avril 2017\) consacrée aux mutations du travail \("_Working Promesse_"\). Ils sont régis par les termes de la [licence Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) et ont été co-rédigés par un réseau d'acteurs des tiers-lieux, sous l'impulsion  de Yoann Duriaux \("super concierge", [Movilab](http://movilab.org)\),  Sylvia Fredriksson \(chercheure, [Cité du Design](http://www.citedudesign.com/fr/la-recherche/)\) et Juliette Gelli \(designer, [collectif RDC](https://vimeo.com/200720088)\).
 
 # Enjeux
 
