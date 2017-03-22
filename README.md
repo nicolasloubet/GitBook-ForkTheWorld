@@ -8,7 +8,7 @@ Ce document est UNE mise en forme des textes rédigés pour "[l'expérience tier
 
 # Enjeux
 
-Par de nombreux aspect, ce corpus éditorial doit être considéré comme un "super collage", i.e.  un ensemble d'idées,  de défnitions, d'extraits de texte, de témoignages, de notices, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en perspective ce que font, produisent et produiront les acteurs des tiers-lieux.
+Par de nombreux aspect, ce corpus  doit être considéré comme un " collage", i.e.  un ensemble d'idées,  de défnitions, d'extraits de texte, de témoignages, de notices, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en perspective ce que font, produisent et produiront les acteurs des tiers-lieux.
 
 Les objectifs : \(1\) permettre à celles et ceux qui vivent les tiers-lieux de **mettre des mots** sur ce qu'ils vivent au quotidien \(2\) soutenir la formulation de récits \(aux formes multiples\) sur les tiers-lieux, par celles et ceux qui en ressentent le besoin.
 
