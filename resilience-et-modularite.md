@@ -1,6 +1,4 @@
-# Patrimoine commun
+# Résilience et modularité
 
 _Cette section en cours de mise en forme. Soyez patient.e ! _
-
-
 

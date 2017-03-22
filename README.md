@@ -12,7 +12,7 @@ Par de nombreux aspect, ce corpus  doit être considéré comme un " collage", i
 
 Les objectifs : \(1\) permettre à celles et ceux qui vivent les tiers-lieux de **mettre des mots** sur ce qu'ils vivent au quotidien \(2\) soutenir la formulation de récits \(aux formes multiples\) sur les tiers-lieux, par celles et ceux qui en ressentent le besoin.
 
-L'expérience de la Biennale n'est en rien fermée sur elle-même. Bien au contraire. L'intention est bien de permettre à tous les acteurs tiers-lieux de se saisir de ce corpus, de le mettre en forme librement et de l'enrichir au gréé de leur vécu.
+L'expérience de la Biennale n'est en rien fermée sur elle-même. Bien au contraire. **L'intention** est bien de permettre à tous les acteurs des tiers-lieux de se saisir de ce corpus, de le mettre en forme librement et de l'enrichir avec leur vécu.
 
 # Structure
 
