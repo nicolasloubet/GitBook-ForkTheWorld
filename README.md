@@ -18,11 +18,11 @@ L'expérience de la Biennale n'est en rien fermée sur elle-même. Bien au contr
 
 Dans sa version initiale \(0.1\) ce corpus se décline en **5 points de vue** :
 
-1. Configurations sociales
-2. Patrimoine commun
-3. Libre appropriation
-4. Emancipation par le faire
-5. Résilience et modularité
+1. [Configurations sociales](https://nicolasloubet.gitbooks.io/fork-the-world/content/configurations-sociales.html)
+2. [Patrimoine commun](https://nicolasloubet.gitbooks.io/fork-the-world/content/patrimoine-commun.html)
+3. [Libre appropriation](https://nicolasloubet.gitbooks.io/fork-the-world/content/libre-appropriation.html)
+4. [Émancipation par le faire](https://nicolasloubet.gitbooks.io/fork-the-world/content/emancipation-par-le-faire.html)
+5. [Résilience et modularité](https://nicolasloubet.gitbooks.io/fork-the-world/content/resilience-et-modularite.html)
 
 # Ressources
 
