@@ -1,6 +1,6 @@
 # Bienvenue
 
-Bienvenue ! Si vous consultez cette page... 'est que vous êtes lié.e à l'univers des '[tiers-lieux](http://movilab.org/index.php?title=Définition_des_Tiers_Lieux)' \(espaces de coworking, ateliers de réparation et/ou fabrication, squats artistiques, etc.\) !
+Si vous consultez cette page... c'est que vous êtes lié.e, de près ou de loin, à l'univers des '[tiers-lieux](http://movilab.org/index.php?title=Définition_des_Tiers_Lieux)' \(espaces de coworking, ateliers de réparation et/ou fabrication, squats artistiques, etc.\) :-\)
 
 # À propos
 
