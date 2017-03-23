@@ -16,6 +16,8 @@ L'expérience de la Biennale n'est en rien fermée sur elle-même. Bien au contr
 
 # Structure
 
+![](/assets/forktheworld-mindmap.png)
+
 Dans sa version initiale \(0.1\) ce corpus se décline en **5 points de vue** :
 
 1. [Configurations sociales](https://nicolasloubet.gitbooks.io/fork-the-world/content/configurations-sociales.html)
