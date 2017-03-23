@@ -16,8 +16,6 @@ L'expérience de la Biennale n'est en rien fermée sur elle-même. Bien au contr
 
 # Structure
 
-![](/assets/forktheworld-mindmap.png)
-
 Dans sa version initiale \(0.1\) ce corpus se décline en **5 points de vue** :
 
 1. [Configurations sociales](https://nicolasloubet.gitbooks.io/fork-the-world/content/configurations-sociales.html)
@@ -26,7 +24,11 @@ Dans sa version initiale \(0.1\) ce corpus se décline en **5 points de vue** :
 4. [Émancipation par le faire](https://nicolasloubet.gitbooks.io/fork-the-world/content/emancipation-par-le-faire.html)
 5. [Résilience et modularité](https://nicolasloubet.gitbooks.io/fork-the-world/content/resilience-et-modularite.html)
 
-# Ressources
+![](/assets/forktheworld-mindmap.png)
+
+_NB : cette mindmap \(CC-BY-NC-SA\) a été réalisée par S. Fredriksson dans le cadre de ses activités pour la Cité du Design. _
+
+Ressources
 
 * [Carnet de bord de l'expérience tiers-lieux \#ForktheWorld](http://frama.link/BiennaleDesign17-ForkTheWorld)
 * [Dépôt initial des textes \(hébergés sur un "Google Drive"\)](http://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
