@@ -28,7 +28,7 @@ Dans sa version initiale \(0.1\) ce corpus se décline en **5 points de vue** :
 
 _NB : cette mindmap \(CC-BY-NC-SA\) a été réalisée par S. Fredriksson dans le cadre de ses activités pour la Cité du Design. _
 
-Ressources
+# Ressources
 
 * [Carnet de bord de l'expérience tiers-lieux \#ForktheWorld](http://frama.link/BiennaleDesign17-ForkTheWorld)
 * [Dépôt initial des textes \(hébergés sur un "Google Drive"\)](http://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
