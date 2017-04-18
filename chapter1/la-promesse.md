@@ -1,5 +1,7 @@
 # La promesse des Tiers-Lieux
 
+![](/assets/forktheworld_catalogue.jpg)
+
 On parle depuis 20 ans de l’entreprise libérée[^1], de structuration participative innovante au cœur de l’organisation du travail. Cette innovation a émergé depuis quelques années, non pas dans les entreprises mais au sein de Tiers-Lieux[^2], c’est à dire de lieux autogérés, indépendants, organisés autour de pratiques amateurs expertes, dont l’animation est réalisée par des concierges de quartier \(et non par des managers issus des écoles de commerce\) ; l’invention plutôt citoyenne que juste entrepreunariale !
 
 Les modèles développés dans les lieux d’apprentissage classiques sont percutés par l’invention des collectifs ; les ressources mises en commun deviennent des capitaux libres de droits et remettent en cause la sacro-sainte notion de propriété. Les dynamiques de partage génèrent un flux intense d’actions, de prototypage dont l’une des grande qualité est la réversibilité : à tout moment le modèle peut être remis en cause, dans une sorte de préfiguration de ce que peut devenir une démarche de sobriété, menant à un projet écologique appliqué **:** les Tiers-Lieux promettent d’en découdre avec les modes de travail et plus loin, le projet de société.
