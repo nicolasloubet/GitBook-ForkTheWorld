@@ -1,6 +1,6 @@
 # Coordination
 
-Cette page est une tentative de récit du processus de co-conception / co-fabrication de l'expérience Fork The World. Elle ne prétend pas TOUT restituer en détail. Elle donne surtout à voir les principales étapes \(et difficultés surmontées\) du processus. 
+Cette page est une tentative de récit du processus de co-conception / co-fabrication de l'expérience Fork The World. Elle ne prétend pas TOUT restituer en détail. Elle donne surtout à voir les principales étapes \(et difficultés surmontées\) du processus.
 
 # \#16 \(04/04/2017\)
 
@@ -149,540 +149,378 @@ Journées de cowoCamp à Aurec \(Maison Jules Verne\) pour identifier les axes d
 
 # \#8 \(11/07/2016\)
 
-Participants
+Discussion entre Yoann Duriaux et Nicolas Loubet préparant le CowoCamp à Aurec. 
 
-* Yoann
-* Nicolas
+**Programme**
 
-CowoCamp à Aurec
+* Mardi \(après-midi\) : lancement du design du 3e atelier "Open City Lab" + présentation d’un site qui donne à voir le processus de co-construction \(pour un 'public' qui découvre la pratique des tiers-lieux\).
+* Mercredi : production \(sur / pour le temps de la Biennale\) en débat.
+* Jeudi : rédaction des documents de travail \(en groupes-projets\).
 
-Programme
+**Présent.e.s**
 
-Mardi \(après-midi\) : lancement du design du 3e atelier "Open City Lab".
+* A. Burret sera là de mardi à jeudi / O. Peyricot sera là mercredi matin.
+* David vient jeudi avec Isabelle. Workshop jeudi & vendredi \(DoZE\).
+* De passage également : Simon \(Tour des TRUCs\) + Simon Sarazin.
 
-Présentation d’un site qui donne à voir le processus de co-construction \(pour un 'public' qui découvre la pratique des tiers-lieux libres et open source\).
+**Contribution**
 
-Mercredi : production \(sur / pour le temps de la Biennale\) en débat.
+* Le site présenté par @Yoann deviendra le site "Design Moi un Tiers-Lieu".
+* Nicolas va commencer à travailler sur le design de la contribution \(au prisme des données qui sont produites / mise à dispo - textes, images, ligne de code, etc\). Il va travailler sur le sens de la proposition qui consiste à 'porter sur les TILIOS' sur une blockchain \(NB : il est TRES réservé sur cette 'proposition'. Son collègue Clement et lui restent  convaincus que c'est d'abord et surtout le design modulaire qui est puissant / transformateur\).
+* Il s'agit d'identifier les enjeux de chacun et les conditions de contribution \(certains sont payés, d'autres défrayés...\). La mise en visibilité permet les réciprocités. \(c'est l'occasion de tester des services comme Open Money ou Open Collective\)
 
-Jeudi : rédaction des documents de travail \(en groupes-projets\).
-
-Présent.e.s
-
-A. Burret sera là de mardi à jeudi / O. Peyricot sera là mecredi matin.
-
-David vient jeudi avec Isabelle. Workshop jeudi & vendredi \(DoZE\).
-
-De passage également : Simon \(Tour des TRUCs\) + Simon Sarazin.
-
-Desgin du commun
-
-Le site présenté par @Yoann deviendra le site Design Moi un Tiers-Lieu.
-
-Nicolas va commencer à travailler sur le design de la contribution \(au prisme des données qui sont produites / mise à dispo - textes, images, ligne de code, etc\). Il va travailler sur le sens de la proposition qui consiste à 'porter sur les TILIOS' sur une blockchain.
-
-Je suis TRES réservé sur cette 'proposition'. Mon collègue Clement et moi mêmes restons convaincus que c'est d'abord et surtout le design modulaire qui est puissant / transformateur. Des technologies de registre distribuée trouvent du sens combiné à d'autres 'techniques'.
-
-Il est surtout important de questionner les modalités de prod / usage des données.
-
-Sur cette séquence, il s'agit d'identifier les enjeux de chacun et les conditions de contribution \(certains sont payés, d'autres défrayés...\). La mise en visibilité permet les réciprocités. \(à voir si ce n'est pas l'occasion de tester des services comme Open Money ou Open Collective\).
-
-Production de sources en continu. La "mission" ne se destine pas à être chronophage.
-
-Il est possible de présenter la démarche à DevCon2 \(qui aura lieu à Shangai en septembre\).
+---
 
 # \#7 \(17/06/2016\)
 
-Participants :
+Temps de coordination à Aurec sur Loire entre Yoann Duriaux, Rieul Técher et Aurélien Marty.
 
-Yoann
+R**esponsabilités**
 
-RIeul
+* Yoann Duriaux \(en lien avec la Cité du Design\) s'occupe de la coordination globale. Il est référent sur Saint-Etienne / Aurec.
+* Rieul Techer \(en lien avec la Métropole de Lyon\) intervient sur le soutien financier. Il est interlocuteur pour le Grand Lyon.
+* David \(potentiellement avec Timothée et Isabelle\) assure le lien avec l'écosystème lyonnais et le développement de projets \(notamment CyberGarden\) et la gestion des financements pour la préparation de l'exposition lors de la Biennale de Design.
 
-Aurélien
+**Fonctionnement**
 
-Lieu: Aurec sur Loire
+Le triptyque est un prétexte au développement d'objets qui seront choisis pas les designers pour la scénographie de la Biennale.  Open City Lab se déroulera sur le site de l'exposition Biennale. Le principe : faire tiers-lieu sur place pour produire autour de thématiques \(CyberGarden, DAISEE, Power Plant...\). Les designers seront présents pour le choix et la mise en scène sur place.
 
-Points abordés:
+**Financement**
 
-Qui est responsable de quoi ?
+Le budget  global est accessible à tous. Besoin de ventiler en fonction des apport de chacun sur des briques tranversales.
 
-Général
+**Opérationnel**
 
-Yoann Duriaux lien avec la Cité du Design et coordination générale
+* [x] Mettre les ventilations en face des lignes budgétaires pour la Biennale \(e.g. OpenCityLab\).
+* [x] Rieul : prendre contact avec le Grand Lyon pour lever des fonds. Voir avec David & Isabelle.
 
-Rieul Techer lien avec la Métropole de Lyon pour participation et soutien financier sur le volet Tiers-lieux de la Biennale 2017 et interlocuteur Grand Lyon.
-
-Myne-Paillasse Saone
-
-David \(potentiellement avec Timothée et Isabelle - à discuter aux PPA le 17062016\) lien écosystème lyonnais et développement de projets \(notamment CyberGarden\) et gestion des financements pour la préparation de l'expo pour la Biennale.
-
-Saint-Etienne / Aurec
-
-Yoann Duriaux référent Saint-Etienne/Aurec.
-
-Note: qui s'occupe de l'organisation du volet OpenCityLab sur Lyon ?
-
-Fonctionnement
-
-Le triptyque est un prétexte au développement d'objets d'art/design qui seront choisis pas les designers pour la scénographie lors de la Biennale.
-
-L'événement OpenCityLab se déroulera sur le site de l'exposition Biennale.
-
-Le principe:
-
-on vient faire tiers-lieu sur place pour produire autour de thématiques \(CyberGarden, DAISEE, Power Plant, Aquaponie... pour la MYNE notamment\)
-
-les designers seront présents pour le choix et la mise en scène sur place pour la biennale.
-
-Budget
-
-Revue du budget et précision sur la gestion du budget: le budget colonne global est accessible à tous. Ventiler en fonction des apport de chacun sur des briques tranversales \(qui servent les projets en particulier mais aussi la production de commun et l'adaptation sur d'autres projets\).
-
-Actions
-
-Mettre les ventilations en face des lignes budgétaires pour la Biennale \(e.g. OpenCityLab\).
-
-Rieul: prendre contact avec le Grand Lyon pour lever des fonds. Voir avec David & Isabelle.
+---
 
 # \#6 \(07/06/2016\)
 
-Participants :
+**Participants**
 
-Yoann D.
-
-RIeul T.
-
-David R.
-
-Franck
-
-Léo-Pol
+* Yoann D.
+* RIeul T.
+* David R.
+* Franck
+* Léo-Pol
 
 Lieu : Aurec sur Loire
 
-Ordre du jour
+**Ordre du jour**
 
-Matin :
+* Matin
+  * Organisation du triptyque et de l'exposition
+  * Design et déploiement de la com' \(int et ext.\)
+  * Café 2.0 &gt; configuration des outils collaboratifs
+  * L'exposition
+  * TiliosCamp
+  * Triptyque
+    * TinyTiliosCamp
+    * Les OSCEDays
+    * OpenCityLabs
 
-Organisation du triptyque et de l'exposition
+* Midi : repas et visite du projet FabChateau \(?!\)
 
-Design et déploiement de la com' \(int et ext.\)
+* Aprem
+  * Rôles et postures
+  * Deals individuels et collectifs
+  * Agendas \(individuel & groupe de travail\)
+  * Préparation OSCEDays & MakerCamp
+  * A mercredi soir pour l'@AperoCamp
 
-Café 2.0 &gt; configuration des outils collaboratifs
+**Organisation**
 
-L'exposition
+* **Objectif** : une \(anti\) exposition expérimentale
+  * Montrer les pièces que vous allez produire
+  * Montrer des thématiques / modes de travail
 
-TiliosCamp
+* **Design**
+  * Equipe de commoners structurée autour de Yoann
+    * Yoann = rôle de coordination globale
+    * Baptiste = en lien avec les designers
+  * Équipe des designers \(A propos, ENSCI\)
+    * Donner à voir au public de la Biennale
+    * Co construire &gt; dialogue &gt; co-création
 
-Triptyque
+_Interroger sur la manière de montrer et non pas de faire les choses._
 
-TinyTiliosCamp
+* **Budget**
+  * Axe production / workshop = 45 000 € SEM + 5 000 € Cité\)
+  * Enjeux : financement à  court terme du workshop \(OSCE Days\)
+  * Convention en cours de mise en oeuvre pour l'organisation
 
-Les OSCEDays
+* **Ethique**
+  * Faire en sorte que les "productions" soient un investissement durable sur le territoire. La Biennale est un outil pour montrer à voir et poser les problèmes à différents niveaux.
+  * Fil rouge : montrer des productions \(dans une cadre d'économie circulaire\) ET surtout les processus de création qu'il y a derrière = faire sortir la substance en terme d'évolution des modes de travail et de faire.
+  * Floriane : volet recherche et capitalisation au travers de fiches sur les process et les productions / Frank en relation avec le Directeur de la prospective Métropole \(DPDP\)
 
-OpenCityLabs
+* **Grand Lyon**
+  * La Biennale cherche des résonance et notamment sur le territoire du 'Grand' Lyon =&gt; Lien avec le Culture et quelle structure pourrait être labellisé Biennale 2017.
+  * La thématique Tiers-lieux intéresse fortement la Métropole du Grand Lyon dans le cadre de la Biennale: qu'est ce qu'ils peuvent en tirer sur le territoire Grand Lyonnais.
 
-Midi : repas et visite du projet FabChateau \(?!\)
+* **Inspiration**
+  * L’Espace des Communs, qui sera ouvert pendant le Forum Social Mondial de Montréal sera à la disposition de toute personne ou organisme, associé de près ou de loin au mouvement des communs, qui souhaite organiser un atelier, une session de travail ou une activité de réseautage. L’espace ’inscrit dans l’esprit des écoles des communs, en ayant pour but de documenter et de diffuser le savoir sur les Communs, de soutenir les projets de constitution, de ré-appropriation et de conservation des communs, existants ou en émergence, par l’entraide et l’engagement, et de développer la posture de « commoner » par le développement les compétences créatives et collaborative.
 
-Aprem :
+  * L’Espace des Communs sera autogéré. Pas de programmation préalable, ni de thématiques imposées, mais bien un agenda ouvert et flexible permettant d’accueillir une variété d’activité. Quelques thèmes ont été proposés : \(1\) Communs urbains \(2\) Communs comme nouvelle sujet politique \(3\) Coopérativisme ouvert et plateformes de coopération
+  * L’Espace des Communs prendra appui sur le réseau des espaces de travail partagé \(coworking\) de Montréal. Son quartier général sera situé dans les locaux d’ECTO, au cœur du Montréal créatif. D’autres espaces de coworking \(Salon 1861, Temps libre\) et de rencontres interculturelles pourront accueillir des activités.
+  * Le Forum social mondial est l'occasion de rencontrer  des acteurs engagés dans le développement des communs. Il est possible de s'abonner à la liste de diffusion pour être tenu informé des [activités](http://lists.p2pfoundation.net/wws/review/wsf2016).
 
-Rôles et postures
-
-Deals individuels et collectifs
-
-Agendas \(individuel & groupe de travail\)
-
-Préparation OSCEDays & MakerCamp
-
-A mercredi soir pour l'@AperoCamp
-
-Organisation
-
-Objetif : une \(anti\) exposition expérimentale
-
-Montrer les pièces que vous allez produire
-
-Montrer des thématiques / modes de travail
-
-Design
-
-Equipe de commoners structurée autour de Yoann \(conciergerie générale\) &gt; Rôle d'organisation et structuration de l'action
-
-Yoann = rôle de coordination globale
-
-Baptiste = en lien avec les designers
-
-Équipe des designers \(A propos, ENSCI\)
-
-Donner à voir au public de la Biennale
-
-Co construire &gt; dialogue &gt; co-création
-
-Interroger sur la manière de montrer et non pas de faire les choses.
-
-Budget
-
-Axe production / workshop = 45 000 € SEM + 5 000 € Cité\)
-
-Enjeux: financement à très court terme du workshop \(OSCE Days\) =&gt; Frank
-
-Convention en cours de mise en oeuvre pour l'organisation jusqu'à la Biennale.
-
-Ethique
-
-Faire en sorte que les "productions" soient un investissement durable sur le territoire. La Biennale est un outil pour montrer à voir et poser les problèmes à différents niveaux.
-
-Enjeu fil rouge : montrer des productions \(dans une cadre d'économie circulaire\) ET surtout les processus de création qu'il y a derrière = montrer et challenger les process pour en faire sortir la substance en terme d'évolution des modes de travail et de faire.
-
-Floriane : volet recherche et capitalisation au travers de fiches sur les process et les productions / Frank en relation avec le Directeur de la prospective Métropole \(DPDP\)
-
-Grand Lyon
-
-La Biennale cherche des résonance et notamment sur le territoire du 'Grand' Lyon =&gt; Lien avec le Culture et quelle structure pourrait être labellisé Biennale 2017
-
-La thématique Tiers-lieux intéresse fortement la Métropole du Grand Lyon dans le cadre de la Biennale: qu'est ce qu'ils peuvent en tirer sur le territoire Grand Lyonnais.
-
-Inspiration
-
-L’Espace des Communs, qui sera ouvert pendant le Forum Social Mondial de Montréal sera à la disposition de toute personne ou organisme, associé de près ou de loin au mouvement des communs, qui souhaite organiser un atelier, une session de travail ou une activité de réseautage.
-
-L’espace ’inscrit dans l’esprit des écoles des communs, en ayant pour but de documenter et de diffuser le savoir sur les Communs à partir du partage de nos expériences et nos apprentissages, de soutenir les projets de constitution, de réappropriation et de conservation des communs, existants ou en émergence, par l’entraide et l’engagement, et de développer la posture de « commoner » par le développement les compétences créatives et collaboratives des personnes.
-
-L’Espace des Communs sera autogéré. Pas de programmation préalable, ni de thématiques imposées, mais bien un agenda ouvert et flexible permettant d’accueillir une variété d’activités et de sujets. Déjà quelques thèmes ont été proposés :
-
-Communs urbains
-
-Communs comme nouvelle sujet politique
-
-Coopérativisme ouvert et plateformes de coopération
-
-L’Espace des Communs prendra appui sur le réseau des espaces de travail partagé \(coworkings\) de Montréal. Son quartier général sera situé dans les locaux d’ECTO, coworking coop \[www.ecto.coop\], au cœur du Montréal créatif. D’autres espaces de coworking \(Salon 1861, Temps libre\) et de rencontres interculturelles pourront accueillir des activités.
-
-Le Forum social mondial est une occasion unique de rencontrer et de travailler avec des acteurs engagés du monde dans le développement des communs. Nous vous invitons à venir animer cet espace des Communs en soutenant sa réalisation, en organisant une activité ou en participant aux activités qui seront proposées. Vous pouvez le faire simplement en écrivant à l’un ou l’autre des signataires de ce message. Vous pouvez également vous abonner à la liste de diffusion que nous avons mise en place pour être tenu informé des développements du programme d'activités de l’Espace des communs : [http://lists.p2pfoundation.net/wws/review/wsf2016](http://lists.p2pfoundation.net/wws/review/wsf2016)
+  ---
 
 # \#5 \(03/06/2016\)
 
-Participants :
+**Participants**
 
-Yoann D.
+* Yoann D.
+* Nicolas L.
 
-Nicolas L.
+**Actualité**
 
-Actualité
+* Yoann a travaillé sur les situations de crise liées aux inondations de Paris. En cas de crise centennale, seront touchés 700k entreprises et 1 200k personnes \( ce qui pourrait occasionner 84G€ de dégats!\). Voir le rapport de l'OCDE : [https://www.oecd.org/gov/risk/Gestion-du-risque-inondation-seine-resume-executif.pdf](https://www.oecd.org/gov/risk/Gestion-du-risque-inondation-seine-resume-executif.pdf)
+* Vaison la Romaine a [pas mal d'expérience](https://fr.wikipedia.org/wiki/Inondation_de_Vaison-la-Romaine_en_septembre_1992).  Ils ont un capital informationnel \(commun\) inexploité. Il y a une étude sur le[ site du Sénat ](http://www.senat.fr/rap/r11-775/r11-775_mono.html) \('_Se donner les moyens de ses ambitions : les leçons des inondations du Var et du sud-est de la France_'\).
 
-Yoann a travaillé sur les situations de crise liées aux inondations de Paris. En cas de crise centennale, seront touchés 700k entreprises /  1 200k personnes \( 84G€ de dégats!\). Rapport OCDE : [https://www.oecd.org/gov/risk/Gestion-du-risque-inondation-seine-resume-executif.pdf](https://www.oecd.org/gov/risk/Gestion-du-risque-inondation-seine-resume-executif.pdf)
+* Voir les 4 participations au [Plan Loire Grandeur Nature](http://www.plan-loire.fr/fr/accueil/index.html) à Bruxelles pour le compte du WWF France et de Zoomacom &gt; [Groupe Recherche, données, information](http://www.plan-loire.fr/fr/les-plates-formes/recherche-donnees-information/index.html). Voir le 'Plan Loire Grandeur Nature' : [https://vimeo.com/45066415](https://vimeo.com/45066415)
 
-Vaison la Romaine a pas mal d'exp. &gt; [https://fr.wikipedia.org/wiki/Inondation\_de\_Vaison-la-Romaine\_en\_septembre\_1992](https://fr.wikipedia.org/wiki/Inondation_de_Vaison-la-Romaine_en_septembre_1992) \(ils ont un capital informationnel commun... non exploité !\).
+**Liens Cité**
 
-Même une étude dédiée disponible sur le site du Sénat  : Se donner les moyens de ses ambitions : les leçons des inondations du Var et du sud-est de la France
+* Yoann &gt; accompagnement 12 mois \(12k€\)
+* Rieul dans la boucle. Prospective Grand Lyon.
+* OpenFactory + LPS / La M\[Y\]NE / POC \(50 k€\).
 
-Souvenir de mes 4 participations au Plan Loire Grandeur Nature à Bruxelles pour le compte du WWF France et de Zoomacom &gt; Groupe Recherche, données, information
+**Budget**
 
-Voir le 'Plan Loire Grandeur Nature' : [https://vimeo.com/45066415](https://vimeo.com/45066415)
+* Organisation et coordination
+* Workshop et compétences
+* Investissement et consommables
 
-Liens Cité
+**OSCEDays**
 
-Yoann &gt; accompagnement 12 mois \(12k€\)
+* Mardi : Olivier \(Cité\) vient à Aurec !
+* Mercredi : lancement de l'événement
 
-Rieul dans la boucle. Prospective Grand Lyon.
+**Workshops**
 
-OpenFactory + LPS / La M\[Y\]NE / POC \(50 k€\).
+* 'OpenCityLab' en octobre \(prévoir 15j\)
+* Enjeu : programme avec labo de rech.
 
-Budget :
+**Movilab**
 
-Organisation et coordination
+* Envie de qualifier la documentation !
+* Souhaite s'appuyer sur une blockchain
+* Meilleur interlocuteur = [http://ascribe.io](http://ascribe.io)
 
-Workshop et compétences
+**Écosystème**
 
-Investissement et consommables
+* La M\[Y\]NE / Aurec = 2 maisons expérimentales
+* Saint-Etienne = OpenFactory + Cité du Design
 
-OSCEDays
+**Expérience**
 
-Mardi : Olivier \(Cité\) vient à Aurec !
+* Il faut des objets \(à montrer / présenter\).
 
-Mercredi : lancement de l'événement
-
-Workshops
-
-'OpenCityLab' en octobre \(prévoir 15j\)
-
-Enjeu : programme avec labo de rech.
-
-Movilab
-
-Envie de qualifier la documentation !
-
-Souhaite s'appuyer sur une blockchain
-
-Meilleur interlocuteur = [http://ascribe.io](http://ascribe.io)
-
-Écosystème
-
-La M\[Y\]NE / Aurec = 2 maisons expérimentales
-
-Saint-Etienne = OpenFactory + Cité du Design
-
-Expérience
-
-Il faut des objets \(à montrer / présenter\).
+---
 
 # \#4 \(03/05/2016\)
 
-Participants :
+**Participants**
 
-Olivier P.
+* Olivier P.
+* Collectif RDC
+* Nicolas L.
 
-Collectif RDC
+**Discussion**
 
-Nicolas L.
+* Pour les conventions, Franck Aivaliotis sera en copie. Nous avons pu caler des choses avec Yoann, SEM, La Cité du design.
+* Olivier voit mardi 3 mai à Paris le collectif de designers \(emmené par Juliette\) qui sera en immersion. Ils seront embarqués sur les workshops qui mèneront jusqu’à la Biennale. Ils seront là pour faire le travail type de designers dans un workshop \(concevoir des choses, participer à la réflexion et récupérer de la matière\). Et ils auront pour but suivant de mettre en forme l’exposition. En étant embarqués, ils seront des alliés des acteurs Tiers-Lieux vous, pour aller vers l’exposition \(le message\)
 
-Pour les conventions, je mets Franck Aivaliotis en copie. Nous avons pu caler des choses avec @Yoann vous représentant, SEM et La Cité du design. Nous essayons de faire vite.
-
-Je vois mardi 3 mai à Paris le collectif de designers \(emmené par Juliette en copie\) - A propos - qui sera en immersion avec vous ; on va poser le brief de leur mission.
-
-Ils seront embarqués sur les WS qui mèneront jusqu’à la Biennale.
-
-Ils seront là pour faire le travail type de designers dans un WS \(concevoir des choses dans le cadre de vos actions, participer à la réflexion et récupérer de la matière\).
-
-Et ils auront pour but suivant de mettre en forme l’exposition. En étant embarqués, ils seront des alliés pour vous, pour aller vers l’exposition, vers le message.
-
-Pensez-vous possible d'identifier les contenus assez tôt pour connaître leur nombre, l’originalité du traitement qu’ils subissent grâce aux tiers-lieux, et leur lien avec les WS ?
+---
 
 # \#3 \(28/04/2016\)
 
-Participants
+**Participants**
 
-Yoann D
+* Yoann D
+* Rieul T.
+* Nicolas L.
 
-Rieul T.
+**Objectif** : faire un point sur l'organisation des prochains workshops \(objectifs, moyens dispos\).
 
-Nicolas L.
+**Rappels**
 
-Objectif : faire un point sur l'organisation des prochains workshops \(objectifs, moyens dispos\).
+* Dans le co-commissariat : Antoine / Baptiste avec en "référents" : Yoann, Nicolas, Rieul.
+* Franck est le super coordinateur de la Biennale \(personne référente pour les finances\).
+* Open Factory / OPS = interlocuteur local + LBMG Labs / OS = interlocuteur hors sol.
+* Pas d'engagement du côté de Ouisahre \(global\) mais OuiShare RA souhaite participer.
+* Une étape du TdF du télétravail \(minimum 20k€ pour LBMG Labs\) / cible entreprises.
+* On ne touche pas à la scénographie. C'est le collectif 'A Propos' issu de l'ENSCI.
+* En fil rouge : World Tilios Catalog \( = catalogue des services issus des tiers-lieux\).
+* Arbre des documentations pour faire apparaître les différentes formes de documentation.
 
-Rappels
+**Workshops**
 
-Dans le co-commissariat : Antoine / Baptiste avec en "référents" : Yoann, Nicolas, Rieul.
+* TTCamp en avril &gt; fait en bootstrap / à valoriser très largement dans l'écosytème \(large\).
+* OSCEDays en juin &gt; organisation lancée / fil rouge énergétique pour la M\[Y\]NE / Cellabz.
+* OpenCityLab en oct. &gt; orga à lancer en juin, après les OSCEDays \(couplage avec fabmob\)
 
-Franck est le super coordinateur de la Biennale \(personne référente pour les finances\).
+**Co-budget**
 
-Open Factory / OPS = interlocuteur local + LBMG Labs / OS = interlocuteur hors sol.
+* Budget global = 60 k€
+  * Ressources facilitation
+  * Ressources humaines
+  * Ressources matérielles
 
-Pas d'engagement du côté de Ouisahre \(global\) mais OuiShare RA souhaite participer.
-
-Une étape du TdF du télétravail \(minimum 20k€ pour LBMG Labs\) / cible entreprises.
-
-On ne touche pas à la scénographie. C'est le collectif 'A Propos' issu de l'ENSCI.
-
-En fil rouge : World Tilios Catalog \( = catalogue des services issus des tiers-lieux\).
-
-Arbre des documentations pour faire apparaître les différentes formes de documentation.
-
-Workshops
-
-TTCamp en avril &gt; fait en bootstrap / à valoriser très largement dans l'écosytème \(large\).
-
-OSCEDays en juin &gt; organisation lancée / fil rouge énergétique pour la M\[Y\]NE / Cellabz.
-
-OpenCityLab en oct. &gt; orga à lancer en juin, après les OSCEDays \(couplage avec fabmob\)
-
-Co-budget
-
-Budget global = 60 k€
-
-Ressources facilitation
-
-Ressources humaines
-
-Ressources matérielles
+---
 
 # \#2 \(07/04/2016\)
 
-Participants
+**Présents**
 
-Olivier \(Cité du Design\)
+* Olivier \(Cité du Design\)
+* Yoann \(POC fondation\)
+* Nicolas R. \(Cité du Design\)
+* Floriane \(Cité du Design\)
+* Charlotte \(LPS Myne\)
+* Jennifer \(Cité du Design\)
+* Rieul \(La MYNE\)
 
-Yoann \(POC fondation\)
-
-Nicolas R. \(Cité du Design\)
-
-Floriane \(Cité du Design\)
-
-Charlotte \(LPS Myne\)
-
-Jennifer \(Cité du Design\)
-
-Rieul \(La MYNE\)
-
-Objectif
+**Question**
 
 Comment structurer une vision de l'expo selon différents modes opératoires pour pouvoir adresser les budget ; qui est capable de lever des fonds sur un base de fonds de la Cité ?
 
-Options
+**Options**
 
-On a un lieu on développer l'expo / les pratiques au prisme de différentes thématiques
+1. On a un lieu on développer l'expo / les pratiques au prisme de différentes thématiques
+2. ~~On a des tiers-lieux qui représentent des "expertises" qu'on présente~~
+3. ~~LBMG en stand et des espaces thématiques avec tout le monde dans chaque thématique.~~
 
-On a des tiers-lieux qui représentent des "expertises" qu'on présente
+![](/assets/forktheworld_organisations_1.jpg)
 
-LBMG en stand et des espaces thématiques avec tout le monde dans chaque thématique.
+**Plan de l'espace **\(prévisionnel en cours de refonte, mais ça donne les grandes masses\).
 
-Plan de la Biennale 2017 \(prévisionnel en cours de refonte, mais ça donne les grandes masses\).
+![](/assets/forktheworld_espace.jpg)
 
-2 cercles :
+**2 cercles**
 
-un premier \(interne\) qui concerne la thématique
+* Un premier \(interne\) qui concerne la thématique
+* Un second \(externe\) sur la "méthode \(i.g.: sur la thématique de l'énergie comment on travaille &gt; blockchain, inclusion, Casa Jasmina, Valldaura...\)
 
-un second \(externe\) sur la "méthode \(i.g.: sur la thématique de l'énergie comment on travaille &gt; blockchain, inclusion, Casa Jasmina, Valldaura...\)
+![](/assets/forktheworld_organisations_2.jpg)
 
 À la recherche d'un bon dosage entre l'exposition \("back-office"\) et la participation \(front office\).
 
 L'entrée thématique" est retenue comme la plus favorable = &gt; Besoin de définir les "thématiques".
 
-Intervenants \(co-commissariat\) :
+**Intervenants** \(co-commissariat\)
 
-Comment montrer les phénomènes en cours de création ou de réalisation dans les tiers lieux au travers d'un savant mélange entre exposition et mise en pratique \(voir et faire\).
+* Comment montrer les phénomènes en cours de création ou de réalisation dans les tiers lieux au travers d'un savant mélange entre exposition et mise en pratique \(voir et faire\).
+  * Plusieurs temps seront dédiés à la mise en pratique \(Tiny tilios camp, OSCEdays, etc. \)
+  * L'exposition permettra de valoriser ces réalisations ainsi que d'autres dans les tiers lieux
+  * L'exposition pourra être une "invitation à agir, à aller plus loin, à aller dans les tiers lieux"
 
-Plusieurs temps seront dédiés à la mise en pratique \(Tiny tilios camp, OSCEdays, etc. \)
+**Modes d'organisation**
 
-L'exposition permettra de valoriser ces réalisations ainsi que d'autres dans les tiers lieux
+* Le rôle des structures est de permettre le foisonnement des démonstrations, de montrer toutes les formes possibles de tiers lieux. Une diversité d'acteurs permettra ce foisonnement. On part sur cette base : OpenFactory, La MYNE, LBMG, OuiShare.
+* Au sein de l'exposition, l'objectif serait de démontrer le capital informationnel commun entre toutes les formes de tiers lieux. A travers des conférences, des échanges et des démonstrations, les participants pourront voir un panel de possibilités de valeurs créées dans les tiers- lieux, et issus de modes de travail, de vie et d'être spécifiques \(et passer à l'action\).
+* Une personne  \(tournante\) serait chargée de faire le lien. Elle sera traductrice et créatrice de liens et d'interprétation.
 
-L'exposition pourra être une "invitation à agir, à aller plus loin, à aller dans les tiers lieux"
+![](/assets/forktheworld_expo.jpg)
 
-Modes d'organisation
+**Financement**
 
-Le rôle des structures est de permettre le foisonnement des démonstrations, de montrer toutes les formes possibles de tiers lieux. Une diversité d'acteurs permettra ce foisonnement.
+* Une fois les intervenants définis, la Cité proposera des possibilités de financements pour la mise en place de l'exposition \(les lignes budgétaires et montants max à ne pas dépasser\) :
+  * Coordination - Co-commissariat
+  * Animation / Facilitation / etc.
+  * Achat de ressources matérielles
+  * Utilisation des ateliers de l'Ecole
+  * Intervention d'experts étrangers
 
-On part sur cette base : OpenFactory, La MYNE/LPS, LBMG \(Travailler Autrement\), OuiShare.
+* Les moyens de départ doivent servir de leviers pour lever d'autres fonds \(publics, privés\).
+* Questions : Est-ce que l'effort de mobilisation sera financé ? Quelles suites attendues ?
 
-Au sein de la salle d'exposition, l'objectif serait de démontrer le capital informationnel commun entre toutes les formes de tiers lieux. A travers des conférences, des échanges et des démonstrations, les participants pourront voir un panel de possiblités de valeurs créées dans les tiers- lieux, et issus de modes de travail, de vie et d'être spécifiques \(et passer à l'action\).
+**Questions**
 
-Une personne centrale \(tournante\) serait chargée de faire le lien entre l'ensemble des espaces. Cette personne serait traducteur et créateur de liens et d'interprétation.
+* [x] Définir combien pour qui \(=&gt; retour Cité\)
+* [x] Voir partenaires internationaux à impliquer
 
-Financement
-
-Une fois les intervenants définis, la Cité proposera des possibilités de financements pour la mise en place de l'exposition \(les lignes budgétaires et montants max à ne pas dépasser\) :
-
-Coordination - Co-commissariat
-
-Animation / Facilitation / etc.
-
-Achat de ressources matérielles
-
-Utilisation des ateliers de l'Ecole
-
-Intervention d'experts étrangers
-
-Les moyens de départ doivent servir de leviers pour lever d'autres fonds \(publics, privés\).
-
-Questions : Est-ce que l'effort de mobilisation sera financé ? Quelles suites attendues ?
-
-Questions
-
-Définir combien pour qui \(=&gt; retour Cité\)
-
-Voir partenaires internationaux à impliquer
+---
 
 # \#1 \(05/04/2016\)
 
-Participants
+![](/assets/forktheworld_firstmeeting.jpg)
 
-Olivier \(Cité Design\)
+**Participants**
 
-Floriane \(Cité Design\)
+* Olivier \(Cité Design\)
+* Floriane \(Cité Design\)
+* Jennifer \(Cité Design\)
+* Nicolas \(Cité Design\)
+* Yoann \(POC Fondation\)
+* Antoine \(POC Fondation\)
+* Baptiste Open Sources\)
+* Claudine \(OuiShare\)
+* Rieul \(La M\[Y\]NE, LPS\)
+* Juliette \(A Propos / ENSCI\)
+* Ophélie \(Grand Halle\)
+* Antonin \(OuiShare\)
+* Nathanael \(BMGLabs\)
+* Nicolas \(Cellabz\)
 
-Jennifer \(Cité Design\)
+**Objectifs** \(de la Biennale\)
 
-Nicolas \(Cité Design\)
+* Valoriser Saint-Etienne.
+* Relancer le débat travail
 
-Yoann \(POC Fondation\)
+##### 1- Cette réunion a permis de faire le tour des référentiels de chacun. Petit aperçu
 
-Antoine \(POC Fondation\)
+**Cité du design**
 
-Baptiste Open Sources\)
+* Colloque avec intellectuels / industriels.  600-800 m2 pour le OuiShare Village.
+* La Cité peut démontrer ce qui se passe. Civic Design pensé avec les habitants.
 
-Claudine \(OuiShare\)
+**Nathanael**
 
-Rieul \(La M\[Y\]NE, LPS\)
+* Fil rouge : le 'travailler autrement' =&gt; conférence autour des nouvelles pratiques.
 
-Juliette \(A Propos / ENSCI\)
+**Antonin**
 
-Ophélie \(Grand Halle\)
+* OuiShare : Décrypter les émergences. Activistes, intellectuels
+* 2000 participants. 60% viennent de l’étranger. Grosse diversité.
+* Agit sur des formes d’organisation \(un peu\) plus horizontales
 
-Antonin \(OuiShare\)
+**Juliette**
 
-Nathanael \(BMGLabs\)
+* Diplomée de l'ENSCI. Collectif de designer A propos. Collectif d'artiste collectif Sinn. Créer des moments de cohésion. Ex. Occupation d'une école d'art ENSCI \(projet la Jaunisse\)
 
-Nicolas \(Cellabz\)
+**Baptiste**
 
-Objectifs \(de la Biennale\)
+* Re-fonctionnalisation des produits. Démarches de résilience.
+* Circuits très courts. D’autres méthodologies de conception.
+* Schémas de production collaborative. Traitement des flux.
+* Est intervenu à l’Ecole d’art et design de Valenciennes.
+* Expérience du site. Besoin colossal de bosser sur l’énergie.
+* Approche circulaire, qui créer de l’emploi sur / avec le territoire.
+* Analyse de cycle de vie de la biennale. Ecole des Mines SE.
 
-Valoriser Saint-Etienne.
+**Antoine**
 
-Relancer le débat travail
+* Tiers-lieux = concept académique. Services & conf. social.
+* Rattaché à Max Weber à Lyon 2. Soutenance en 2016
+* A construit l’objectif qu’il étudie. Sociologie contributive.
+* Le tiers n’est pas le troisième. C’est l’autre \(pas le 3e
+* 1/3 lieu : création de services. Manifestation de la critique.
+* Expérimentations foraines. Battaville \(Nancy\), Rennes.
 
-1- Cette réunion a permis de faire le tour des référentiels de chacun. Petit aperçu.
+**Ophélie**
 
-Cité du design
+* Référence à Patrick Bouchain, Université Foraine, Expo Univ. Venise 2006, reproduction sur sa propre initiative \(ils travaillent avec le collectif d'architecte fondé par P.Bouchain\).
 
-Colloque avec intellectuels / industriels.  600-800 m2 pour le OuiShare Village.
+##### 2- Cette réunion a clarifié ce qui faisait l'intérêt de certains \(avant de faire commun\)
 
-La Cité peut démontrer ce qui se passe. Civic Design pensé avec les habitants.
+* **Nathanaël** : colloque sur les bonnes pratiques pour travailler sur des véhicules concrets de travail locaux ; habitué à aller chercher des financements et à travailler avec des groupes.
+* **Rieul** : fluidifier les collaborations entre pairs \(académiques, makers, politiques, artistes\).
+* **Nicolas** : engagé sur le workshop de remix d'Open Factory \(TTC\). Souhaite travailler sur les usages effectifs des technologies blockchain \(dans le domaine de l'énergie avant tout\).
 
-Nathanael
 
-Fil rouge : le 'travailler autrement' =&gt; conférence autour des nouvelles pratiques.
-
-Antonin
-
-OuiShare : Décrypter les émergences. Activistes, intellectuels
-
-2000 participants. 60% viennent de l’étranger. Grosse diversité.
-
-Agit sur des formes d’organisation \(un peu\) plus horizontales
-
-Juliette
-
-Dîplomée de l'ENSCI. Collectif de designer A propos. Collectif d'artiste collectif Sinn. Créer des moments de cohésion. Ex. Occupation d'une école d'art ENSCI \(projet la Jaunisse\)
-
-Baptiste
-
-Re-fonctionnalisation des produits. Démarches de résilience.
-
-Circuits très courts. D’autres méthodologies de conception.
-
-Schémas de production collaborative. Traitement des flux.
-
-Est intervenu à l’Ecole d’art et design de Valenciennes.
-
-Expérience du site. Besoin colossal de bosser sur l’énergie.
-
-Approche circulaire, qui créer de l’emploi sur / avec le territoire.
-
-Analyse de cycle de vie de la biennale. Ecole des Mines SE.
-
-Antoine
-
-Tiers-lieux = concept académique. Services & conf. social.
-
-Rattaché à Max Weber à Lyon 2. Soutenance en 2016
-
-A construit l’objectif qu’il étudie. Sociologie contributive.
-
-Le tiers n’est pas le troisième. C’est l’autre \(pas le 3e\).
-
-1/3 lieu : création de services. Manifestation de la critique.
-
-Expérimentations foraines. Battaville \(Nancy\), Rennes.
-
-Ophélie
-
-Référence à Patrick Bouchain, Université Foraine, Expo Univ. Venise 2006, reproduction sur sa propre initiative \(ils travaillent avec le collectif d'architecte fondé par P.Bouchain\).
-
-2- Cette réunion a clarifié ce qui faisait l'intérêt de certains \(avant de faire commun\)
-
-Nathanaël : colloque sur les bonnes pratiques pour travailler sur des véhicules concrets de travail locaux ; habitué à aller chercher des financements et à travailler avec des groupes.
-
-Rieul : fluidifier les collaborations entre pairs \(académiques, makers, politiques, artistes\).
-
-Nicolas : engagé sur le workshop de remix d'Open Factory \(TTC\). Souhaite travailler sur les usages effectifs des technologies blockchain \(dans le domaine de l'énergie avant tout\).
 
