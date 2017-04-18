@@ -1,6 +1,6 @@
 # La promesse des Tiers-Lieux
 
-![](/assets/forktheworld_catalogue.jpg)
+![](/assets/forktheworld_entrance.jpg)
 
 On parle depuis 20 ans de l’entreprise libérée[^1], de structuration participative innovante au cœur de l’organisation du travail. Cette innovation a émergé depuis quelques années, non pas dans les entreprises mais au sein de Tiers-Lieux[^2], c’est à dire de lieux autogérés, indépendants, organisés autour de pratiques amateurs expertes, dont l’animation est réalisée par des concierges de quartier \(et non par des managers issus des écoles de commerce\) ; l’invention plutôt citoyenne que juste entrepreunariale !
 
