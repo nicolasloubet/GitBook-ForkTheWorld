@@ -2,15 +2,21 @@
 
 ## **0- Frigo d’OpenFactory**
 
+**Initiateurs** : anciens membres de l'association Le Garage. **Licence** : à préciser.
+
 Ce frigo appartenait au Garage, l’association étudiante de l’ESADE. Créée à l’initiative d’étudiants et de professeurs, elle s’était montée pour manifester son indignation face au choix de l’école de former les jeunes designers sur des logiciels propriétaires type la suite Adobe \(1700 €\) alors qu’il existe tout un tas d’outils libres type Gimp et Inskape.
 
 En 2013 l’association le Garage a été dissoute et les membres actifs ont intégré l’association OpenFactory42 qui est à l’initiative et gère aujourd’hui le FabLab du quartier Manufacture Plaine Achile de Saint-Étienne.
 
 Aujourd’hui, ce frigo et le canapé en cuir qui se trouve dans le makerspace d’OpenFactory sont donc les deux objets rescapés de cette aventure et sont devenus pour la communauté des objets totem qui ont une valeur plus pour leur symbolique \(un combat\) que leur fonction originelle \(refroidir et s'asseoir\).
 
+---
+
 ## **1- Table de dataviz Cairn **
 
-### Résumé
+**Initiateurs** : Pauline Gourlet et Thierry Dasse \(Carrefour Numérique\). **Licence** : à préciser_._
+
+Résumé
 
 **Un FabLab ne doit pas se réduire à une liste de machines**
 
@@ -108,70 +114,65 @@ Quand on arrive sur ces terrains-là, il s’agit de se dire. : "je ne sais pas 
 
 La posture des designers qui ne travaillent pas sur le terrain, dans des endroits où ils peuvent comprendre leurs usagers, m’interroge beaucoup. Pour moi, il y a une rupture importante qui se joue entre les designers qui conçoivent pour des usagers, et les designers qui sont juste des gens et qui conçoivent avec d’autres gens.
 
+---
 
+## **2- Blockchain Vaisselle - Pour une vaisselle propre et distribuée**
 
-**2- Blockchain Vaisselle - Pour une vaisselle propre et distribuée**
+**Initiateurs** : Thomas Thibault \(Collectif Bam\) & Blockchain France, 2016 **Licence** : CC BY 3.0 FR
 
-**  
-** Pour mieux comprendre le fonctionnement de la technologie blockchain et en faire comprendre son potentiel, le Collectif Bam a souhaité imaginer ce qu’elle serait si elle était physique. Aidé par Alexandre Stachtchenko de Blockchain France, nous avons imaginé son usage à travers une installation et un scénario qui parle à tous : la corvée de vaisselle.
+Résumé
 
+Pour mieux comprendre le fonctionnement de la technologie blockchain et en faire comprendre son potentiel, le Collectif Bam a souhaité imaginer ce qu’elle serait si elle était physique. Aidé par Alexandre Stachtchenko de Blockchain France, nous avons imaginé son usage à travers une installation et un scénario qui parle à tous : la corvée de vaisselle.
 
-
-Thomas Thibault \(Collectif Bam\) & Blockchain France – 2016 **Licence :** CC BY 3.0 FR
-
-
+Explication
 
 Léo, Jules, Marie et Elsa sont 4 frères et soeurs vivant dans la même maison. Comme dans beaucoup de familles, la corvée de vaisselle est un sujet propice à de nombreuses discordes. Entre celui qui prétend avoir effectué sa corvée plus souvent et celle qui a oublié son tour, le casse-tête est infini et la **confiance** n’existe plus. Le dilemme prend souvent fin par l’intervention autoritaire des parents.
 
-
-
 Pour résoudre ce problème le père a une idée. Il attribue à chacun des frères et soeurs une couleur de palet différente. Puis il construit un long tube transparent indestructible, qu’il fixe dans le sol de la maison pour accueillir ces palets à chaque tour de vais- selle réalisé.
-
-
 
 Pour éviter de **tricher**, l’accès au tube n’est possible qu’avec la **présence** d’au moins la majorité des frères et soeurs. En effet un couvercle sur le dessus est fermé par des serrures différentes dont chacun possède une clé.
 
 Il rappelle alors les 3 **règles** suivantes :
 
-- « Vous devez faire chacun votre tour la vaisselle » 
+* « Vous devez faire chacun votre tour la vaisselle »
 
-- « À chaque tour de vaisselle que vous réalisez, vous devez vous munir de votre palet et venir le placer en haut du tube » 
+* « À chaque tour de vaisselle que vous réalisez, vous devez vous munir de votre palet et venir le placer en haut du tube »
 
-- « Les autres frères et soeurs doivent ensuite valider le fait que la corvée ait bien été réalisée en ouvrant ensemble le couvercle grâce à leurs clés respectives ce qui a pour conséquence de faire tomber le palet de couleur à l’intérieur du tube. La majorité des clés suffit à faire tomber le palet. »
-
-
+* « Les autres frères et soeurs doivent ensuite valider le fait que la corvée ait bien été réalisée en ouvrant ensemble le couvercle grâce à leurs clés respectives ce qui a pour conséquence de faire tomber le palet de couleur à l’intérieur du tube. La majorité des clés suffit à faire tomber le palet. »
 
 Ainsi chacun peut **vérifier** la bonne réalisation des tâches ou savoir à qui est le prochain tour en jetant un oeil au tube. Il est ici impossible de **falsifier** le tube en essayant de venir récupérer de quelconque manière un palet déjà tombé à l’intérieur. Transparent, infalsifiable et indestructible, on pourrait dire de ce tube qu’il est en quelque sorte le tube de la vérité, acceptée par le consensus.
 
-
-
 Malheureusement ce principe fonctionne bien si l’honnêteté est de mise dans la maison. Mais si 2 ou 3 frères sont un jour de mauvaise foi, alors le palet ne sera pas validé!
 
+### Blockchain
 
-
-**La blockchain n’est en fait qu’une nouvelle forme de livre de compte. Pour comprendre la blockchain, il faut remonter un peu l’histoire du livre de compte.**
-
-
-
-Avant on consignait dans des livres de compte et une poignée de personnes validaient, inscrivaient et avaient accès à ce livre. Puis l'informatique a permis d'avoir ces livres de compte de manière numérique : les bases de données "classique". Par conséquent, un nombre un peu plus important de personnes valident, inscrivent et ont accès à la base de données qui est stockée sur un serveur central et sont aidées par des algorithmes.
-
-
+La blockchain n’est en fait qu’une nouvelle forme de livre de compte. Pour comprendre la blockchain, il faut remonter un peu l’histoire du livre de compte. Avant on consignait dans des livres de compte et une poignée de personnes validaient, inscrivaient et avaient accès à ce livre. Puis l'informatique a permis d'avoir ces livres de compte de manière numérique : les bases de données "classique". Par conséquent, un nombre un peu plus important de personnes valident, inscrivent et ont accès à la base de données qui est stockée sur un serveur central et sont aidées par des algorithmes.
 
 Enfin, la convergence de technologies permettant la modularité, la segmentation de l'information et son accès quasi permanent - du fait d'une connectivité permanente et accrue, l'augmentation des capacité de stockage des appareils, le développement de protocoles permettant les échanges pair-à-pair de plus en robuste, une automatisation toujours plus grande et apprenante \(intelligence artificielle\)... permet à ces registres, en les découpant en "blocs" liés les uns aux autres, d'être complètement distribués, accessible à tous de manière sécurisée et pseudonyme
 
-
-
-La technologie blockchain fonctionne selon le même principe que l’installation \#BlockchainVaiselle, mais en impliquant un nombre beaucoup plus important de participants.
-
-
-
-Le tube est en effet dématérialisé par le numérique et Internet, donnant ainsi l’accès à des milliers de personnes en même temps, instantanément et n’importe où dans le monde grâce au réseau. Les tâches, nommées transactions, sont mémorisées de manière transparente au sein d’un grand **registre**. L’ensemble des actions de vérification et de certification est automatisé grâce au numérique et aux technologies cryptographiques de la blockchain.
-
-
+La technologie blockchain fonctionne selon le même principe que l’installation \#BlockchainVaiselle, mais en impliquant un nombre beaucoup plus important de participants. Le tube est en effet dématérialisé par le numérique et Internet, donnant ainsi l’accès à des milliers de personnes en même temps, instantanément et n’importe où dans le monde grâce au réseau. Les tâches, nommées transactions, sont mémorisées de manière transparente au sein d’un grand **registre**. L’ensemble des actions de vérification et de certification est automatisé grâce au numérique et aux technologies cryptographiques de la blockchain.
 
 Ceux qui valident les blocs de la blockchain s’appellent des **mineurs.** Ces participants du réseau font fonctionner un logiciel sur leur ordinateur afin de vérifier l’authenticité et la validité des transactions soumises au réseau, puis résolvent un problème mathématique complexe pour prouver le travail accompli. Lors- qu’un mineur valide un bloc, il le soumet au réseau qui vérifie et accorde sur un nouvel état de consensus.
 
+Ainsi la technologie blockchain permet aujourd’hui de supprimer le besoin de confiance en automatisant les processus. “Les champs d’exploitation sont immenses : [banques](https://blockchainfrance.net/2016/03/01/quels-impacts-de-la-blockchain-sur-les-banques/),[assurance](https://blockchainfrance.net/2016/02/17/assurances-et-blockchain/),[immobilier](https://blockchainfrance.net/2016/03/03/des-cadastres-sur-la-blockchain),[santé](https://blockchainfrance.net/2016/03/02/la-blockchain-et-la-sante/),[énergie](https://blockchainfrance.net/2016/07/07/la-blockchain-pour-lenergie/),[transports](https://blockchainfrance.net/2016/03/19/arcade-city-le-uber-killer-de-la-blockchain/),[vote en ligne](https://blockchainfrance.net/2016/02/12/democratie-et-blockchain-le-cas-du-vote/)… Des blockchains pourraient remplacer la plupart des « tiers de confiance » centralisés par des systèmes informatiques distribués.
+
+---
+
+## **3- Plantoïd - Blockchain-based life-form**
+
+**Initiateurs** : Primavera de Filippi & le collectif Okhaos. **Licence** : à précisr
+
+En tant que chercheuse, Primavera de Filippi étudie l’impact des nouvelles technologies sur le système de droit. En tant qu’artiste, elle crée des œuvres qui ont vocation à illustrer sa recherche, et à en identifier les limites.
+
+Plantoïd est le résultat d’un désir de représenter, par un médium artistique, l’une des fonctionnalités les plus disruptives de la blockchain: la capacité qu’elle a de créer des **agents logiciels autonomes** qui sont à la fois indépendants et auto-suffisants, et qui ne sont donc contrôlés par personne.
+
+Après plusieurs mois de réflexion, Primavera de Filippi a réalisé que la meilleure façon d’illustrer cette fonctionnalité était de créer une nouvelle forme de vie autonome fondée sur la blockchain —une blockchain-based life-form. C’est ainsi que la première Plantoïd est née, sous la forme d’une fleur mécanique dont l’esprit réside sur la blockchain, qui se nourrit de Bitcoin et qui est capable de financer sa propre reproduction.
+
+La Plantoïd exposée est la numéro 5, née en 2016 suite à la reproduction de la Plantoïd numéro 3. La Plantoïd 3 vit actuellement à Hong Kong, après s’être envolée de Paris et à Sydney, pour une exposition au Powerhouse Museum. Elle est issue de la Plantoïd numéro 1, la première dans son genre. Chaque Plantoïd incorpore un code génétique qu’elle transmet à ces descendants. La Plantoïd 1 n’a que deux conditions: l’œuvre, ainsi que toutes les œuvres dérivées doivent être mis à disposition du public sous une licence Creative Commons BY-SA ; et toutes doivent être constituées d’une chaîne —d’où la blockchain. La Plantoïd 3 a ainsi repris ces caractéristiques, en y ajoutant un nouveau gène: que tous ses descendants aient des ailes. La Plantoïd 5, elle, n’ajoute comme condition que l’obligation pour tous ses descendants de fournir de la lumière.
+
+Comme toute forme de vie, la Plantoïd a vocation a se reproduire. Pour se faire, elle va séduire les humains et les inviter à lui envoyer des Bitcoin. Dès que la Plantoïd a accumulé suffisamment d’argent pour assurer sa reproduction \(2 Bitcoin dans le cas de la Plantoïd n.3\), elle va lancer un appel d’offre, en invitant des artistes, des designers, des ferrailleurs, des développeurs ou des électriciens à soumettre des propositions sur comment ils envisagent de créer la prochaine Plantoid. Évidemment, la Plantoid est incapable d’exprimer un jugement sur les qualités techniques et artistiques de ces propositions. Elle s’appuie ainsi sur des humains pour lui donner conseil. Tous ceux qui ont contribué au financement de la Plantoid peuvent participer \(de façon proportionnelle à leur contribution\) à la prise de décision sur quelle sera la proposition sélectionnée, et quelle sera donc la forme assumée par la nouvelle Plantoid.
+
+---
 
 
-Ainsi la technologie blockchain permet aujourd’hui de supprimer le besoin de confiance en automatisant les processus. “Les champs d’exploitation sont immenses :[banques](https://blockchainfrance.net/2016/03/01/quels-impacts-de-la-blockchain-sur-les-banques/),[assurance](https://blockchainfrance.net/2016/02/17/assurances-et-blockchain/),[immobilier](https://blockchainfrance.net/2016/03/03/des-cadastres-sur-la-blockchain),[santé](https://blockchainfrance.net/2016/03/02/la-blockchain-et-la-sante/),[énergie](https://blockchainfrance.net/2016/07/07/la-blockchain-pour-lenergie/),[transports](https://blockchainfrance.net/2016/03/19/arcade-city-le-uber-killer-de-la-blockchain/),[vote en ligne](https://blockchainfrance.net/2016/02/12/democratie-et-blockchain-le-cas-du-vote/)… De façon générale, des blockchains pourraient remplacer la plupart des « tiers de confiance » centralisés \(métiers de banques, notaires, cadastre,…\) par des systèmes informatiques distribués.”
 
