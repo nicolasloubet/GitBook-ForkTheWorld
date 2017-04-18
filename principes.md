@@ -1,4 +1,4 @@
-# Les propriétés des Tiers-Lieux
+# Comprendre les Tiers-Lieux
 
 Un des gros objectifs de la Biennale de Design était de "dévoiler" les processus Tiers-Lieux. Par suite, un travail - largement facilité par les designers du collectif RDC - a été de faire émerger les grandes propriétés communes à TOUS les Tiers-Lieux.  En voici une première version. Elle n'est pas figée et se destiné à être éprouvé empiriquement par / avec les acteurs intéressés.
 
