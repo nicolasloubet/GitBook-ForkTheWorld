@@ -55,7 +55,20 @@ Plusieurs problématiques ont émergé avec ce « retours des communs »
 
 ---
 
-Des licences pour faire commun
+## Des licences pour faire commun
+
+Les licences ont pour objectif de libérer une production \(matérielle ou immatérielle\). Pour ce faire, tel un contrat, elles intègrent et définissent les règles d’utilisation, de diffusion et de modification de l’œuvre ou la production en question entre son “auteur” et un “usager” \(ou contractant\). Elles font appel à deux notions fondamentales, questionnées au prisme des licences libres, que sont la **propriété** et **l’usage**.
+
+Au contraire du brevet ou du droit d’auteur, qui ont pour objectif de protéger une production \(qu’elle soit matérielle ou immatérielle\) de manière exclusive, la licence donne le droit de ne pas exclure l’usager de tout ou partie des champs d’usage d’une production. Un brevet peut faire l’objet d’une licence.
+
+&lt; Photo /&gt;
+
+Une licence libre s’applique à une production et par laquelle l’auteur concède tout ou une partie des droits, que lui confère par exemple le droit d'auteur, en laissant au minimum quatre droits considérés fondamentaux aux usagers : les **4 libertés**.
+
+* Liberté 0 : La liberté d'utiliser le logiciel, pour quelque usage que ce soit.
+* Liberté 1 : La liberté d'étudier le fonctionnement du programme, et de l'adapter à vos propres besoins. \(L'accès au code source est une condition pour tout ceci\).
+* Liberté 2 : La liberté de redistribuer des copies de façon à pouvoir aider votre voisin.
+* Liberté 3 : La liberté d'améliorer le programme, et de diffuser vos améliorations au public, de façon à ce que l'ensemble de la communauté en tire avantage. L'accès au code source est une condition pour tout ceci.
 
 [^1]: D’après l’article écrit par Lionel Maurel, 14 juin 2014. Du brevet comme arme de guerre au don comme acte de paix
 
