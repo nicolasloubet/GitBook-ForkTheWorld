@@ -4,7 +4,6 @@
 * [Expérience Fork The World](chapter1.md)
   * [Documentation](chapter1/les-sources-de-lexperience.md)
   * [Coordination](chapter1/coordination.md)
-  * [Projets exposés](projets.md)
 * [Découvrir les Tiers-Lieux](decouvrir-les-tiers-lieux.md)
   * [Promesse des Tiers-Lieux](chapter1/la-promesse.md)
   * [Origines des Tiers-Lieux](chapter1/les-origines.md)
@@ -30,5 +29,4 @@
   * [Vincent Prieur](talents-des-tiers-lieux/vincent-prieur.md)
   * [Baptiste Ridoux](talents-des-tiers-lieux/baptiste-ridoux.md)
   * [Mélia Villard ](talents-des-tiers-lieux/melia-villard.md)
-* [Ceci est un test](ceci-est-un-test.md)
 
