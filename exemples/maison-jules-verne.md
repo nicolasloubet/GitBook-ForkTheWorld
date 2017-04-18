@@ -33,5 +33,45 @@ En 2016, Claude Vial, Maire de la commune d’Aurec-sur-Loire située dans le [d
 
 * **Usages** : Espace de coworking et coliving, matériauthèque, récupérathèque, GiveBox, ferme urbaine et ateliers lowtech partagé, Poulailler connecté, hackerhouse, hacklab.
 
+* **Spécificité** : Tiers Lieux rural devenant par l’usage une extension de Tiers Lieux urbains comme OpenFactory et la MYNE sur le volet filière d’approvisionnement en matériaux de seconde vie. &gt; captation, ré-utilisation ou démantèlement, stockage et commercialisation.
+
+**Le tiers-lieu, un poison et un remède ? un pharmakon ?**
+
+En mettant en place ce principe d’entente réciproque et en utilisant uniquement des matériaux récupéré localement, la rénovation a pu se faire à très bas coût.
+
+
+
+La première année d’expérimentation a été dédiée à consacrer une communauté d’usagers autour de trois espaces :
+
+
+
+●L'école des Robinsonsn : La maison ou l'on pratique[le coworking](http://movilab.org/index.php?title=Le_coworking) et l'habitat partagé dans un cercle privé \(Individus\)
+
+●[Le Nautilus](http://movilab.org/index.php?title=Le_Nautilus) : l'atelier ou l'on partage nos outils et notre[imprimante 3D](http://movilab.org/index.php?title=RepRap_Mondrian) dans un cercle collectif \(Groupe\)
+
+●[L'île mystérieuse](http://movilab.org/index.php?title=L%27%C3%AEle_myst%C3%A9rieuse) : le jardin ou l'on partage nos végétaux, nos matières 1ère et nos outils dans un cercle public \(Communauté\)
+
+
+
+En déployant différents service sur le territoire \(espace de coworking et coliving, matériauthèque, récupérathèque, GiveBox, ferme urbaine et ateliers lowtech partagé, poulailler connecté, hackerhouse, hacklab\), ce tiers-lieu rural a pour vocation à :
+
+
+
+●[Réinventer les médiations numériques](http://movilab.org/index.php?title=R%C3%A9inventer_les_m%C3%A9diations_num%C3%A9riques)
+
+●Identifier, concevoir et proposer de nouveaux services d'intérêt général
+
+●Développer de la "capacitation citoyenne" dans l'organisation de la cité
+
+●Entretenir de l'autonomie et de la solidarité entre les acteurs du territoire
+
+●Sécuriser la zone par l'occupation des lieux
+
+●[Des événements locaux et internationaux](http://movilab.org/index.php?title=Cat%C3%A9gorie:%C3%89v%C3%A9nements)
+
+
+
+Par l’usage, la Maison Jules Verne est devenue une extension de tiers-lieux urbains comme OpenFactory à Saint-Étienne ou la Myne à Lyon sur le volet filière d’approvisionnement en matériaux de seconde vie \(captation, ré-utilisation ou démantèlement, stockage et commercialisation\).
+
 
 
