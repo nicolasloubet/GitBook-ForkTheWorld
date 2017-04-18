@@ -70,5 +70,3 @@ Ceci nécessite donc un démarche de documentation sourcée qui doit être à la
 <img src="https://framapic.org/wsviBPRTPCOL/jPgJ0UnAXhly.png?/>
 </p>
 
-[^1]: Lettre de Mikhaïl kalachnikov rédigée pour excuser son absence d’un invitation à Saint-Etienne en 2005  au vernissage de l’exposition - _Bang-Bang!  trafic d’armes de Saint-Etienne à Sète_ - au Musée d’Art et d’Industrie
-
