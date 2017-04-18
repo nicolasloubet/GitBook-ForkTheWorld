@@ -1,6 +1,6 @@
 # Les valeurs des Tiers-Lieux
 
-Le **Manifeste des Tiers-Lieux** \([Movilab](http://movilab.org/index.php?title=Le_manifeste_des_Tiers_Lieux)\) est une oeuvre collective qui vise à améliorer la compréhension de la dynamique des Tiers-Lieux de manière à diffuser ses valeurs et à démultiplier son impact sur la société. En voici le **résumé en 10 valeurs**.
+Le **Manifeste**[^1] **des Tiers-Lieux** \([Movilab](http://movilab.org/index.php?title=Le_manifeste_des_Tiers_Lieux)\) est une oeuvre collective qui vise à améliorer la compréhension de la dynamique des Tiers-Lieux de manière à diffuser ses valeurs et à démultiplier son impact sur la société. En voici le **résumé en 10 valeurs**.
 
 # 1- Collectif
 
@@ -81,4 +81,6 @@ Les modèles de financement des Tiers-Lieux se développent entre économie trad
 Le Tiers-Lieu est un processus exploratoire de valeurs à l’échelle humaine, sociétale et économique qui vise à devenir un élément central du fonctionnement de la cité.
 
 **Les Tiers Lieux, faites le\(s\) vous même !**
+
+[^1]: Ce manifeste s'inscrit dans un ensemble plus vaste. Voir notamment : http://notesondesign.org/biens-communs-genealogie-des-manifestes/
 
