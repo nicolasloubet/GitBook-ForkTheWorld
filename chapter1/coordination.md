@@ -1,6 +1,6 @@
 # Coordination
 
-# 
+Cette page est une tentative de récit du processus de co-conception / co-fabrication de l'expérience Fork The World. Elle ne prétend pas TOUT restituer en détail. Elle donne surtout à voir les principales étapes \(et difficultés surmontées\) du processus. 
 
 # \#16 \(04/04/2017\)
 
