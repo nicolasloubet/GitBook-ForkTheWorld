@@ -2,7 +2,7 @@
 
 ## Le tiers-lieu permet la rencontre d’une communauté
 
-Mikhaïl Kalachnikov aurait préféré concevoir des machines agricoles plutôt que la mitraillette qui l’a rendu célèbre. Il a d’ailleurs conçu les plans de celle-ci dans son lit d’hôpital, lorsqu’il s’est retrouvé blessé pendant la guerre. La Russie soviétique excluant toute forme de propriété intellectuelle, il n’a jamais pu exploiter son œuvre à titre individuel. Il se disculpe d’ailleurs entièrement des conséquences de son invention. Sa **responsabilité** n’est pas engagée, ce sont les hommes politiques qui ont **industrialisé** son œuvre. 
+Mikhaïl Kalachnikov aurait préféré concevoir des machines agricoles plutôt que la mitraillette qui l’a rendu célèbre. Il a d’ailleurs conçu les plans de celle-ci dans son lit d’hôpital, lorsqu’il s’est retrouvé blessé pendant la guerre. La Russie soviétique excluant toute forme de propriété intellectuelle, il n’a jamais pu exploiter son œuvre à titre individuel. Il se disculpe d’ailleurs entièrement des conséquences de son invention. Sa **responsabilité** n’est pas engagée, ce sont les hommes politiques qui ont **industrialisé** son œuvre.
 
 > J'ai créé cette arme pour la défense des frontières de ma patrie. Ce n'est pas la faute de son constructeur si cette arme est utilisée à d'autres fins. Seuls les hommes politiques en sont coupables.
 
@@ -65,7 +65,6 @@ Par ailleurs les démarches de recherche, qu’elles soient scientifiques, techn
 Les pratiques de la recherche se veulent quant à elles contemporaines de l’open-source, des communs et du fork. En effet, dans une perspective de confirmation des résultats de recherche, il s’agit dans un cadre de recherche de décrire précisément les protocoles, expériences, hypothèses et résultats obtenus afin que ceux-ci puissent être reproduits et validés \(ou non\).
 
 Ceci nécessite donc un démarche de documentation sourcée qui doit être à la disposition des pairs, ouverte et auditable. Si d’aventure, sur la base de ces recherches, d’autres hypothèses sont formulées et d’autres résultats émergent et orientent les axes de recherche vers d’autres horizons, alors une branche se forme \(le fork\). Ainsi, la démarche de recherche scientifique constitue un cadre préalable d’inspiration aux pratiques de tiers-lieux.
-
 
 
 
