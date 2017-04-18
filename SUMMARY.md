@@ -1,13 +1,12 @@
 # Summary
 
 * [Bienvenue](README.md)
-* [Fork The World](chapter1/fork-the-world.md)
-* [Introduction](chapter1.md)
+* [Expérience Fork The World](chapter1.md)
   * [La promesse des Tiers-Lieux](chapter1/la-promesse.md)
   * [Les origines des Tiers-Lieux](chapter1/les-origines.md)
   * [Les valeurs des Tiers-Lieux](chapter1/les-valeurs.md)
   * [Les ouvrages des Tiers-Lieux](chapter1/les-ouvrages.md)
-* [Tiers-Lieux](principes.md)
+* [Propriétés Tiers-Lieux](principes.md)
   * [Configuration sociale](principes/configuration-sociale.md)
   * [Patrimoine commun](principes/patrimoine-commun.md)
   * [Libre appropriation](libre-appropriation.md)
