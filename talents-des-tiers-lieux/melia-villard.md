@@ -1,4 +1,4 @@
-# **Mélia Villard : **_**le Tiers-Lieu pour répondre au besoin de transmission**_
+# **Mélia Villard : le Tiers-Lieu pour répondre au besoin de transmission**
 
 Mélia Villard est une membre active de la MYNE et d’autres tiers-lieux lyonnais et associés, mais aussi de l’éducation, de l’inclusion, de la collaboration, de l’expérimentation, et de la vie en général. Son interview a été réalisée pour la Biennale de Design de Saint-Etienne le 05 Février 2017 par Sylvia Fredriksson et Aurélien Marty.
 

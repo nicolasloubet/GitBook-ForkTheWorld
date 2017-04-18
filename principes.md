@@ -1,4 +1,4 @@
-# Propriétés
+# Vers une codification des Tiers-Lieux
 
 Dans l'exposition ForkTheWorld initiée sur la Biennale de Design, les Tiers-Lieux sont considérés au travers de 5 propriétés :
 
