@@ -32,7 +32,20 @@ Cette vision se heurte à la position de certains acteurs publics. Ils sacralise
 
 **Bruno Vitasse**, co-fondateur de Zone-AH!, initiateur de ZéBU \(Janvier 2017\)
 
- 
+---
+
+## La résilience pour s'adapter au changement climatique
+
+Voici une approche par la résilience qui a été développée dans le cadre de la mise en place d’une politique d’adaptation aux changements climatiques. Les six principes de la résilience qui y sont définis sont :
+
+* **Homéostasie** : des boucles multiples de rétroaction pour contrer les perturbations et stabiliser le système ; l'homéostasie est la capacité que peut avoir un système quelconque à conserver son équilibre de fonctionnement en dépit des contraintes qui lui sont extérieures.
+* **Omnivore** : la vulnérabilité est réduite par la diversification des ressources et des moyens ; comme dans la nature l'ultra spécialisation entame les potentiels de survie.
+* **Flux rapides** : des mouvements des ressources rapides à travers le système assurent la mobilisation de ces ressources pour faire face aux perturbations.
+* **Niveaux hiérarchiques faibles** : afin de mettre en œuvre rapidement des réponses très locales non standard. Comme chez nos amis les fourmis ou les rats.
+* **Capacité tampon** : capacités centrales sur-dimensionnées de telle sorte que les seuils critiques soient moins susceptibles d’être franchis. C'est ce qui est à l’œuvre dans les végétaux du désert et leur capacité interne en eau.
+* **Redondance** : les fonctions se chevauchent, et un relais peut ainsi être assuré si certaines échouen. Les espèces d’animaux redondantes sont celles qui exercent la même fonction au sein de l’écosystème. Comme les vautours et les hyènes dont les fonctions de découpage des animaux morts sont une m^me fonction pour deux espèces.
+
+Proposé par **Xavier Coadic,** co-initiateur du Biome. Source : [Wardekker J. et al. \(2010\) “Operationalising a resilience approach to adapting an urban delta to uncertain climate changes”, Technological Forecasting and Social Change](http://www.nusap.net/downloads/Wardekker_ea_2010_TFS.pdf)
 
 [^1]: **Jean Haëntjens**. _Le Pouvoir des villes_, Ed. de L’Aube, 2008
 
