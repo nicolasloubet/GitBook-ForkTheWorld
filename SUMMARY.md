@@ -19,10 +19,10 @@
   * [Ouagalab \(Ougadougou\)](exemples/ouagalab-ougadougou.md)
 * [Talents des Tiers-Lieux](talents-des-tiers-lieux.md)
   * [Vincent Prieur](talents-des-tiers-lieux/vincent-prieur.md)
-  * Béatrice David 
-  * Alexandre Del Perugia 
+  * [Béatrice David ](talents-des-tiers-lieux/beatrice-david.md)
+  * [Alexandre Del Perugia ](talents-des-tiers-lieux/alexandre-del-perugia.md)
   * Mélia Villard 
   * Lionel Maurel 
-* [Projets de\(s\) Tiers-Lieux](projets.md)
+* [Projets de Tiers-Lieux](projets.md)
 * [Lexique des Tiers-Lieux](lexique.md)
 
