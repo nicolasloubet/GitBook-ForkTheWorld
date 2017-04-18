@@ -2,7 +2,11 @@
 
 ## Le tiers-lieu permet la rencontre d’une communauté
 
-Mikhaïl Kalachnikov aurait préféré concevoir des machines agricoles plutôt que la mitraillette qui l’a rendu célèbre. Il a d’ailleurs conçu les plans de celle-ci dans son lit d’hôpital, lorsqu’il s’est retrouvé blessé pendant la guerre. La Russie soviétique excluant toute forme de propriété intellectuelle, il n’a jamais pu exploiter son œuvre à titre individuel. Il se disculpe d’ailleurs entièrement des conséquences de son invention. Sa **responsabilité** n’est pas engagée, ce sont les hommes politiques qui ont **industrialisé** son œuvre : "_J'ai créé cette arme pour la défense des frontières de ma patrie. Ce n'est pas la faute de son constructeur si cette arme est utilisée à d'autres fins. Seuls les hommes politiques en sont coupables_.[^1]"
+Mikhaïl Kalachnikov aurait préféré concevoir des machines agricoles plutôt que la mitraillette qui l’a rendu célèbre. Il a d’ailleurs conçu les plans de celle-ci dans son lit d’hôpital, lorsqu’il s’est retrouvé blessé pendant la guerre. La Russie soviétique excluant toute forme de propriété intellectuelle, il n’a jamais pu exploiter son œuvre à titre individuel. Il se disculpe d’ailleurs entièrement des conséquences de son invention. Sa **responsabilité** n’est pas engagée, ce sont les hommes politiques qui ont **industrialisé** son œuvre. 
+
+> J'ai créé cette arme pour la défense des frontières de ma patrie. Ce n'est pas la faute de son constructeur si cette arme est utilisée à d'autres fins. Seuls les hommes politiques en sont coupables.
+
+**Mikhaïl kalachnikov**, lettre rédigée pour excuser son absence d’un invitation à Saint-Etienne en 2005  au vernissage de l’exposition - _Bang-Bang!  trafic d’armes de Saint-Etienne à Sète_ - au Musée d’Art et d’Industrie
 
 Projetons-nous dans la situation où une « arme miracle » de même type et de même ambivalence aurait été conçue dans un tiers-lieu. Jeu d’esprit ou anticipation car il s’agit d’un fait probable et totalement immaîtrisable. C’est d’ailleurs certainement d’ores et déjà le cas. Sous quel format et à quel moment Mikhaïl aurait-il dès lors présenté son travail à la communauté du tiers-lieu ? Sous quelle licence aurait-il partagé sa documentation ? Comment Mikhaï aurait-il argumenté, démontré, détaillé sa perspective ? Comment aurait-il rendu compréhensible, simplifié, et éventuellement transformé le point de vue de ses interlocuteurs ? Comment aurait-il intégré progressivement les diverses perspectives sur sa conception ? Le travail de Mikhaï aurait-il entraîné une appropriation collective ? Comment cela aurait-il influé sur le design de la mitraillette ? Comment Mikhaï aurait-il envisagé d’en faire l’exploitation ? La communauté du tiers-lieu aurait-elle été en désaccord avec lui ? Comment se serait-il préparé socialement et comment aurait-il réagi à possibilité d’une libre appropriation de son œuvre? Et, sachant cela et les risques qu’il pourrait encourir, quel système de contrôle aurait-il généré ? Aurait-il tenté de standardiser son usage ou son économie en fonction de critères éthiques qu’il aurait lui-même définis ? Que la communauté du tiers-lieu aurait définis avec lui ?
 
@@ -65,8 +69,6 @@ Ceci nécessite donc un démarche de documentation sourcée qui doit être à la
 <p align="center">
 <img src="https://framapic.org/wsviBPRTPCOL/jPgJ0UnAXhly.png?/>
 </p>
-
----
 
 [^1]: Lettre de Mikhaïl kalachnikov rédigée pour excuser son absence d’un invitation à Saint-Etienne en 2005  au vernissage de l’exposition - _Bang-Bang!  trafic d’armes de Saint-Etienne à Sète_ - au Musée d’Art et d’Industrie
 
