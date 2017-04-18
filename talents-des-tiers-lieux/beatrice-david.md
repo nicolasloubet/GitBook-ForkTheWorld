@@ -1,4 +1,4 @@
-# Béatrice David : _le Tiers-Lieu pour répondre au besoin de formation / d’apprentissage_
+# Béatrice David : _le Tiers-Lieu pour répondre au besoin d’apprentissage_
 
 Béatrice David est consultante dans le secteur du numérique, ancienne directrice de Silicon Banlieue. Son interview a été réalisée pour la Biennale de Design de Saint-Etienne le 04 Février 2017 par Sylvia Fredriksson et Aurélien Marty.
 
