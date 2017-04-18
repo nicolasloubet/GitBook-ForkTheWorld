@@ -1,6 +1,6 @@
-# Documentation
+# Code Source
 
-Cette page est une réponse à la question "**mais où est la documentation de Fork The World ?**" Ça n'est pas encore "parfait"... mais c'est un début. La suite est/sera à co-construire avec les "jardinier.e.s" motivé.e.s par l'expérience de pérennisation.
+Cette page est une réponse à la question "**mais où est donc la documentation de l'expérience Fork The World ?**" C'est loin de convenir aux attentes des libristes les plus chevronés... mais c'est un modeste début. Et toute contribution sera appréciée :\)
 
 # 0- Origines
 
