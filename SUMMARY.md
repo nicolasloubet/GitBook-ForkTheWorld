@@ -6,6 +6,7 @@
   * [Les origines des Tiers-Lieux](chapter1/les-origines.md)
   * [Les valeurs des Tiers-Lieux](chapter1/les-valeurs.md)
   * [Les ouvrages des Tiers-Lieux](chapter1/les-ouvrages.md)
+  * [Catalogue des ressources](chapter1/les-sources-de-lexperience.md)
 * [Propriétés des Tiers-Lieux](principes.md)
   * [Configuration sociale](principes/configuration-sociale.md)
   * [Patrimoine commun](principes/patrimoine-commun.md)
