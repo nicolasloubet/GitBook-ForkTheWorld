@@ -1,6 +1,6 @@
 # Oeuvres
 
-Cette section compile la totalité des oeuvres/démarches présentées sur le temps de la Biennale de Design de Saint-Etienne. 
+Cette section compile la totalité des oeuvres/démarches présentées sur le temps de la Biennale de Design de Saint-Etienne.
 
 _NB : il manque  un certain nombre d'éléments \(photographies des objets, licences juridiques et documentation le cas échéant\)._
 
@@ -182,7 +182,11 @@ Comme toute forme de vie, la Plantoïd a vocation a se reproduire. Pour se faire
 
 **Initiateurs** : R. Técher, S. Rabaaoui, L. Villard, P. Flipo, N. Loubet, C. Epie, X. Lavayssière, A. Omerin, Alizée Gérard \(…\) **Licences** : CC-BY-NC-SA pour la documentation ; GPL3 pour le code.
 
-DAISEE est un commun co-produit par la MYNE \(tiers-lieu basé à Lyon\) et CELLABZ \(« organisme » d’acculturation aux technologies émergentes\). Ce commun mobilise l’intervention d’organisations \(‘communautés'\) qui se reconnaissent d’un objectif de transition de société et de **réappropriation des systèmes**. DAISEE doit permettre à tout usager d’échanger ou acheter de l’électricité directement à des pairs, dans son voisinage, qui en produisent en surplus. Il s'agit d'hybrider différentes technologies qui garantissent la distribution, la transparence, l’intégrité et l’inviolabilité de l’information ainsi que des pratiques de travail ou d'organisation. Les technologies blockchain au centre de cette expérimentation, bien plus comme philosophie que comme technologie, permettent de penser les systèmes différemment mais aussi des modes de co-production du commun.\*\*
+DAISEE est un commun co-produit par la MYNE \(tiers-lieu basé à Lyon\) et CELLABZ \(« organisme » d’acculturation aux technologies émergentes\). Ce commun mobilise l’intervention d’organisations \(‘communautés'\) qui se reconnaissent d’un objectif de transition de société et de **réappropriation des systèmes**. DAISEE doit permettre à tout usager d’échanger ou acheter de l’électricité directement à des pairs, dans son voisinage, qui en produisent en surplus. Il s'agit d'hybrider différentes technologies qui garantissent la distribution, la transparence, l’intégrité et l’inviolabilité de l’information ainsi que des pratiques de travail ou d'organisation. Les technologies blockchain au centre de cette expérimentation, bien plus comme philosophie que comme technologie, permettent de penser les systèmes différemment mais aussi des modes de co-production du commun.
 
+**5- Vélo du concierge **
 
+Initiateur : Abel Ary. Licence : à préciser. 
+
+Dispositif conçu et réalisé dans le cadre d’Open City Lab \(23 au 29 Janvier 2017\) pour L’Expérience Tiers-Lieux Fork The World.
 
