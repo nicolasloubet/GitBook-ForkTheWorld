@@ -3,7 +3,6 @@
 * [Bienvenue](README.md)
 * [Expérience Fork The World](chapter1.md)
   * [Documentation](chapter1/les-sources-de-lexperience.md)
-  * [Coordination](chapter1/coordination.md)
 * [Découvrir les Tiers-Lieux](decouvrir-les-tiers-lieux.md)
   * [Promesse des Tiers-Lieux](chapter1/la-promesse.md)
   * [Origines des Tiers-Lieux](chapter1/les-origines.md)
