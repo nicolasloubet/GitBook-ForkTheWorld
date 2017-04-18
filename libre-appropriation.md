@@ -62,9 +62,9 @@ Les pratiques de la recherche se veulent quant à elles contemporaines de l’op
 
 Ceci nécessite donc un démarche de documentation sourcée qui doit être à la disposition des pairs, ouverte et auditable. Si d’aventure, sur la base de ces recherches, d’autres hypothèses sont formulées et d’autres résultats émergent et orientent les axes de recherche vers d’autres horizons, alors une branche se forme \(le fork\). Ainsi, la démarche de recherche scientifique constitue un cadre préalable d’inspiration aux pratiques de tiers-lieux.
 
-
-
-
+<p align="center">
+  <img src="https://framapic.org/wsviBPRTPCOL/jPgJ0UnAXhly.png?raw=true />
+</p>
 
 [^1]: Lettre du constructueur de la Kalach \(Mikhaïl kalachnikov\) rédigé pour excuser son absence d’un invitation à Saint-Etienne en 2005  au vernissage de l’exposition - _Bang-Bang!  trafic d’armes de Saint-Etienne à Sète_ - au Musée d’Art et d’Industrie
 
