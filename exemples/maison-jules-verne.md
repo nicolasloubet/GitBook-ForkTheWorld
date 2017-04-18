@@ -17,9 +17,9 @@
 
 > Le déchet, encore un bien commun ?
 
-**Yoann Duriaux **lors du WikiStage Lyon \(07 Octobre 2015\)
+**Yoann Duriaux**, lors du WikiStage Lyon \(07 Octobre 2015\)
 
-En 2016, Claude Vial, Maire de la commune d’Aurec-sur-Loire située dans le[département](https://fr.wikipedia.org/wiki/Département_français) de la[Haute-Loire](https://fr.wikipedia.org/wiki/Haute-Loire), met à disposition à titre gracieux une maison et son jardin au profit de la communauté ShareAurec via un bail de un an reconductible et en contrepartie de la remise en état de l'habitation. Baptisée Maison Jules Vernes, ce projet a pour ambition principale est de rendre visible, lisible et accessible[la 3ème révolution industrielle](https://fr.wikipedia.org/wiki/Troisième_révolution_industrielle) annoncée et rendu possible par le développement des objets connectés, de l'intelligence artificielle, de la robotique et plus globalement des technologies numériques.
+En 2016, Claude Vial, Maire de la commune d’Aurec-sur-Loire située dans le [département](https://fr.wikipedia.org/wiki/Département_français) de la [Haute-Loire](https://fr.wikipedia.org/wiki/Haute-Loire), met à disposition à titre gracieux une maison et son jardin au profit de la communauté ShareAurec via un bail de un an reconductible et en contrepartie de la remise en état de l'habitation. Baptisée Maison Jules Vernes, ce projet a pour ambition principale est de rendre visible, lisible et accessible [la 3ème révolution industrielle](https://fr.wikipedia.org/wiki/Troisième_révolution_industrielle) annoncée et rendu possible par le développement des objets connectés, de l'intelligence artificielle, de la robotique et plus globalement des technologies numériques.
 
 * **Contexte** : Volonté du Maire de faire évoluer le château de la commune vers un Tiers-Lieux orienté FabLab et bureaux partagés/coworking en zone rurale \(5500 habitants\)
 
