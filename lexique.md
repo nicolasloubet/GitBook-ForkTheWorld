@@ -222,17 +222,13 @@ _**Vincent Calame**, codeur et militant \(_[_5 Septembre 2013_](http://notesonde
 
 ---
 
-# Manifeste
+# \#Manifeste
 
-Je pense qu’il est important d’avoir des textes auxquels se référer pour construire une culture commune et un cadre où chacun puisse s’exprimer à partir du même référentiel. Par exemple, les libertés du logiciel libre décrites dans les conférences deRichard Stallmanconstituent pour moi un corpus de références qui permet de fixer des idées. Cependant, je pense que le temps des manifestes est fini \(…\). Il est important d’en avoir fait et le corpus doctrinal existe dorénavant mais à trop en faire on risque de tomber dans de la politique à l’ancienne, dans des déclarations d’intentions qui ne sont pas suivies de faits \(…\) L’engagement écrit ne suffit pas. Il est important d’agir, au-delà des manifestes.
+> Je pense qu’il est important d’avoir des textes auxquels se référer pour construire une culture commune et un cadre où chacun puisse s’exprimer à partir du même référentiel. Par exemple, les libertés du logiciel libre décrites dans les conférences deRichard Stallman constituent pour moi un corpus de références qui permet de fixer des idées. Cependant, je pense que le temps des manifestes est fini \(…\). Il est important d’en avoir fait et le corpus doctrinal existe dorénavant mais à trop en faire on risque de tomber dans de la politique à l’ancienne, dans des déclarations d’intentions qui ne sont pas suivies de faits \(…\) L’engagement écrit ne suffit pas. Il est important d’agir, au-delà des manifestes.
 
+**Adrienne Alix**, militante \([20 Août 2013](http://notesondesign.org/adrienne-alix/)\)
 
-
-Adrienne Alix
-
-
-
-Pour aller plus loin: http://notesondesign.org/biens-communs-genealogie-des-manifestes/
+---
 
 # **\#Outils**
 
