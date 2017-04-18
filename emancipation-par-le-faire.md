@@ -1,8 +1,8 @@
-# Emancipation par le faire
+# Émancipation par le faire
 
 ## L'émancipation, ou le choix de se prendre en charge
 
-En 1968, [Stewart Brand](https://fr.wikipedia.org/wiki/Stewart_Brand) publie le premier numéro du [Whole Earth Catalog,](https://fr.wikipedia.org/wiki/Catalogue_d'offres_et_de_produits)  prônant le [Do It Yourself](https://fr.wikipedia.org/wiki/Do_it_yourself) et proposant à la vente toutes sortes de produits \(vêtements, livres, outils, machines, graines\) utiles à un style de vie créatif et autosuffisant.
+En 1968, [Stewart Brand](https://fr.wikipedia.org/wiki/Stewart_Brand) publie le premier numéro du \[Whole Earth Catalog,\]\([https://fr.wikipedia.org/wiki/Catalogue\_d'offres\_et\_de\_produits](https://fr.wikipedia.org/wiki/Catalogue_d'offres_et_de_produits)\)  prônant le [Do It Yourself](https://fr.wikipedia.org/wiki/Do_it_yourself) et proposant à la vente toutes sortes de produits \(vêtements, livres, outils, machines, graines\) utiles à un style de vie créatif et autosuffisant.
 
 Dans un contexte de guerre au Vietnam, de paternalisme, de technoscience, de sexisme, de culte de la grande entreprise et de la société de consommation, la contre-culture américaine a porté très haut l’utopie d’une société émancipée des disciplines fordistes de l’après-guerre. Pour toute une frange de la contre-culture américaine, qui mettait l'accent sur la transformation personnelle et l'expérience communautaire comme méthodes d’émancipation, le Whole EarthCatalog incarna l’outil de libération individuelle portant les idéaux d’un changement radical de société.
 
@@ -47,4 +47,6 @@ Dans un contexte de recherche d’efficacité de la dépense publique, le Pôle 
 Il est nécessaire de repenser l’allocation d’une partie des 10 Milliards d’euros du plan « Agriculture et Innovation 2025 » : même si les nouvelles technologies numériques, robotiques ou les biotechnologies apparaissent comme des investissements financiers intéressants à moyen terme, elles ne constituent pas pour autant une réponse aux problématiques agricoles du XXIème siècle. De ce fait, elles ne peuvent légitimement pas capter l’ensemble de l’enveloppe destinée au développement de l’agriculture pour ces 10 prochaines années. Il est nécessaire d’appuyer les structures de développement rural, réseau InPACT et ONVAR compris, qui portent une méthodologie efficace d’accompagnement à l’innovation et à l’émergence de solutions technologiquement et socialement novatrices dans les territoires français.
 
 Près de 10% des agriculteurs sont représentés par le Pôle InPACT. Ces agriculteurs et leurs organisations souhaitent, dans un esprit d’ouverture à la société civile, que leurs initiatives - pour une meilleure intégration de l’intérêt général dans la conception et la diffusion des agroéquipements, c’est-à-dire une souveraineté technologique adaptée à la transition agroécologique et à la pérennité des structures socio-économiques agricoles qu’elles incarnent - soient prises en considération par les organisations étatiques qui les représentent démocratiquement.
+
+
 
