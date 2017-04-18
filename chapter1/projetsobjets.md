@@ -10,7 +10,7 @@ Aujourd’hui, ce frigo et le canapé en cuir qui se trouve dans le makerspace d
 
 ## **1- Table de dataviz Cairn **
 
-### Résumé 
+### Résumé
 
 **Un FabLab ne doit pas se réduire à une liste de machines**
 
@@ -106,7 +106,72 @@ Mais je ne suis pas sûre qu’il faille réellement essayer d’identifier ce q
 
 Quand on arrive sur ces terrains-là, il s’agit de se dire. : "je ne sais pas tout. Je vais aussi beaucoup apprendre de la relation avec l’autre."
 
-La posture des designers qui ne travaillent pas sur le terrain, dans des endroits où ils peuvent comprendre leurs usagers, m’interroge beaucoup. Pour moi, il y a une rupture importante qui se joue entre les designers qui conçoivent pour des usagers, et les designers qui sont juste des gens et qui conçoivent avec d’autres gens. 
+La posture des designers qui ne travaillent pas sur le terrain, dans des endroits où ils peuvent comprendre leurs usagers, m’interroge beaucoup. Pour moi, il y a une rupture importante qui se joue entre les designers qui conçoivent pour des usagers, et les designers qui sont juste des gens et qui conçoivent avec d’autres gens.
 
 
+
+**2- Blockchain Vaisselle - Pour une vaisselle propre et distribuée**
+
+**  
+** Pour mieux comprendre le fonctionnement de la technologie blockchain et en faire comprendre son potentiel, le Collectif Bam a souhaité imaginer ce qu’elle serait si elle était physique. Aidé par Alexandre Stachtchenko de Blockchain France, nous avons imaginé son usage à travers une installation et un scénario qui parle à tous : la corvée de vaisselle.
+
+
+
+Thomas Thibault \(Collectif Bam\) & Blockchain France – 2016 **Licence :** CC BY 3.0 FR
+
+
+
+Léo, Jules, Marie et Elsa sont 4 frères et soeurs vivant dans la même maison. Comme dans beaucoup de familles, la corvée de vaisselle est un sujet propice à de nombreuses discordes. Entre celui qui prétend avoir effectué sa corvée plus souvent et celle qui a oublié son tour, le casse-tête est infini et la **confiance** n’existe plus. Le dilemme prend souvent fin par l’intervention autoritaire des parents.
+
+
+
+Pour résoudre ce problème le père a une idée. Il attribue à chacun des frères et soeurs une couleur de palet différente. Puis il construit un long tube transparent indestructible, qu’il fixe dans le sol de la maison pour accueillir ces palets à chaque tour de vais- selle réalisé.
+
+
+
+Pour éviter de **tricher**, l’accès au tube n’est possible qu’avec la **présence** d’au moins la majorité des frères et soeurs. En effet un couvercle sur le dessus est fermé par des serrures différentes dont chacun possède une clé.
+
+Il rappelle alors les 3 **règles** suivantes :
+
+- « Vous devez faire chacun votre tour la vaisselle » 
+
+- « À chaque tour de vaisselle que vous réalisez, vous devez vous munir de votre palet et venir le placer en haut du tube » 
+
+- « Les autres frères et soeurs doivent ensuite valider le fait que la corvée ait bien été réalisée en ouvrant ensemble le couvercle grâce à leurs clés respectives ce qui a pour conséquence de faire tomber le palet de couleur à l’intérieur du tube. La majorité des clés suffit à faire tomber le palet. »
+
+
+
+Ainsi chacun peut **vérifier** la bonne réalisation des tâches ou savoir à qui est le prochain tour en jetant un oeil au tube. Il est ici impossible de **falsifier** le tube en essayant de venir récupérer de quelconque manière un palet déjà tombé à l’intérieur. Transparent, infalsifiable et indestructible, on pourrait dire de ce tube qu’il est en quelque sorte le tube de la vérité, acceptée par le consensus.
+
+
+
+Malheureusement ce principe fonctionne bien si l’honnêteté est de mise dans la maison. Mais si 2 ou 3 frères sont un jour de mauvaise foi, alors le palet ne sera pas validé!
+
+
+
+**La blockchain n’est en fait qu’une nouvelle forme de livre de compte. Pour comprendre la blockchain, il faut remonter un peu l’histoire du livre de compte.**
+
+
+
+Avant on consignait dans des livres de compte et une poignée de personnes validaient, inscrivaient et avaient accès à ce livre. Puis l'informatique a permis d'avoir ces livres de compte de manière numérique : les bases de données "classique". Par conséquent, un nombre un peu plus important de personnes valident, inscrivent et ont accès à la base de données qui est stockée sur un serveur central et sont aidées par des algorithmes.
+
+
+
+Enfin, la convergence de technologies permettant la modularité, la segmentation de l'information et son accès quasi permanent - du fait d'une connectivité permanente et accrue, l'augmentation des capacité de stockage des appareils, le développement de protocoles permettant les échanges pair-à-pair de plus en robuste, une automatisation toujours plus grande et apprenante \(intelligence artificielle\)... permet à ces registres, en les découpant en "blocs" liés les uns aux autres, d'être complètement distribués, accessible à tous de manière sécurisée et pseudonyme
+
+
+
+La technologie blockchain fonctionne selon le même principe que l’installation \#BlockchainVaiselle, mais en impliquant un nombre beaucoup plus important de participants.
+
+
+
+Le tube est en effet dématérialisé par le numérique et Internet, donnant ainsi l’accès à des milliers de personnes en même temps, instantanément et n’importe où dans le monde grâce au réseau. Les tâches, nommées transactions, sont mémorisées de manière transparente au sein d’un grand **registre**. L’ensemble des actions de vérification et de certification est automatisé grâce au numérique et aux technologies cryptographiques de la blockchain.
+
+
+
+Ceux qui valident les blocs de la blockchain s’appellent des **mineurs.** Ces participants du réseau font fonctionner un logiciel sur leur ordinateur afin de vérifier l’authenticité et la validité des transactions soumises au réseau, puis résolvent un problème mathématique complexe pour prouver le travail accompli. Lors- qu’un mineur valide un bloc, il le soumet au réseau qui vérifie et accorde sur un nouvel état de consensus.
+
+
+
+Ainsi la technologie blockchain permet aujourd’hui de supprimer le besoin de confiance en automatisant les processus. “Les champs d’exploitation sont immenses :[banques](https://blockchainfrance.net/2016/03/01/quels-impacts-de-la-blockchain-sur-les-banques/),[assurance](https://blockchainfrance.net/2016/02/17/assurances-et-blockchain/),[immobilier](https://blockchainfrance.net/2016/03/03/des-cadastres-sur-la-blockchain),[santé](https://blockchainfrance.net/2016/03/02/la-blockchain-et-la-sante/),[énergie](https://blockchainfrance.net/2016/07/07/la-blockchain-pour-lenergie/),[transports](https://blockchainfrance.net/2016/03/19/arcade-city-le-uber-killer-de-la-blockchain/),[vote en ligne](https://blockchainfrance.net/2016/02/12/democratie-et-blockchain-le-cas-du-vote/)… De façon générale, des blockchains pourraient remplacer la plupart des « tiers de confiance » centralisés \(métiers de banques, notaires, cadastre,…\) par des systèmes informatiques distribués.”
 
