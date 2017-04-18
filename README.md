@@ -8,15 +8,15 @@ Ce document est UNE mise en forme des textes rédigés pour "[l'Expérience Tier
 
 # Enjeux
 
-Par de nombreux aspect, ce corpus  doit être considéré comme un " collage", i.e.  un ensemble d'idées,  de définitions, d'extraits de texte, de témoignages, de notices, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en perspective ce que font, produisent et produiront les protagonistes des tiers-lieux.
+Ce corpus  doit être considéré comme un " collage", i.e.  un ensemble d'idées,  de définitions, d'extraits de texte, de témoignages, de notices, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en perspective ce que font, produisent et produiront les protagonistes des tiers-lieux.
 
-Les objectifs : \(1\) permettre à celles et ceux qui vivent les tiers-lieux de **mettre des mots** sur ce qu'ils vivent au quotidien \(2\) soutenir la formulation de récits \(aux formes multiples\) sur les Tiers-Lieux, par celles et ceux qui en ressentent le besoin.
+Les objectifs : \(1\) permettre à celles et ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent au quotidien \(2\) soutenir la formulation de récits sur les Tiers-Lieux, par celles et ceux qui en ressentent le besoin.
 
-L'expérience de la Biennale n'est en rien fermée sur elle-même. Bien au contraire. L**'intention** est bien de permettre à tous les acteurs des Tiers-Lieux de se saisir de ce corpus, de le mettre en forme librement et de l'enrichir avec leur vécu.
+L'expérience ForkTheWorld n'est en rien fermée sur elle-même. L**'intention** est  de permettre à tous les acteurs des Tiers-Lieux de se saisir de ce corpus, de le mettre en forme librement et de l'enrichir avec leur vécu.
 
 # Idée clé
 
-L'apport majeur de l'expérience **ForkTheWork** tient dans la tentative de "codifier" les tiers-lieux au travers de 5 **propriétés **:
+L'apport de **ForkTheWork** tient dans une tentative de codification" des Tiers-Lieux au travers de 5 **propriétés **:
 
 1. [Configuration sociale](https://nicolasloubet.gitbooks.io/fork-the-world/content/principes/configuration-sociale.html)
 2. [Patrimoine commun](https://nicolasloubet.gitbooks.io/fork-the-world/content/principes/patrimoine-commun.html)
