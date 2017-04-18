@@ -55,20 +55,69 @@ Plusieurs problématiques ont émergé avec ce « retours des communs »
 
 ---
 
-## Des licences pour faire commun
+## Petit manuel de licences
 
 Les licences ont pour objectif de libérer une production \(matérielle ou immatérielle\). Pour ce faire, tel un contrat, elles intègrent et définissent les règles d’utilisation, de diffusion et de modification de l’œuvre ou la production en question entre son “auteur” et un “usager” \(ou contractant\). Elles font appel à deux notions fondamentales, questionnées au prisme des licences libres, que sont la **propriété** et **l’usage**.
 
 Au contraire du brevet ou du droit d’auteur, qui ont pour objectif de protéger une production \(qu’elle soit matérielle ou immatérielle\) de manière exclusive, la licence donne le droit de ne pas exclure l’usager de tout ou partie des champs d’usage d’une production. Un brevet peut faire l’objet d’une licence.
 
-&lt; Photo /&gt;
+...
 
 Une licence libre s’applique à une production et par laquelle l’auteur concède tout ou une partie des droits, que lui confère par exemple le droit d'auteur, en laissant au minimum quatre droits considérés fondamentaux aux usagers : les **4 libertés**.
 
-* Liberté 0 : La liberté d'utiliser le logiciel, pour quelque usage que ce soit.
-* Liberté 1 : La liberté d'étudier le fonctionnement du programme, et de l'adapter à vos propres besoins. \(L'accès au code source est une condition pour tout ceci\).
-* Liberté 2 : La liberté de redistribuer des copies de façon à pouvoir aider votre voisin.
-* Liberté 3 : La liberté d'améliorer le programme, et de diffuser vos améliorations au public, de façon à ce que l'ensemble de la communauté en tire avantage. L'accès au code source est une condition pour tout ceci.
+* **Liberté 0 **: La liberté d'utiliser le logiciel, pour quelque usage que ce soit.
+* **Liberté 1** : La liberté d'étudier le fonctionnement du programme, et de l'adapter à vos propres besoins. \(L'accès au code source est une condition pour tout ceci\).
+* **Liberté 2** : La liberté de redistribuer des copies de façon à pouvoir aider votre voisin.
+* **Liberté 3** : La liberté d'améliorer le programme, et de diffuser vos améliorations au public, de façon à ce que l'ensemble de la communauté en tire avantage. L'accès au code source est une condition pour tout ceci.
+
+Ces libertés peuvent être soumises à conditions, notamment l'application systématique de la même licence, ou d'une licence prodiguant les mêmes droits aux utilisateurs, aux copies de l'œuvre et aux œuvres dérivées : un principe nommé “**copyleft**”. Le “copyleft” donne l’autorisation d'utiliser, d'étudier, de modifier et de diffuser son œuvre, dans la mesure où cette même autorisation reste préservée. Autrement dit, les nouvelles créations réalisées à partir d'œuvres sous copyleft héritent de fait de ce statut de copyleft : ainsi, ce type de licence permet un partage de la création ou de la connaissance, comme **bien commun**, qui permet aux œuvres culturelles d'être développées librement \(Wikipédia, Copyleft\).
+
+Elles peuvent par ailleurs être soumises à des conditions qui restreignent plus fortement l’usage \(comme les licences avec clauses “Non-Commerciale” ou “Non-Disclosure” par exemple\), faisant perdre à ces licences leur caractère “libre” pour prendre celui plus limité de “**libre diffusion**” uniquement.
+
+Enfin, d’autres formes de licences émergent, hybridant les 4 libertés composant les licences libres en y intégrant des éléments de réciprocité afin de pallier la spoliation de communs à des fins de purs profits financiers : c’est le principe du “**copyfair**”.
+
+Le “copyfair” est une typologie de licence ou de contrat dont l’objectif est de réintroduire le principe et la pratique de la réciprocité au sein de marchés tirant profit de connaissances mutalisées \(communs\) en régulant les contribution à ces communs pour ceux qui le commercialisent \(CopyFair License, P2PF Wiki\). Autrement dit, il s’agit d’assurer de justes conditions de création et de distribution de valeur en s’assurant que la valeur des communs produits n’est pas extraite sans réciprocité. Elle repose sur la base d’une licence libre tout en restreignant la lucrativité tirée du commun sans contribution à un cadre de réciprocité obligatoire et contractuel.
+
+Il existe plus d’une quarantaine de licences dites libres dont une dizaine dites copyleft, rayonnant sur 3 grands champs de production :
+
+* les œuvres et documents tels que les photos, cartes, textes, vidéos et autres productions multimédias et/ou artistiques;
+* les logiciels;
+* le matériel.
+
+Les licences ont des domaines d’application privilégiés, même si, à l’usage, telle ou telle licence peut se retrouver dans d’autres cadres.
+
+* Les licences “Créatives Commons” et la Licence Art Libre se trouvent être principalement adaptées au œuvres et documents tels que les photos, cartes, textes, vidéos et autres productions multimédias et/ou artistiques.
+
+* Si le système des licences Creative Commons se basent sur plusieurs paramètres binaires \(commercial / non commercial \(NC\); modifiable / non modifiable \(ND\); licences des créations dérivées au choix du créateur final / créations dérivées à partager selon la même licence \(SA - Share Alike\)\) permettant d’avoir une palette de licences adaptée à différents usages, la licence Art Libre autorise tout tiers \(personne physique ou morale\), ayant accepté ses conditions, à procéder à la copie, la diffusion et la transformation d'une œuvre, comme à son exploitation gratuite ou commerciale, à condition qu'il soit toujours possible d'accéder à l'original pour le copier, le diffuser ou le transformer. La licence Art Libre est l’équivalent de la licence CC-BY-SA.
+
+&lt; Photo /&gt;
+
+* Les “**General Public License**” \(GNU GPL\) et leurs déclinaisons \(GNU LGDL, GFPL et AGPL\), ainsi que des licences issues des cadres universitaires \(Berkeley Software Distribution ou encore la CeCILL, pour “CEA CNRS INRIA Logiciel Libre”\) sont, avec la Mozilla Public License \(MLP\) et la licence Apache, des licences utilisées dans le domaine du logiciel. Appliquées aux \(codes\) logiciels elles permettent l’utilisation et la réutilisation du code source des logiciel sous cette licence, leur amélioration et leur diffusion et distribution. Pour autant, on peut retrouver les licence GNU GPL sur de la documentation qui peut être apparenté à un document écrit.
+
+* Les licences “**Open-source Hardware**” \(ou OHL\) du CERN \(Centre Européen pour la Recherche Nucléaire\) ou comme la TAPR Open Hardware License sont des licences libres spécifiquement dédiées au matériel. Elles permettent de donner les droits d’accès à l’information \(plan de conception, dessins techniques…\) qui a permis de fabriquer le matériel en question, d’en modifier le contenu et de le diffuser librement.
+
+Tout au long de l’exposition “Fork the World” se trouve notamment des productions matérielles et immatérielles libres et ouvertes qui soient tirent partie d’un commun partagé selon des règles clairement édictées dans le cadre de licences, ou bien participent au commun selon des règles propres aux licences utilisées dans le cadre de l’exposition.
+
+De nombreuses autres licences existent et apportent chacune une spécificité sur les droits d’usages de l’ouevre à laquelle elle s’applique et dans le contexte \(juridique notamment\) dans lequel elle s’applique. Ainsi, par exemple, en France, Etalab, mission en charge au gouvernement de l’ouverture et du partage des données publiques, s’est dotée d’un “**Licence ouverte**”, notamment compatible avec 3 autres types licences: les licences **Open Government Licence** \(OGL\) du Royaume-Uni, **Open Data Commons Attribution** \(ODC-BY\) de l'Open Knowledge Foundation et **Creative Commons Attribution 2.0** \(CC-BY 2.0\) de Creative Commons.
+
+Le “**domaine public**” n’est pas une licence à proprement mais un état d’une oeuvre en l’absence de licence ou de droit régissant son usage. La licence CC0 est la licence qui se rapproche le plus de l’état du domaine public en permettant de renoncer à autant de droit de propriété et d’usage que le permet la loi. En effet, ‘le domaine public désigne l'ensemble des œuvres de l'esprit et des connaissances dont l'usage n'est pas ou n'est plus restreint par la loi. Cela peut être par exemple :
+
+* un savoir sur lequel aucun monopole n'est accordé, comme une formule mathématique ;
+* une œuvre de l'esprit qui n'est pas protégée par le droit d'auteur, comme le discours d'un parlementaire ;
+* une œuvre de l'esprit qui n'est plus protégée par le droit d'auteur, après expiration ;
+* un brevet qui a expiré.
+
+Dans les deux derniers cas, on dit alors que cette œuvre ou ce brevet est « tombé \(ou entré ou élevé\) dans le domaine public »’. “L'entrée dans le domaine public ne signifie pas non plus que plus aucune restriction n'existe sur l'œuvre”. \(Wikipédia, Domaine public\)
+
+D’autres formes intéressantes de licences voient le jour que l’on pourrait considérer comme des “licences du commun / des communs”, plus que comme “licences libres”.La vocation de ces licences \(base “CopyFair” par exemple\) est d’incarner la notion de réciprocité dans un contrat qui conditionne l’usage du commun à une nécessité réciproque de contribution : ce sont les “**licences à réciprocité**”.
+
+Autrement dit, au travers des licences à réciprocité, si l’usager de la production \(qui est partagée dans un cadre commun\) contribue réciproquement au cadre commun \(par le partage libre des améliorations ou des modifications de la production par exemple\) alors il n’est pas contraint de contribuer financièrement. Par contre, si la production est utilisée dans un cadre marchant avec pour vocation d’en tirer profit, sans autre contribution au commun d’où a été tirée cette production, alors des contraintes financières pour l’usage de la production s’applique. Il s’agit de protéger des productions ouvertes et libres d’éventuelles spoliations par le marché et d’instancier la réciprocité comme modèle d’interaction contractuel.
+
+D’autres mouvements encore comme Move Commons \(MC\) vise à développer “un système de marqueurs pour permettre à toute initiative, collectif ou organisation non gouvernementale de déclarer simplement les principes auxquels elle adhère et de les afficher. C’est un peu le principe de Creative Commons appliqué non pas aux œuvres, mais aux projets, aux organisations et à toutes sortes d’initiatives.” \(MoveCommons\). A l’instar des licences, MoveCommons propos un panel de labels qui, comme Creative Commons, permettent de situer le cadre de fonctionnement d’une initiative.
+
+&lt; Photos /&gt;
+
+Mais alors… pourquoi est-ce important d’apposer une licence si de manière naturelle toute production est régie par le droit d’auteur, les droits de propriété \(brevet entre autre\) ou par le domaine public ?
 
 [^1]: D’après l’article écrit par Lionel Maurel, 14 juin 2014. Du brevet comme arme de guerre au don comme acte de paix
 
