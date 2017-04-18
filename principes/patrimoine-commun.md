@@ -61,7 +61,7 @@ Les licences ont pour objectif de libérer une production \(matérielle ou immat
 
 Au contraire du brevet ou du droit d’auteur, qui ont pour objectif de protéger une production \(qu’elle soit matérielle ou immatérielle\) de manière exclusive, la licence donne le droit de ne pas exclure l’usager de tout ou partie des champs d’usage d’une production. Un brevet peut faire l’objet d’une licence.
 
-...
+![](/assets/panoplie_licences.png)
 
 Une licence libre s’applique à une production et par laquelle l’auteur concède tout ou une partie des droits, que lui confère par exemple le droit d'auteur, en laissant au minimum quatre droits considérés fondamentaux aux usagers : les **4 libertés**.
 
@@ -90,7 +90,7 @@ Les licences ont des domaines d’application privilégiés, même si, à l’us
 
 * Si le système des licences Creative Commons se basent sur plusieurs paramètres binaires \(commercial / non commercial \(NC\); modifiable / non modifiable \(ND\); licences des créations dérivées au choix du créateur final / créations dérivées à partager selon la même licence \(SA - Share Alike\)\) permettant d’avoir une palette de licences adaptée à différents usages, la licence Art Libre autorise tout tiers \(personne physique ou morale\), ayant accepté ses conditions, à procéder à la copie, la diffusion et la transformation d'une œuvre, comme à son exploitation gratuite ou commerciale, à condition qu'il soit toujours possible d'accéder à l'original pour le copier, le diffuser ou le transformer. La licence Art Libre est l’équivalent de la licence CC-BY-SA.
 
-&lt; Photo /&gt;
+![](/assets/creative_commons.png)
 
 * Les “**General Public License**” \(GNU GPL\) et leurs déclinaisons \(GNU LGDL, GFPL et AGPL\), ainsi que des licences issues des cadres universitaires \(Berkeley Software Distribution ou encore la CeCILL, pour “CEA CNRS INRIA Logiciel Libre”\) sont, avec la Mozilla Public License \(MLP\) et la licence Apache, des licences utilisées dans le domaine du logiciel. Appliquées aux \(codes\) logiciels elles permettent l’utilisation et la réutilisation du code source des logiciel sous cette licence, leur amélioration et leur diffusion et distribution. Pour autant, on peut retrouver les licence GNU GPL sur de la documentation qui peut être apparenté à un document écrit.
 
@@ -115,9 +115,11 @@ Autrement dit, au travers des licences à réciprocité, si l’usager de la pro
 
 D’autres mouvements encore comme Move Commons \(MC\) vise à développer “un système de marqueurs pour permettre à toute initiative, collectif ou organisation non gouvernementale de déclarer simplement les principes auxquels elle adhère et de les afficher. C’est un peu le principe de Creative Commons appliqué non pas aux œuvres, mais aux projets, aux organisations et à toutes sortes d’initiatives.” \(MoveCommons\). A l’instar des licences, MoveCommons propos un panel de labels qui, comme Creative Commons, permettent de situer le cadre de fonctionnement d’une initiative.
 
-&lt; Photos /&gt;
+![](/assets/move_commons.png)
 
 Mais alors… pourquoi est-ce important d’apposer une licence si de manière naturelle toute production est régie par le droit d’auteur, les droits de propriété \(brevet entre autre\) ou par le domaine public ?
+
+**Rieul Techer,** co-initiateur de la MYNE et core contributeur de DAISEE
 
 [^1]: D’après l’article écrit par Lionel Maurel, 14 juin 2014. Du brevet comme arme de guerre au don comme acte de paix
 
