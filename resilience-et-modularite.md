@@ -34,7 +34,7 @@ Cette vision se heurte à la position de certains acteurs publics. Ils sacralise
 
 ---
 
-## La résilience pour s'adapter au changement climatique
+## La 6 principes de la résilience pour s'adapter
 
 Voici une approche par la résilience qui a été développée dans le cadre de la mise en place d’une politique d’adaptation aux changements climatiques. Les six principes de la résilience qui y sont définis sont :
 

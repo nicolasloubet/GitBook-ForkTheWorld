@@ -24,6 +24,17 @@ L'apport de **Fork The World** est de proposer une codification" des Tiers-Lieux
 4. [Émancipation par le faire](https://nicolasloubet.gitbooks.io/fork-the-world/content/emancipation-par-le-faire.html)
 5. [Résilience et modularité](https://nicolasloubet.gitbooks.io/fork-the-world/content/resilience-et-modularite.html)
 
+# Remix
+
+Plusieurs Tiers-Lieux / organismes ont exprimé leur souhait de répliquer / adapter le corpus Fork The World.
+
+* [Cité Descartes](https://hackpad.com/ForkTheCampus-Essaimage-de-lexposition-tiers-lieux-Cit-Descartes-8WmEOzlNZGl) \(Paris\)
+* [Hotel Pasteur](http://www.hotelpasteur.fr) \(Rennes\)
+* [FabLab Festival](http://fablabfestival.fr) \(Toulouse\)
+* [WIP - Cité chantier ](http://le-wip.com)\(Caen\)
+* [La Coroutine](http://www.lacoroutine.org)  \(Lille\)
+* [Meshwork](http://www.meshwork.fr) \(Nancy\)
+
 # Ressources
 
 * [Carnet de bord de l'expérience tiers-lieux Fork The World](http://frama.link/BiennaleDesign17-ForkTheWorld)
