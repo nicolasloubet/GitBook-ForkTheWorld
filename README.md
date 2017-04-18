@@ -4,7 +4,7 @@ Si vous consultez cette page... c'est que vous êtes lié.e, de près ou de loin
 
 # À propos
 
-Ce document est UNE mise en forme des textes rédigés pour "[l'Expérience Tiers-Lieu\(x\) \#ForkTheWorld](https://archive.is/gkBhw)" de la [Biennale de Design de Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/) \(9 mars - 9 avril 2017\) consacrée aux mutations du travail. Ils sont régis par les termes de la [**licence Creative Commons BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/) et ont été co-rédigés par un réseau d'acteurs des Tiers-Lieux, sous l'impulsion de [Yoann Duriaux](http://www.yoann-duriaux.fr/) \("super concierge", [Movilab](http://movilab.org)\),  [Sylvia Fredriksson](https://www.sylviafredriksson.net/) \(chercheuse, [Cité du Design](http://www.citedudesign.com/fr/la-recherche/)\) et [Juliette Gelli](http://juliettegelli.fr/Juliette-Gelli) \(designeuse, [RDC](https://vimeo.com/200720088)\).
+Ce document est UNE mise en forme des textes rédigés pour l'Expérience Tiers-Lieux "[ForkTheWorld](https://archive.is/gkBhw)" de la [Biennale de Design de Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/) \(9 mars - 9 avril 2017\) consacrée aux mutations du travail. Ils sont régis par les termes de la [**licence Creative Commons BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/) et ont été co-rédigés par un réseau d'acteurs des Tiers-Lieux, sous l'impulsion de [Yoann Duriaux](http://www.yoann-duriaux.fr/) \("super concierge", [Movilab](http://movilab.org)\),  [Sylvia Fredriksson](https://www.sylviafredriksson.net/) \(chercheuse, [Cité du Design](http://www.citedudesign.com/fr/la-recherche/)\) et [Juliette Gelli](http://juliettegelli.fr/Juliette-Gelli) \(designeuse, [RDC](https://vimeo.com/200720088)\).
 
 # Enjeux
 
@@ -16,7 +16,7 @@ L'expérience ForkTheWorld n'est en rien fermée sur elle-même. L**'**intention
 
 # Idée clé
 
-L'apport  de **ForkTheWork** est de proposer une codification" des Tiers-Lieux au travers de 5 **propriétés **:
+L'apport de **ForkTheWork** est de proposer une codification" des Tiers-Lieux au travers de 5 **propriétés **:
 
 1. [Configuration sociale](https://nicolasloubet.gitbooks.io/fork-the-world/content/principes/configuration-sociale.html)
 2. [Patrimoine commun](https://nicolasloubet.gitbooks.io/fork-the-world/content/principes/patrimoine-commun.html)
@@ -27,10 +27,10 @@ L'apport  de **ForkTheWork** est de proposer une codification" des Tiers-Lieux a
 # Ressources
 
 * [Carnet de bord de l'expérience tiers-lieux ForktheWorld](http://frama.link/BiennaleDesign17-ForkTheWorld)
-* [Dépôt initial des textes \(hébergés sur un "Google Drive"\)](http://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
-* [Version épurée des textes \(en français\) au format .odt](https://cloud.lamyne.org/s/DpGFiCZAY9IsAG6?path=%2FTextes)
+* [Dépôt initial des textes au format .doc \(Google Drive\)](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
+* [Version épurée des textes au format .odt \(Nextcloud\)](https://frama.link/BiennaleDesign17-ForkTheWorld-Archive)
 * [Compilation des photos de l'expérience sur la Biennale](https://www.sharypic.com/yii1053jns2jfnd6/all)
-* [Super groupe Telegram pour discuter de cette expérience](https://telegram.me/forktheworld)
+* [Groupe Telegram pour discuter de cette expérience](https://telegram.me/forktheworld)
 
 ---
 
