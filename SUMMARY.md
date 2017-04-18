@@ -17,6 +17,12 @@
   * [Calafou \(Barcelone\)](calafou-barcelone.md)
   * [FunkyCitizen \(Bucarest\)](exemples/funkycitizen-bucarest.md)
   * [Ouagalab \(Ougadougou\)](exemples/ouagalab-ougadougou.md)
-* [Lexique des Tiers-Lieux](lexique.md)
+* [Talents des Tiers-Lieux](talents-des-tiers-lieux.md)
+  * [Vincent Prieur](talents-des-tiers-lieux/vincent-prieur.md)
+  * Béatrice David 
+  * Alexandre Del Perugia 
+  * Mélia Villard 
+  * Lionel Maurel 
 * [Projets de\(s\) Tiers-Lieux](projets.md)
+* [Lexique des Tiers-Lieux](lexique.md)
 
