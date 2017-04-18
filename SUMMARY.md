@@ -21,6 +21,7 @@
   * [Béatrice David ](talents-des-tiers-lieux/beatrice-david.md)
   * [Alexandre Del Perugia ](talents-des-tiers-lieux/alexandre-del-perugia.md)
   * [Lionel Maurel ](talents-des-tiers-lieux/lionel-maurel.md)
+  * [Habibou Mogne ](talents-des-tiers-lieux/habibou-mogne.md)
   * [Vincent Prieur](talents-des-tiers-lieux/vincent-prieur.md)
   * [Mélia Villard ](talents-des-tiers-lieux/melia-villard.md)
 * [Projets de Tiers-Lieux](projets.md)
