@@ -46,14 +46,6 @@ _**Lionel Maurel**, bibliothécaire et activiste \(_[_25 Juillet 2013_](http://n
 
 ---
 
-**\#Connaissance**
-
-> Nous passons d’une ère industrielle à une ère de la connaissance. On y passe par le biais des technologies. Mais on y passe aussi par le biais d’une prise de conscience, extrêmement forte, de la nécessité d’une réappropriation des savoirs, des savoirs anciens dont nous sommes à l’heure d’aujourd’hui un peu dépossédés.
-
-_**Nadine Jouanen**, consultante \(_[_16 Novembre 2014_](http://notesondesign.org/nadine-jouanen/)_\)_
-
----
-
 **\#Communauté**
 
 > Si l’on considère la communauté comme un objet mouvant, alors on peut définir la richesse de ce milieu par le nombre et la qualité de liens qui s’y tissent, par l’interconnexion des individus de ce même milieu.
@@ -85,6 +77,14 @@ _**Yoann Duriaux**, super concierge et initiateur de Movilab_
 > Un chef de tribu dont le seul pouvoir est de rappeler les règles à défaut de pouvoir en imposer l’application ?
 
 _**Pierre Clastres **dans "**La société contre l’État**" \(Minuit, 1974\)_
+
+---
+
+**\#Connaissance**
+
+> Nous passons d’une ère industrielle à une ère de la connaissance. On y passe par le biais des technologies. Mais on y passe aussi par le biais d’une prise de conscience, extrêmement forte, de la nécessité d’une réappropriation des savoirs, des savoirs anciens dont nous sommes à l’heure d’aujourd’hui un peu dépossédés.
+
+_**Nadine Jouanen**, consultante \(_[_16 Novembre 2014_](http://notesondesign.org/nadine-jouanen/)_\)_
 
 ---
 
