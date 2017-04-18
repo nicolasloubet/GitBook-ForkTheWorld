@@ -28,6 +28,7 @@ L'apport majeur de l'expérience ForkTheWork tient dans la tentative de "codifie
 
 * [Carnet de bord de l'expérience tiers-lieux \#ForktheWorld](http://frama.link/BiennaleDesign17-ForkTheWorld)
 * [Dépôt initial des textes \(hébergés sur un "Google Drive"\)](http://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
+* [Version épurée des textes \(en français\) au format .odt](https://cloud.lamyne.org/s/DpGFiCZAY9IsAG6?path=%2FTextes)
 * [Compilation des photos de l'expérience sur la Biennale](https://www.sharypic.com/yii1053jns2jfnd6/all)
 * [Super groupe Telegram pour discuter de cette expérience](https://telegram.me/forktheworld)
 
