@@ -1,8 +1,8 @@
 # Résilience et modularité
 
+## La transition se jouera localement
 
-
-**Janvier 2017**. À Bucarest, les activistes de Funky Citizen sont à l’origine de rassemblements historiques pour la lutte anticorruption, une mobilisation citoyenne et spontanée sans égale depuis la chute du régime communiste.
+**Janvier 2017**. À Bucarest, les activistes de Funky Citizen sont à l’origine de rassemblements historiques pour la lutte anti-corruption, une mobilisation citoyenne et spontanée sans égale depuis la chute du régime communiste.
 
 **Mai 2015**. À Barcelone, Ada Colau, ancienne squatteuse,[militante](https://fr.wikipedia.org/wiki/Militantisme)des luttes pour le droit au logement et contre la violence immobilière, est élue maire de Barcelone sous les couleurs du mouvement[Barcelone en commun](https://fr.wikipedia.org/wiki/Barcelone_en_commun).
 
@@ -16,9 +16,25 @@ Ces amateurs au pouvoir rendent obsolètes la dimension partisane de la politiqu
 
 Ils ouvrent l’hypothèse du territoire comme laboratoire. Des villes apprenantes basées sur la co-production de savoirs entre citoyens et Puissance Publique \(Brest, Loos-en-Gohelle\), des villes où s’expérimentent des formes de coopération communs-public \(Naples, Bologne\), des villes résilientes \(Mouans-Sartoux\), des villes refuges \(Grande-Synthe\).
 
-Le pouvoir aux maires ? Ces émergences sont-elles le pari que la transition démocratique se joue localement ? Si le souci écologiste des villes a été moteur pour les États, comme l’a montré l’économiste et urbaniste Jean Haëntjens dans son livre Le Pouvoir des villes, dans un contexte de défiance générale vis-à-vis des institutions, les maires des grandes villes “_font partie des rares responsables qui ont gardé l’estime de leurs concitoyens_”\(1\). Et si c’était dans les villes que l’Europe sociale voyait le jour ? \(2\)
+Le pouvoir aux maires ? Ces émergences sont-elles le pari que la transition démocratique se joue localement ? Si le souci écologiste des villes a été moteur pour les États, comme l’a montré l’économiste et urbaniste Jean Haëntjens dans son livre Le Pouvoir des villes, dans un contexte de défiance générale vis-à-vis des institutions, les maires des grandes villes “_font partie des rares responsables qui ont gardé l’estime de leurs concitoyens_[^1]”. Et si c’était dans les villes que l’Europe sociale voyait le jour[^2] ?
 
-1. Le Pouvoir des villes. Jean Haëntjens. Ed. de L’Aube, 2008
+---
 
-2. Squatter le pouvoir. Les Mairies rebelles d’Espagne. Ludovic Lamant, 201
+## **Pôles de compétitivité VS pôles collaboratifs**
+
+La réintroduction dans nos villes des cultures nourricières et des jardins partagés est en cours. Les tiers-lieux par la mise à disposition libre des savoirs permettent d’ouvrir un vaste champ d'exploration sur l'agriculture urbaine et les espaces communs en ville. Les “Commons” médiévaux désignaient des prés partagés et gérés en commun par les habitants des villages. C’est en référence à ces pratiques en renouveau que le [Collectif Babylone](https://villeresiliente.org/babylone/), un réseau d’acteurs travaillant sur la résilience et l’agriculture urbaine, va programmer d’ici 2018 un tiers-lieu éphémère du nom de UrbanCommons Factory à Pantin \(93\).
+
+Les acteurs des tiers-lieux en Europe soutenant le développement de l’agriculture urbaine souhaitent rendre nos villes fertiles et comestibles, par une approche exploratoire du métabolisme urbain \(fonctionnement symbiotique des activités de la ville\). Elle passe par l’intégration des enjeux de l’économie circulaire pour générer des externalités positives \(création de valeurs monétaires locales, emplois non délocalisables\) en intégrant les contraintes socio-économiques des territoires qui les hébergent. Dans ce travail de “chirurgie réparatrice”, les circuits-courts de distribution et de proximité renouent les liens entre les consommateurs des villes et les agriculteurs des champs.
+
+L’[association Zone-AH!](http://www.zone-ah.org), membre du Co.Babylone, de son côté tisse un réseau national autour de projets abordant l’agriculture urbaine et l’expérimentation par les tiers-lieux.
+
+Cette vision se heurte à la position de certains acteurs publics. Ils sacralisent de plus en plus les logiques productives mises en avant dans les appels à projets, favorisant l’apparition d’un état concurrentiel permanent, létal pour les structures de l’économie sociale et solidaire, au bénéfice de ce que l’on peut appeler le Star\(tup\)System. Leur approche de l’agriculture urbaine repose sur la création artificielle et rapide de capitaux indexée sur la seule fonction de production, sans logique territoriale propre.
+
+**Bruno Vitasse**, co-fondateur de Zone-AH!, initiateur de ZéBU \(Janvier 2017\)
+
+ 
+
+[^1]: **Jean Haëntjens**. _Le Pouvoir des villes_, Ed. de L’Aube, 2008
+
+[^2]: **Ludovic Lamant**. _Squatter le pouvoir. Les Mairies rebelles d’Espagne,_ 2016\)
 
