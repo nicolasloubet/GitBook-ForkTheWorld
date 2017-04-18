@@ -18,11 +18,11 @@
   * [FunkyCitizen \(Bucarest\)](exemples/funkycitizen-bucarest.md)
   * [Ouagalab \(Ougadougou\)](exemples/ouagalab-ougadougou.md)
 * [Talents des Tiers-Lieux](talents-des-tiers-lieux.md)
-  * [Vincent Prieur](talents-des-tiers-lieux/vincent-prieur.md)
   * [Béatrice David ](talents-des-tiers-lieux/beatrice-david.md)
   * [Alexandre Del Perugia ](talents-des-tiers-lieux/alexandre-del-perugia.md)
-  * Mélia Villard 
-  * Lionel Maurel 
+  * [Lionel Maurel ](talents-des-tiers-lieux/lionel-maurel.md)
+  * [Vincent Prieur](talents-des-tiers-lieux/vincent-prieur.md)
+  * [Mélia Villard ](talents-des-tiers-lieux/melia-villard.md)
 * [Projets de Tiers-Lieux](projets.md)
 * [Lexique des Tiers-Lieux](lexique.md)
 
