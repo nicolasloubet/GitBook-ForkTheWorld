@@ -1,6 +1,6 @@
 # Lexique
 
-Ce "lexique" est un recueil d'extraits d'interviews, d'articles et d'ouvrages. Sa mission première est de faciliter la compréhension des Tiers-Lieux. Il se destine à être enrichi au fur et à mesure des adaptation du corpus éditorial ForkTheWorld \(une perspective étant de faire émerger un dictionnaire ad hoc\).
+Ce "lexique" est un recueil d'extraits d'interviews, d'articles et d'ouvrages. Sa mission première est de faciliter la compréhension des Tiers-Lieux. Il se destine à être enrichi au fur et à mesure des adaptations du corpus éditorial ForkTheWorld \(une perspective étant de faire émerger un dictionnaire _ad hoc_\).
 
 **\#Appropriation**
 
