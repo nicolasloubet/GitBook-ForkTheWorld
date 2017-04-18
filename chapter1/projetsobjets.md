@@ -116,7 +116,7 @@ La posture des designers qui ne travaillent pas sur le terrain, dans des endroit
 
 ---
 
-## **2- Blockchain Vaisselle - Pour une vaisselle propre et distribuée**
+## **2- Blockchain Vaisselle**
 
 **Initiateurs** : Thomas Thibault \(Collectif Bam\) & Blockchain France, 2016 **Licence** : CC BY 3.0 FR
 
@@ -158,7 +158,7 @@ Ainsi la technologie blockchain permet aujourd’hui de supprimer le besoin de c
 
 ---
 
-## **3- Plantoïd - Blockchain-based life-form**
+## **3- Plantoïd**
 
 **Initiateurs** : Primavera de Filippi & le collectif Okhaos. **Licence** : à précisr
 
@@ -173,6 +173,14 @@ La Plantoïd exposée est la numéro 5, née en 2016 suite à la reproduction de
 Comme toute forme de vie, la Plantoïd a vocation a se reproduire. Pour se faire, elle va séduire les humains et les inviter à lui envoyer des Bitcoin. Dès que la Plantoïd a accumulé suffisamment d’argent pour assurer sa reproduction \(2 Bitcoin dans le cas de la Plantoïd n.3\), elle va lancer un appel d’offre, en invitant des artistes, des designers, des ferrailleurs, des développeurs ou des électriciens à soumettre des propositions sur comment ils envisagent de créer la prochaine Plantoid. Évidemment, la Plantoid est incapable d’exprimer un jugement sur les qualités techniques et artistiques de ces propositions. Elle s’appuie ainsi sur des humains pour lui donner conseil. Tous ceux qui ont contribué au financement de la Plantoid peuvent participer \(de façon proportionnelle à leur contribution\) à la prise de décision sur quelle sera la proposition sélectionnée, et quelle sera donc la forme assumée par la nouvelle Plantoid.
 
 ---
+
+**4- DAISEE - Energy as a Common\(s\) \| Internets of Energy**
+
+Initiateurs : R. Técher, S. Rabaaoui, L. Villard, P. Flipo, N. Loubet, C. Epie, X. Lavayssière, A. Omerin, Alizée Gérard \(…\) Licences : CC-BY-NC-SA pour la documentation ; GPL3 pour le code. 
+
+DAISEE est un commun co-produit par la MYNE \(tiers-lieu basé à Lyon\) et CELLABZ \(« organisme » d’acculturation aux technologies émergentes\). Ce commun mobilise l’intervention d’organisations \(‘communautés'\) qui se reconnaissent d’un objectif de transition de société et de **réappropriation des systèmes**. DAISEE doit permettre à tout usager d’échanger ou acheter de l’électricité directement à des pairs, dans son voisinage, qui en produisent en surplus. Il s'agit d'hybrider différentes technologies qui garantissent la distribution, la transparence, l’intégrité et l’inviolabilité de l’information ainsi que des pratiques de travail ou d'organisation. Les technologies blockchain au centre de cette expérimentation, bien plus comme philosophie que comme technologie, permettent de penser les systèmes différemment mais aussi des modes de co-production du commun.**  
+  
+**
 
 
 
