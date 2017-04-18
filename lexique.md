@@ -306,5 +306,5 @@ _Gestion de versions - _[_**Wikipedia**_](https://fr.wikipedia.org/wiki/Gestion_
 >
 > C’est donc assez paradoxal. Si l’on avait à la base un modèle et un système de pensée et d’information qui était décentré, ouvert - même si je schématise un peu l’utopie - aujourd’hui, un certain de nombre de personnes s’inquiète d'un possible recentrement du web autour de ces grands pôles.
 
-_**Anthony Masure**, designer \(7 Juin 2015\)_
+_**Anthony Masure**, designer \(_[_7 Juin 2015_](http://notesondesign.org/anthony-masure/)_\)_
 

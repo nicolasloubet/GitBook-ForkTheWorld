@@ -18,11 +18,11 @@ L'expérience de la Biennale n'est en rien fermée sur elle-même. Bien au contr
 
 L'apport majeur de l'expérience ForkTheWork tient dans la tentative de "codifier" les tiers-lieux au travers de 5 **propriétés **:
 
-1. [Configuration sociale](https://nicolasloubet.gitbooks.io/fork-the-world/content/configurations-sociales.html)
-2. [Patrimoine commun](https://nicolasloubet.gitbooks.io/fork-the-world/content/patrimoine-commun.html)
-3. [Libre appropriation](https://nicolasloubet.gitbooks.io/fork-the-world/content/libre-appropriation.html)
-4. [Émancipation par le faire](https://nicolasloubet.gitbooks.io/fork-the-world/content/emancipation-par-le-faire.html)
-5. [Résilience et modularité](https://nicolasloubet.gitbooks.io/fork-the-world/content/resilience-et-modularite.html)
+1. Configuration sociale
+2. Patrimoine commun
+3. Libre appropriation
+4. Émancipation par le faire
+5. Résilience et modularité
 
 # Ressources
 
