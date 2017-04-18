@@ -1,12 +1,13 @@
 # Summary
 
 * [Bienvenue](README.md)
+* [Fork The World](chapter1/fork-the-world.md)
 * [Introduction](chapter1.md)
   * [La promesse](chapter1/la-promesse.md)
   * [Les origines](chapter1/les-origines.md)
   * [Les valeurs](chapter1/les-valeurs.md)
   * [Les ouvrages](chapter1/les-ouvrages.md)
-* [Propriétés](principes.md)
+* [Tiers-Lieux](principes.md)
   * [Configuration sociale](principes/configuration-sociale.md)
   * [Patrimoine commun](principes/patrimoine-commun.md)
   * [Libre appropriation](libre-appropriation.md)
