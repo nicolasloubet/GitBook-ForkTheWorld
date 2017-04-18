@@ -224,6 +224,10 @@ _**Nadine Jouanen**, consultante \(_[_16 Novembre 2014_](http://notesondesign.or
 
 # **\#Libre**
 
+> Je peux définir le logiciel libre en trois mots : Liberté, Égalité, Fraternité. Liberté, parce que les utilisateurs sont libres. Égalité, parce qu’ils disposent tous des mêmes libertés. Fraternité, parce que nous encourageons chacun à coopérer dans la communauté.
+
+**Richard Stallman** dans sa [conférence](http://www.youtube.com/watch?v=so9UBH4I_GI) pour _Paris capital du libre_ \(2007\)
+
 > Un des enjeux de la communauté du libre est de monter que ce n’est pas une solution au rabais. Dans le cas du logiciel libre, on en a fait la preuve en ce qui concerne tout ce qui est serveur. 50 % des serveurs du monde tourne avec Apache, qui est du logiciel libre. Tout ce qui concerne les réseaux également. Mais en ce qui concerne les logiciels et applications grand public, on doit faire face à des idées reçues. La gratuité est presque suspecte. Le libre est un moyen de concevoir des outils de niveau professionnel voire supérieur à ce qu’une structure classique pourrait obtenir. Le libre est un mode d’agir efficace.
 
 _**Vincent Calame**, codeur et militant \(_[_5 Septembre 2013_](http://notesondesign.org/vincent-calame/)_\)_
