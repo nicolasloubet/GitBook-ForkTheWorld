@@ -6,17 +6,17 @@ Les modèles développés dans les lieux d’apprentissage classiques sont percu
 
 Les tiers-lieux sont des promesses auxquelles travaillent des individus, aventuriers d’une nouvelle forme de partage. Ils sont les enfants de Linux, du logiciel libre, de l’open source mais aussi des écoles de design, des libertariens \(3\), des "startupers" mais aussi des "punks à chiens", des anarchistes. Ils sont l’hybridation des marges technologiques et des marges sociales, là où s’inventent sans cesse des organisations du collectif et par extension les nouvelles organisations du travail.
 
-Enfin l’idée majeure du tiers-lieu est que dans chaque quartier il existe un lieu de travail pour tous, ouvert, sans patron et sans salaire, un lieu où on ne parle pas d’emploi, mais de travail, où l’on obtient ce statut désiré socialement de travailleur, comme un revenu universel. On peut y parler d’un accès au travail universel, qui échappe aux fluctuations incertaines de l’emploi, hors spéculation, dans des communs alors réactivés. 
+Enfin l’idée majeure du tiers-lieu est que dans chaque quartier il existe un lieu de travail pour tous, ouvert, sans patron et sans salaire, un lieu où on ne parle pas d’emploi, mais de travail, où l’on obtient ce statut désiré socialement de travailleur, comme un revenu universel. On peut y parler d’un accès au travail universel, qui échappe aux fluctuations incertaines de l’emploi, hors spéculation, dans des communs alors réactivés.
 
 Le tiers-lieu est probablement le plus important projet politique concernant le travail depuis celui du plein emploi du XXe siècle. Et c’est un projet porté par des individus, des citoyens en contre-proposition au travail capté par le marché du travail. Observer et pratiquer le tiers-lieu dans sa vie quotidienne et dans sa mise en œuvre nous permettra de faire l’expérience de cette alternative bienvenue, promesse d’une autre organisation possible du travail.
 
 **Olivier Peyricot**, directeur scientifique de la Biennale de Design et directeur du pôle Recherche de la Cité du Design, Dec. 2016
 
-1. Tom Peters, L’entreprise libérée. Liberation management, Dunod, 1993
+[^1]: Tom Peters, L’entreprise libérée. Liberation management, Dunod, 1993
 
-2. On se réfère ici à la définition donnée par Antoine Burret dans son ouvrage Tiers-lieux… et plus si affinités, éditions Fyp, 2014
+[^2]: On se réfère ici à la définition donnée par Antoine Burret dans son ouvrage Tiers-lieux… et plus si affinités, éditions Fyp, 2014
 
-3. Voir Fred Turner, Aux sources de l’utopie numérique. De la contre-culture à la cyberculture, Stewart Brand un homme d’influence, Caen, C&F Éd., 2012
+[^3]: Voir Fred Turner, Aux sources de l’utopie numérique. De la contre-culture à la cyberculture, Stewart Brand un homme d’influence, Caen, C&F Éd., 2012
 
 
 
