@@ -222,6 +222,18 @@ _**Vincent Calame**, codeur et militant \(_[_5 Septembre 2013_](http://notesonde
 
 ---
 
+# Manifeste
+
+Je pense qu’il est important d’avoir des textes auxquels se référer pour construire une culture commune et un cadre où chacun puisse s’exprimer à partir du même référentiel. Par exemple, les libertés du logiciel libre décrites dans les conférences deRichard Stallmanconstituent pour moi un corpus de références qui permet de fixer des idées. Cependant, je pense que le temps des manifestes est fini \(…\). Il est important d’en avoir fait et le corpus doctrinal existe dorénavant mais à trop en faire on risque de tomber dans de la politique à l’ancienne, dans des déclarations d’intentions qui ne sont pas suivies de faits \(…\) L’engagement écrit ne suffit pas. Il est important d’agir, au-delà des manifestes.
+
+
+
+Adrienne Alix
+
+
+
+Pour aller plus loin: http://notesondesign.org/biens-communs-genealogie-des-manifestes/
+
 # **\#Outils**
 
 > Je plaide pour le décentrement. Je plaide pour que les designers mobilisent moins d’éditeurs monopolistiques, et s’interrogent sur la façon de faire les programmes qu’ils utilisent. Pour qu’ils développent leurs propres outils, qu’ils créent, qu’ils détournent ou qu’ils co-créent. Cela se joue même à petite échelle, à deux ou trois lignes de code que l’on met dans un logiciel existant. Qu’ils designent des plugins, des hacks qui pourront être partagés, et petit à petit, qu’ils ouvrent les possibles, qu’ils fassent advenir l’imprévu, et que l’on en sorte enfin ! Il n’y a pas de raison que les comptables aient plus de logiciels que les designers !
