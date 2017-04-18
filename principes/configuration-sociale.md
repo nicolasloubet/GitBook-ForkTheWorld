@@ -1,6 +1,6 @@
 # Configuration sociale
 
-> Nous ne réalisions pas qu’Internet allait aussi changer profondément la nature des communautés, la manière dont elles accèdent à l’information et la digèrent. Nous sommes passés de plateformes communes pour avoir de l’information à des plateformes de plus en plus fragmentées. Et les algorithmes qui alimentent les gens en informations sur les plateformes comme Facebook, produisent de plus en plus un monde dans lequel chacun vit dans sa propre bulle d’information. 
+> Nous ne réalisions pas qu’Internet allait aussi changer profondément la nature des communautés, la manière dont elles accèdent à l’information et la digèrent. Nous sommes passés de plateformes communes pour avoir de l’information à des plateformes de plus en plus fragmentées. Et les algorithmes qui alimentent les gens en informations sur les plateformes comme Facebook, produisent de plus en plus un monde dans lequel chacun vit dans sa propre bulle d’information.
 >
 > Or dans ce monde-là, l’idée même d’une action politique orientée vers l’intérêt général est presque impossible. Nous ne savons pas comment construire un espace dans lequel les gens pourraient discuter des mêmes questions politiques, à partir d’un cadre commun et d’une compréhension partagée des faits. Aujourd’hui, nous avons toutes les raisons de nous inquiéter de la manière dont Internet nourrit la polarisation et une moindre compréhension des problèmes communs, à cause des algorithmes et de l’architecture du réseau.
 
@@ -20,7 +20,17 @@ Le tiers-lieu est l’espace où l’individu renoue avec la présence de l’au
 
 ### **Redistribuer le pouvoir**
 
-Dans les tiers-lieux, des individus s’emparent de “_la question du rapport à l’usager et des compétences techniques nécessaires pour embrayer de véritables processus de participation citoyenne et d’encapacitation au sein d’écologies technologiques et infrastructurelles particulières_.”[^5] En mettant en place des réseaux de télécommunications décentralisés et autonomes, participatifs et engageants, ces individus donnent à réfléchir à un “_horizon politique plus enclin au partage, à une nouvelle façon de penser la circulation des idées, des biens et de la vie en communauté_.” Et finalement, à une autre gouvernementalité possible.
+Dans les tiers-lieux, des individus s’emparent de “_la question du rapport à l’usager et des compétences techniques nécessaires pour embrayer de véritables processus de participation citoyenne et d’encapacitation au sein d’écologies technologiques et infrastructurelles particulières_.”[^5] En mettant en place des réseaux de télécommunications décentralisés et autonomes, participatifs et engageants, ces individus donnent à réfléchir à un “_horizon politique plus enclin au partage, à une nouvelle façon de penser la circulation des idées, des biens et de la vie en communauté_.” Et finalement, à une autre gouvernementalité possible.1. 
+
+1. Eric S. Raymond, La cathédrale et le bazar, 1997
+
+2. Joreen Freeman, The Tyranny of Structurelessness, 1970
+
+3. David Graeber, Some Remarks on Consensus, Occupy Wall Street, février 2013
+
+4. Mathieu Coste, ChezNous Coop. Interviewé le 21 oct. 2014
+
+5. François Huguet, Docteur en Sciences de l'Information et de la Communication, Telecom ParisTech, Recoudre la ville avec du sans fil : Dispositifs d’encapacitation des publics et discours d’infrastructures participatives, 10 avr. 2014.
 
 ---
 
@@ -28,7 +38,7 @@ Dans les tiers-lieux, des individus s’emparent de “_la question du rapport �
 
 Le tiers-lieu est le lieu de la pluralité, de l’hybridation des marges technologiques et sociales. Il est l’espace de l’alliance des populations considérées comme hors-normes ou jetables, qui ne rentrent plus dans le champ couvert par le concept travail réduit à son expression la plus minimaliste : l'emploi comptabilisé par les statistiques nationales, les cases de Pôle Emploi, de l'INSEE ou du Bureau International du Travail. Il est l’espace de l’alliance de ceux qui construisent des éléments de bifurcation à l’intérieur du système et portent en actes une critique radicale au profit de nouveaux modèles de vie.
 
-Au mythe de l’emploi, le tiers-lieu oppose des présences : concierge, fabmanager, veilleuse, jardinier, usager, initiateur, modérateur, développeur. Car pousser la porte du tiers-lieu, c’est mettre le pied en terrain neutre, et laisser au dehors les conventions, les statuts, les origines sociales, les diplômes, les responsabilités et les rapports de pouvoir tels qu’ils se jouent au quotidien. 
+Au mythe de l’emploi, le tiers-lieu oppose des présences : concierge, fabmanager, veilleuse, jardinier, usager, initiateur, modérateur, développeur. Car pousser la porte du tiers-lieu, c’est mettre le pied en terrain neutre, et laisser au dehors les conventions, les statuts, les origines sociales, les diplômes, les responsabilités et les rapports de pouvoir tels qu’ils se jouent au quotidien.
 
 Les interactions qui se tissent à l’intérieur du tiers-lieu s’établissent en fonction des actes et des compétences partagées. Les positions de chacun s’articulent. Le tiers-lieu ne présume ni ne produit exactement une identité collective, mais un ensemble relations dynamiques et habilitantes. Il est, dans l’action collective, l’espace de l’apparaître, au sens définit par Hannah Arendt. C’est-à-dire l’espace “où j’apparais aux autres et où les autres m’apparaissent”, au travers des fonctions existantes ou à encore à circonscrire.
 
@@ -50,7 +60,7 @@ Il n’y a pas et il ne peut pas y avoir de modèles économiques aux tiers lieu
 
 **Yoann Duriaux, **super concierge \(Movilab\) et **Antoine Burret**, sociologue
 
-Recherche-Action \(en cours\) sur Movilab : [Généralement](http://movilab.org/index.php?title=Les_mod%C3%A8les_%C3%A9conomiques_des_Tiers_Lieux) + [Saint-Etienne](http://movilab.org/index.php?title=Les_mod%C3%A8les_%C3%A9conomiques_des_Tiers_Lieux_St%C3%A9phanois)
+Recherche-Action \(en cours\) sur Movilab : [Généralement](http://movilab.org/index.php?title=Les_modèles_économiques_des_Tiers_Lieux) + [Saint-Etienne](http://movilab.org/index.php?title=Les_modèles_économiques_des_Tiers_Lieux_Stéphanois)
 
 ---
 
@@ -67,14 +77,4 @@ C'est beaucoup d'empathie, d'amour et de confiance pour, en des gens exceptionne
 J'abandonne. Ça ne se décrit pas un tiers-lieu. Vivez-le vous-même, en bas de chez vous, avec les bons autres.
 
 **Yann ‘Shalf’ Heurtaux **\(10 février 2016\)
-
-[^1]: Eric S. Raymond, La cathédrale et le bazar, 1997
-
-[^2]: Joreen Freeman, The Tyranny of Structurelessness, 1970
-
-[^3]: David Graeber, Some Remarks on Consensus, Occupy Wall Street, février 2013
-
-[^4]: Mathieu Coste, ChezNous Coop. Interviewé le 21 oct. 2014
-
-[^5]: François Huguet, Docteur en Sciences de l'Information et de la Communication, Telecom ParisTech, Recoudre la ville avec du sans fil : Dispositifs d’encapacitation des publics et discours d’infrastructures participatives, 10 avr. 2014.
 
