@@ -1,20 +1,20 @@
 # Lexique
 
-Ce "lexique" est un recueil d'extraits d'interviews, d'articles et d'ouvrages. Sa mission première est de 'faciliter' la lecture des Tiers-Lieux. Il se destine à être enrichi et remixé au fut et à mesure des adaptation du corpus éditorial ForkTheWorld. 
+Ce "lexique" est un recueil d'extraits d'interviews, d'articles et d'ouvrages. Sa mission première est de faciliter la compréhension des Tiers-Lieux. Il se destine à être enrichi et remixé au fut et à mesure des adaptation du corpus éditorial ForkTheWorld.
 
 **\#Appropriation**
 
 > L’appropriation est une forme de valorisation des personnes, qui implique un travail d’accompagnement, de sorte que chacun soit à même de choisir ce qui est le mieux et accède à une certaine autonomie.
 
-_**Béatrice David**, consultante \(5 Février 2014\)_
+_**Béatrice David**, consultante \(_[_5 Février 2014_](http://notesondesign.org/beatrice-david/)_\)_
 
 > ll est à mon avis important d’organiser des choses qui sont adaptables aux non technophiles. D’une part parce que la technique est de moins en moins compliquée, et qu’il y a plusieurs degrés pour l’aborder. Ensuite parce que le contenu est souvent un bon prétexte pour s’intéresser à la technique.
 
-_**Raphaël Bastide,** designer et libriste \(27 Octobre 2014\)_
+_**Raphaël Bastide,** designer et libriste \(_[_27 Octobre 2014_](http://notesondesign.org/raphael-bastide/)_\)_
 
 > Dans la manière dont nous envisageons la notion de biens communs, nous avons pour intention de dépasser la dimension d’accès à l’information pour investir la question son appropriation et de son appropriabilité.
 
-_**Silvère Mercier**, bibliothécaire et activisite \(23 Juillet 2013\)_
+_**Silvère Mercier**, bibliothécaire et activisite \(_[_23 Juillet 2013_](http://notesondesign.org/silvere-mercier/)_\)_
 
 ---
 
@@ -22,7 +22,7 @@ _**Silvère Mercier**, bibliothécaire et activisite \(23 Juillet 2013\)_
 
 > Nous n’avons pas les mêmes positions, mais nous les articulons. L’articulation crée des passages et des connexions, et constitue un dispositif, permettant des circulations d’informations, la répartition des tâches. Une des questions qui se joue est de savoir comment l’on change de position à l’intérieur d’un commun, suivant les besoins.
 
-_**Jennifer Bonn**, artiste \(18 Novembre 2013\)_
+_**Jennifer Bonn**, artiste \(_[_18 Novembre 2013_](http://notesondesign.org/jennifer-bonn/)_\)_
 
 ---
 
@@ -38,11 +38,11 @@ _Biologie participative - _[_**Wikipedia**_](https://fr.wikipedia.org/wiki/Biolo
 
 > La confiance crée les conditions pour que chaque partie du système puisse donner le meilleur de lui-même en interaction avec le meilleur de l’autre.
 
-_**Mathieu Coste**, entrepreneur \(21 Octobre 2014\)_
+_**Mathieu Coste**, entrepreneur \(_[_21 Octobre 2014_](http://notesondesign.org/mathieu-coste/)_\)_
 
 > La confiance que les individus peuvent s’accorder est un élément essentiel dans une communauté qui s’organise en biens communs. Par confiance, j’entends la capacité des groupes humains à trouver des solutions à leurs problèmes, sans passer par des formes de violence ou d’appropriation, de concurrence ou de rivalité.
 
-_**Lionel Maurel**, bibliothécaire et activiste \(25 Juillet 2013\)_
+_**Lionel Maurel**, bibliothécaire et activiste \(_[_25 Juillet 2013_](http://notesondesign.org/lionel-maurel/)_\)_
 
 ---
 
@@ -50,7 +50,7 @@ _**Lionel Maurel**, bibliothécaire et activiste \(25 Juillet 2013\)_
 
 > Nous passons d’une ère industrielle à une ère de la connaissance. On y passe par le biais des technologies. Mais on y passe aussi par le biais d’une prise de conscience, extrêmement forte, de la nécessité d’une réappropriation des savoirs, des savoirs anciens dont nous sommes à l’heure d’aujourd’hui un peu dépossédés.
 
-_**Nadine Jouanen**, consultante \(16 Novembre 2014\)_
+_**Nadine Jouanen**, consultante \(_[_16 Novembre 2014_](http://notesondesign.org/nadine-jouanen/)_\)_
 
 ---
 
@@ -62,11 +62,11 @@ _**Irène Favero **du** **_[_**Réseau Culture 21**_](http://reseauculture21.fr/
 
 > Le commun est associé à l’idée de quelque chose de non figé, d’un non objet, et de l’idée que le faire est plus important que le qui fait. Ce détachement de la personne en faveur de la communauté permet de sortir d’une vision figée de ce qu’est la vie, que constituent nos activités. C’est un mouvement, ce n’est pas fixe. Les choses sont en train de changer. C’est ce que l’on fait qui compte, plus que nos propres personnes ou l’image que l’on peut développer autour de nos identités personnelles. Il y a un transfert d’attention sur ce qui est fait plutôt que sur les personnes qui font.
 
-_**Jennifer Bon**, artiste \(18 Novembre 2013\)_
+_**Jennifer Bon**, artiste \(_[_18 Novembre 2013_](http://notesondesign.org/jennifer-bonn/)_\)_
 
 > Je pense que l’un des enjeux de réussite se situe dans la capacité à faire vivre une communauté au sein de laquelle chacun puisse trouver sa place.
 
-_**Vincent Calame**, codeur et militant \(5 Septembre 2013\)_
+_**Vincent Calame**, codeur et militant \(_[_5 Septembre 2013_](http://notesondesign.org/vincent-calame/)_\)_
 
 ---
 
@@ -92,7 +92,7 @@ _**Pierre Clastres **dans "**La société contre l’État**" \(Minuit, 1974\)_
 
 > Au milieu des multinationales tentaculaires, quelques organisations non-lucratives continuent de lutter pour un web ouvert et respectueux des internautes. \#Dégooglisons Internet est une initiative de [**Framasoft**](https://framasoft.org) en faveur d’un internet [libre](https://degooglisons-internet.org/#leds), [décentralisé](https://degooglisons-internet.org/#leds), [éthique](https://degooglisons-internet.org/#leds) et [solidaire](https://degooglisons-internet.org/#leds).
 
-[_**Degooglisons Internet**_](https://degooglisons-internet.org/)
+[_**Degooglisons Internet**_](https://degooglisons-internet.org/) \(Framasoft\)
 
 ---
 
@@ -100,7 +100,7 @@ _**Pierre Clastres **dans "**La société contre l’État**" \(Minuit, 1974\)_
 
 > Le processus permanent de réinvention des communs est infiniment satisfaisant parce qu’il laisse l’espace à la diversité dans l’action, à la diversité des acteurs, et surtout, il évite de tendre vers des formes idéologiques totalisantes et donc excluantes.
 
-_**Valérie Peugeot**, chercheuse et présidente de** **_[_**VECAM**_](http://vecam.org/)_ \(9 Juillet 2013\)_
+_**Valérie Peugeot**, chercheuse \(_[_9 Juillet 2013_](http://notesondesign.org/valerie-peugeot/)_\)_
 
 ---
 
@@ -108,7 +108,7 @@ _**Valérie Peugeot**, chercheuse et présidente de** **_[_**VECAM**_](http://ve
 
 > Interroger la notion de commun, c’est interroger de manière plus globale les écosystèmes, leur fonctionnement et la façon dont on va partager de la connaissance, de l’intelligence et préserver ce qui importe à l’humanité dans son ensemble.
 
-_**Anne-Sophie Novel, **docteure, blogueuse et journaliste \(05 Septembre 2013\)_
+_**Anne-Sophie Novel**, docteure et journaliste \(_[_05 Septembre 2013_](http://notesondesign.org/anne-sophie-novel/)_\)_
 
 ---
 
@@ -116,7 +116,7 @@ _**Anne-Sophie Novel, **docteure, blogueuse et journaliste \(05 Septembre 2013\)
 
 > L'émancipation n'est pas une affaire de classe sociale mais de conception politique.
 
-**Sophie Wahnich**, Agrégée et Docteure en Histoire \(28 Janvier 2017\)
+_**Sophie Wahnich**, docteure en Histoire \(28 Janvier 2017\)_
 
 > Le fantasme d'émancipation par la technologie, qui vient de la contre-culture, est toujours vivace dans de nombreux endroits comme les hackerspaces, le mouvement des makers… En fait c’est presque l’idéologie dominante aujourd’hui. \(…\)
 >
@@ -170,15 +170,15 @@ _**Yoann Duriaux**, super concierge et initiateur de Movilab_
 
 > Je trouve que l’approche de la gouvernance de nos savoirs informationnels par les communs est une solution intéressante. En effet, le problème qu’ont connus des tas de dispositifs provient du régime de propriété auquel appartient la connaissance, c’est-à-dire soit le privé soit l’État. Ce régime de propriété met en danger nos dispositifs de partage de la connaissance qui, du jour au lendemain, peuvent disparaître. Alors que si des collectifs d’utilisateurs, locaux ou thématiques, s’emparaient de ces communs, la continuité de leur gouvernance serait assurée.
 
-_**Sylvie Dalbin,** documentaliste scientifique \(29 Octobre 2013\)_
+_**Sylvie Dalbin,** documentaliste scientifique \(_[_29 Octobre 2013_](http://notesondesign.org/sylvie-dalbin/)_\)_
 
 > Il existe pour les biens communs numériques de nombreux modèles de gouvernance différents. Il y a plein de régimes différents, plein de façon de s’occuper du libre, et c’est la vertu du libre lui-même.
 
-_**Bastien Guerry**, développeur et enseignant \(29 Juillet 2013\)_
+_**Bastien Guerry**, développeur et enseignant \(_[_29 Juillet 2013_](http://notesondesign.org/bastien-guerry/)_\)_
 
 > Il y a une définition que j’aime bien actuellement, c’est l’idée que les biens communs sont un laboratoire de gouvernance.
 
-_**Frédéric Sultan**, initiateur de** **_[_**Remix the Commons**_](http://www.remixthecommons.org/)_ \(17 Juillet 2013\)_
+_**Frédéric Sultan**, initiateur de** **_[_**Remix the Commons**_](http://www.remixthecommons.org/)_ \(_[_17 Juillet 2013_](http://notesondesign.org/frederic-sultan/)_\)_
 
 ---
 
@@ -202,7 +202,7 @@ _**Michel Agier**, ethnologue et anthropologue_
 
 > Il y a un travail à mener sur les rapports aux pouvoirs publics car il y a en effet un certain nombre de biens communs pour lesquels on sait que, les communautés auto-organisées ne peuvent suffire seules à les défendre.
 
-_**Valérie Peugeot**, chercheuse et présidente de VECAM \(9 Juillet 2013\)_
+_**Valérie Peugeot**, chercheuse \(_[_9 Juillet 2013_](http://notesondesign.org/valerie-peugeot/)_\)_
 
 ---
 
@@ -210,7 +210,7 @@ _**Valérie Peugeot**, chercheuse et présidente de VECAM \(9 Juillet 2013\)_
 
 > Le troisième millénaire doit nous voir tous jardiner. Je pense que d’ici cinquante ans, on ne pourra vivre, voire survivre, que si l’on a, à minima, deux métiers. L’un qui sera ce qu’il est, et l’autre, qui sera de cultiver son jardin.
 
-_**Nadine Jouanen**, consultante \(16 Novembre 2014\)_
+_**Nadine Jouanen**, consultante \(_[_16 Novembre 2014_](http://notesondesign.org/nadine-jouanen/)_\)_
 
 ---
 
@@ -218,7 +218,7 @@ _**Nadine Jouanen**, consultante \(16 Novembre 2014\)_
 
 > Un des enjeux de la communauté du libre est de monter que ce n’est pas une solution au rabais. Dans le cas du logiciel libre, on en a fait la preuve en ce qui concerne tout ce qui est serveur. 50 % des serveurs du monde tourne avec Apache, qui est du logiciel libre. Tout ce qui concerne les réseaux également. Mais en ce qui concerne les logiciels et applications grand public, on doit faire face à des idées reçues. La gratuité est presque suspecte. Le libre est un moyen de concevoir des outils de niveau professionnel voire supérieur à ce qu’une structure classique pourrait obtenir. Le libre est un mode d’agir efficace.
 
-_**Vincent Calame**, codeur et militant \(5 Septembre 2013\)_
+_**Vincent Calame**, codeur et militant \(_[_5 Septembre 2013_](http://notesondesign.org/vincent-calame/)_\)_
 
 ---
 
@@ -226,7 +226,7 @@ _**Vincent Calame**, codeur et militant \(5 Septembre 2013\)_
 
 > Je plaide pour le décentrement. Je plaide pour que les designers mobilisent moins d’éditeurs monopolistiques, et s’interrogent sur la façon de faire les programmes qu’ils utilisent. Pour qu’ils développent leurs propres outils, qu’ils créent, qu’ils détournent ou qu’ils co-créent. Cela se joue même à petite échelle, à deux ou trois lignes de code que l’on met dans un logiciel existant. Qu’ils designent des plugins, des hacks qui pourront être partagés, et petit à petit, qu’ils ouvrent les possibles, qu’ils fassent advenir l’imprévu, et que l’on en sorte enfin ! Il n’y a pas de raison que les comptables aient plus de logiciels que les designers !
 
-_**Anthony Masure**, designer \(7 Juin 2015\)_
+_**Anthony Masure**, designer \(_[_7 Juin 2015_](http://notesondesign.org/anthony-masure/)_\)_
 
 ---
 
@@ -238,7 +238,7 @@ _**Susanne Tarkowski Tempelhof**, fondatrice de **Bitnation**_
 
 > La nouvelle figure politique sera-t-elle le programmeur ?
 
-_**Lawrence Lessig **dans l'article **Code is Law **\(Harvard Magazine, 2000\)_
+_**Lawrence Lessig **dans **Code is Law **\(Harvard Magazine, 2000\)_
 
 ---
 
@@ -246,7 +246,7 @@ _**Lawrence Lessig **dans l'article **Code is Law **\(Harvard Magazine, 2000\)_
 
 > Il faut considérer les lieux du pouvoir politique, aujourd’hui, comme plus nombreux et plus diversifiés que nous les voyons à travers nos vieilles œillères étatistes.
 
-_**Ada Colau**, Maire de Barcelone_
+_**Ada Colau**, Maire de Barcelone \(depuis ...\)_
 
 ---
 
