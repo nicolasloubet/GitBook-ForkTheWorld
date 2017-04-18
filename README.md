@@ -4,7 +4,7 @@ Si vous consultez cette page... c'est que vous êtes lié.e, de près ou de loin
 
 # À propos
 
-Ce document est UNE mise en forme des textes rédigés pour "[l'Expérience Tiers-Lieu\(x\) \#ForkTheWorld](https://archive.is/gkBhw)" de la [Biennale de Design de Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/) \(9 mars - 9 avril 2017\) consacrée aux mutations du travail. Ils sont régis par les termes de la [licence Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) et ont été co-rédigés par un réseau d'acteurs des Tiers-Lieux, sous l'impulsion de Yoann Duriaux \("super concierge", [Movilab](http://movilab.org)\),  Sylvia Fredriksson \(chercheuse, [Cité du Design](http://www.citedudesign.com/fr/la-recherche/)\) et Juliette Gelli \(designer, [collectif RDC](https://vimeo.com/200720088)\).
+Ce document est UNE mise en forme des textes rédigés pour "[l'Expérience Tiers-Lieu\(x\) \#ForkTheWorld](https://archive.is/gkBhw)" de la [Biennale de Design de Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/) \(9 mars - 9 avril 2017\) consacrée aux mutations du travail. Ils sont régis par les termes de la [licence Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) et ont été co-rédigés par un réseau d'acteurs des Tiers-Lieux, sous l'impulsion de Yoann Duriaux \("super concierge", [Movilab](http://movilab.org)\),  Sylvia Fredriksson \(chercheuse, [Cité du Design](http://www.citedudesign.com/fr/la-recherche/)\) et Juliette Gelli \(designer, [RDC](https://vimeo.com/200720088)\).
 
 # Enjeux
 
