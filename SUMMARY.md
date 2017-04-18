@@ -30,5 +30,5 @@
   * [Vincent Prieur](talents-des-tiers-lieux/vincent-prieur.md)
   * [Baptiste Ridoux](talents-des-tiers-lieux/baptiste-ridoux.md)
   * [Mélia Villard ](talents-des-tiers-lieux/melia-villard.md)
-* Ceci est un test
+* [Ceci est un test](ceci-est-un-test.md)
 
