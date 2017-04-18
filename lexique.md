@@ -104,6 +104,14 @@ _**Valérie Peugeot**, chercheuse \(_[_9 Juillet 2013_](http://notesondesign.org
 
 ---
 
+# **\#Doocratie**
+
+> Doocratie est un terme souvent rencontré dans le monde des hackers et du logiciel. Il traduit une principe qui m’est assez sympathique qui consiste à dire que celui qui fait doit décider. Il me semble que c’est un bon point de départ quand on essaie de s’organiser collectivement et faire des choses ensemble. Je n’aime pas trop les inspecteurs des travaux finis. La doocratie me paraît être une bonne manière de lutter contre cela.
+
+**Sébastien Broca**, sociologue \([31 Octobre 2014](http://notesondesign.org/sebastien-broca/)\)
+
+---
+
 # **\#Écosystèmes**
 
 > Interroger la notion de commun, c’est interroger de manière plus globale les écosystèmes, leur fonctionnement et la façon dont on va partager de la connaissance, de l’intelligence et préserver ce qui importe à l’humanité dans son ensemble.
