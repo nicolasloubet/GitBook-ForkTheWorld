@@ -34,5 +34,5 @@ L'apport de **ForkTheWork** est de proposer une codification" des Tiers-Lieux au
 
 ---
 
-_Si vous souhaitez éditer / remixer ce document, vous le POU-VEZ. Un tutoriel \[sur ce _[_modèle_](https://handbook.enspiral.com/guides/contributing.html)_\] sera bientôt disponible._
+_Si vous souhaitez remixer ce GitBook, vous le POU-VEZ. Un tutoriel \[sur ce _[_modèle_](https://handbook.enspiral.com/guides/contributing.html)_\] sera bientôt disponible._
 
