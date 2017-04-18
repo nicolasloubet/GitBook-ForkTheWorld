@@ -23,6 +23,7 @@
   * [Lionel Maurel ](talents-des-tiers-lieux/lionel-maurel.md)
   * [Habibou Mogne ](talents-des-tiers-lieux/habibou-mogne.md)
   * [Vincent Prieur](talents-des-tiers-lieux/vincent-prieur.md)
+  * [Baptiste Ridoux](talents-des-tiers-lieux/baptiste-ridoux.md)
   * [Mélia Villard ](talents-des-tiers-lieux/melia-villard.md)
 * [Projets de Tiers-Lieux](projets.md)
 * [Lexique des Tiers-Lieux](lexique.md)
