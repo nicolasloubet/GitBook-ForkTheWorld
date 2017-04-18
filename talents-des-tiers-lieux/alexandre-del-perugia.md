@@ -1,4 +1,4 @@
-# **Alexandre Del Perugia : **_**les arts et la culture à l’épreuve de la polyculture**_
+# **Alexandre Del Perugia : les arts et la culture à l’épreuve de la polyculture**
 
 Alexandre Del Perigia est comédien, cofondateur du Théâtre École du Passage à Paris, formateur, conseiller artistique, et chercheur au Centre national des arts du cirque. Son interview a été réalisée pour la Biennale de Design de Saint-Etienne le 04 Février 2017 par Sylvia Fredriksson et Aurélien Marty.
 
@@ -6,7 +6,7 @@ Alexandre Del Perigia est comédien, cofondateur du Théâtre École du Passage 
 
 Pontempeyrat. C’est une histoire qui commence en 1986. Nous avons créé, avec Niels Arestrup, l’École du Passage, une des première école pluridisciplinaire de théâtre.
 
-Le théâtre est une aventure qui travaille sur l’unité d’un spectacle et l’unicité de chacun. Aussi, nous nous sommes posés la question de savoir comment tout le monde pouvait collaborer à la formation d’élèves de théâtre. Au fil des discussions, nous sommes tombés sur les aventures de [Jean Dasté](https://fr.wikipedia.org/wiki/Jean_Dast%C3%A9), qui est le fondateur de la Comédie à Saint-Étienne et qui avait une structure nomade qui allait dans les villages d’à côté.
+Le théâtre est une aventure qui travaille sur l’unité d’un spectacle et l’unicité de chacun. Aussi, nous nous sommes posés la question de savoir comment tout le monde pouvait collaborer à la formation d’élèves de théâtre. Au fil des discussions, nous sommes tombés sur les aventures de [Jean Dasté](https://fr.wikipedia.org/wiki/Jean_Dasté), qui est le fondateur de la Comédie à Saint-Étienne et qui avait une structure nomade qui allait dans les villages d’à côté.
 
 La relation que l’on avait avec le théâtre était construite sur l’idée qu’en utilisant le point de vue de chacun - c’est-à-dire en ne restant pas simplement sur un point de vue de théâtre, mais en acceptant d’avoir d’autres points de vue - on allait pouvoir faire évoluer et changer la formation de l’acteur. Sur la complémentarité des points de vue, j’ai toujours été pour le travail avec d’autres intervenants et d’autres métiers. Par exemple, travailler sur les liens entre le porté en cirque et la maçonnerie. Pourquoi ? Parce que quand je suis arrivé en France après être né et avoir vécu 15 ans au Maroc, j’ai été à un moment donné docker à Set. Et je me suis rendu compte très rapidement de comment je pouvais faire un lien entre mon vécu de docker et quand j’ai été porteur - à un moment donné - dans le cirque.
 
@@ -44,7 +44,7 @@ Ce qui m’a intéressé dans la rencontre avec les tiers-lieux, c’est que tou
 
 Si tout d’un coup on travaille sur quelque chose de plus rhizomique - ce qui m’a toujours intéressé, et que j’ai connu dans mon enfance à travers la culture des plantes rhizomiques qui envahissent le terrain et qui empêche d’autres chose pousser - on se rend compte que le travail sur le rhizomique est plus un travail sur une écoute de chacun, sur une égalité des choses.
 
-Travailler en lien avec les tiers-lieux permet de comprendre que toute la recherche qui a été faite sur ces règles du jeu permet à Pontempeyrat, en tant que lieu de culture tant agricole qu’artistique, vont faire avancer énormément cet espace. 
+Travailler en lien avec les tiers-lieux permet de comprendre que toute la recherche qui a été faite sur ces règles du jeu permet à Pontempeyrat, en tant que lieu de culture tant agricole qu’artistique, vont faire avancer énormément cet espace.
 
 D’où la question : est-ce que les tiers-lieux ont besoin de la culture, ou est-ce que la culture a besoin des tiers-lieux ? En tout cas, en ce qui me concerne, en tant qu’homme de culture, je pense que la culture a besoin des tiers-lieux.
 

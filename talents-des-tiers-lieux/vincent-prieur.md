@@ -1,4 +1,4 @@
-# **Vincent Prieur : **_**l’expérience du squat pour répondre au besoin d’espace**_
+# **Vincent Prieur : l’expérience du squat pour répondre au besoin d’espace**
 
 Vincent Prieur est plasticien, professeur d’Arts plastiques, militant associatif. Son interview a été réalisée pour la Biennale de Design de Saint-Etienne le 04 Février 2017 par Sylvia Fredriksson et Aurélien Marty.
 
