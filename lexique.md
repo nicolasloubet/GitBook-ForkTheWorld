@@ -246,7 +246,7 @@ _**Lawrence Lessig **dans **Code is Law **\(Harvard Magazine, 2000\)_
 
 > Il faut considérer les lieux du pouvoir politique, aujourd’hui, comme plus nombreux et plus diversifiés que nous les voyons à travers nos vieilles œillères étatistes.
 
-_**Ada Colau**, Maire de Barcelone \(depuis ...\)_
+_**Ada Colau**, Maire de Barcelone \(depuis 2015\)_
 
 ---
 
@@ -254,7 +254,7 @@ _**Ada Colau**, Maire de Barcelone \(depuis ...\)_
 
 > Il importe que nous décentrions nos usages pour développer des pratiques - et là, je recoupe avec l’opposition que faisait Bernard Stiegler entre usage - mode d’emploi, utilisation d'un objet de façon déterminée ou incitative - et pratique - façon de se conduire avec des objets ou avec une technique de façon ouverte et non prévue à priori. Je fais un lien assez direct entre cette idée d’absence de centre et de pratique, étant donné que l’on peut supposer que les pratiques qui se recentrent deviennent, une fois qu’elles sont majoritaires et injonctives, peut-être un usage. Pour beaucoup de personne, le design et l’usage sont des choses qui vont immédiatement de pair. Encore une fois, cela n’est pas si sûre. Peut-être faut-il chercher ailleurs ?
 
-_**Anthony Masure**, designer \(7 Juin 2015\)_
+_**Anthony Masure**, designer \(_[_7 Juin 2015_](http://notesondesign.org/anthony-masure/)_\)_
 
 ---
 
@@ -270,7 +270,7 @@ _**Toni Negri **dans **EuroNomade** \(7 Février 2017\)_
 
 > La démocratie commence par le proche.
 
-_Citation extraite du livre "**Squatter le pouvoir. Les Mairies rebelles d’Espagne" **de** **Ludovic Lamant \(2016\)_
+Extrait de_ "**Squatter le pouvoir. Les Mairies rebelles d’Espagne" **de** **Ludovic Lamant \(2016\)_
 
 ---
 
@@ -278,7 +278,7 @@ _Citation extraite du livre "**Squatter le pouvoir. Les Mairies rebelles d’Esp
 
 > Je me suis rendu compte que le libre questionnait systématiquement cette question de qualité. Il n’y a pour moi pas qu’une seule qualité.Je me rends surtout compte de cela dans un contexte typographique. C’est à dire qu’en utilisant, produisant et analysant ce qu’est la typographie libre, je me suis rendu compte que, de la même manière qu’il n’y avait pas qu’un seul profil de designer, il n’y avait pas qu’une seule notion de qualité. La notion même de licence permet d’après moi de contribuer à la qualité d’une fonte quelque soit sa qualité graphique. Je suis intéressé par la redéfinition de la qualité, ou à l’ajout d’une ou plusieurs strates à la notion de qualité.
 
-_**Raphaël Bastide**, designer \(27 octobre 2014\)_
+_**Raphaël Bastide**, designer \(_[_27 octobre 2014_](http://notesondesign.org/raphael-bastide/)_\)_
 
 ---
 
