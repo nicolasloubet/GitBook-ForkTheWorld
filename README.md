@@ -10,7 +10,7 @@ Ce document est UNE mise en forme des textes rédigés pour "[l'Expérience Tier
 
 Ce corpus  doit être considéré comme un " collage", i.e.  un ensemble d'idées,  de définitions, d'extraits de texte, de témoignages, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en perspective ce que font les protagonistes des Tiers-Lieux.
 
-Les objectifs : \(1\) permettre à celles et ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent \(2\) soutenir la formulation de récits sur les Tiers-Lieux, par celles et ceux qui en ressentent le besoin.
+Les objectifs : \(1\) permettre à celles et ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent \(2\) soutenir la formulation de récits de Tiers-Lieux, par celles et ceux qui en ressentent le besoin.
 
 L'expérience ForkTheWorld n'est en rien fermée sur elle-même. L**'intention** est de permettre aux acteurs des Tiers-Lieux de se saisir de ce corpus, de le mettre en forme librement et de l'enrichir avec leur vécu.
 
