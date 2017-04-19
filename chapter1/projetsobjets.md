@@ -4,8 +4,6 @@ Cette section compile la totalité des oeuvres/démarches présentées sur le te
 
 _NB : il manque  un certain nombre d'éléments \(photographies des objets, licences juridiques et documentation le cas échéant\)._
 
-Initiateurs : xxx. Licence : yyy. Source : zzz.
-
 ## **0- Frigo d’OpenFactory**
 
 **Initiateurs** : anciens membres de l'association Le Garage. **Licence** : à préciser. **Source** : à ajouter.
@@ -254,117 +252,161 @@ Partant à la rencontre de ces acteurs et de leurs projets, découvrant des lieu
 
 ---
 
-**9- My Human Kit**
+## **9- My Human Kit**
 
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz.
+**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
 
----
+[My Human Kit ](http://myhumankit.org/)est une association visant à développer la santé pour tous à travers l’invention, le partage et la fabrication d’aides techniques aux handicaps réalisables pour et avec les personnes concernées.
 
-**10- Kit de réparation**
+Elle invite les personnes en situation de handicaps à devenir le centre de gravité de leur projet, c’est à dire à transformer leur limitation en motivation. D’être impliquées dans la résolution de leur problème pour fédérer une équipe en utilisant la force combinée de la solidarité \(Tous Ensemble\), du fait maison \(Do It Yourself\) et de la fabrication numérique \(FabLab\). L’objectif est de démontrer et de propager des “Humanlab”, ateliers où les humains vont apprendre à s’auto-réparer partout dans le monde.
 
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
+My Human Kit se positionne comme un opérateur expérimental dédié à l’invention et la propagation de méthodes et solutions concrètes, et à l’établissement d’un réseau international de lieux où valides et handicapés collaboreront pour les inventer, les fabriquer, et les partager.
 
----
-
-**11- Personal Computer**
-
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
+Depuis 2012 des liens ont été tissés partout dans le monde, de Saint-Didier \(35\) à Saint-Pétersbourg, en passant par Bombay, Bristol ou Sao-Paulo, à l’occasion d’événements, de conférences et de sessions de prototypage
 
 ---
 
-**12- Cultibutte**
+## **10- Kit de réparation**
 
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
+**Initiateurs** : Atelier Soudé. **Licence** : à préciser. **Source** : à ajouter.
 
----
-
-**13- Faire Savoir**
-
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
+Nos appareils électroniques auraient une durée de vie. Mais après la mort, vont-ils au paradis ? Si l'on cherche à tout prix à maintenir nos vies grâce aux soins médicaux, pourquoi pas celle de nos appareils électroniques ? A l'image des kits de premiers secours, cette armoire à pharmacie nous transforme en chirurgien électronique. Dans ce kit on trouve tout le nécessaire pour diagnostiquer, réparer et bidouiller soi-même l’électronique. Il s'organise comme un véritable plan de travail pour débutant ou initié, sur place ou à emporter. Réunissant les individus autour d’outils physiques et numériques, de transmission de savoirs et de compétences pratiques, ces kits permettent d’installer rapidement un Tiers-Lieu orienté vers la réappropriation de l’électronique. Chaque kit est unique et adapté aux besoins : fabrication, formes, matériaux, contenu.
 
 ---
 
-**14- Établi Communautaire**
+## **11- Personal Computer**
 
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
+**Initiateurs** : **C. Poudret \(**Atelier Soudé\). **Licence** : à préciser. **Source** : à ajouter.
 
----
+Les ordinateurs que nous possédons aujourd'hui sont dits "personnels". Mais cela concerne seulement une couche superficielle de la machine, le reste nous échappe totalement en tant qu'utilisateur, que ce soit au niveau logiciel ou matériel. Cet ordinateur est ici "reconfiguré" entièrement, cassant la barrière préexistante entre la machine telle que conçue initialement et l'utilisateur "consommateur".
 
-**15- Paravent de table**
-
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
+Le but est réellement de se réapproprier la technologie sans laisser ce bénéfice unique entre les mains des constructeurs. Le Personal Computer inclut: une 2eme carte wifi, un tuner TNT pour analyser les ondes radio, une carte GSM pour envoyer des SMS depuis l'ordinateur, un lecteur de carte à puces, un hub USB. Il ne s’allume que grâce à une clé contenant le système Linux. Le mot "clé" reprend alors tout son sens.
 
 ---
 
-**16- MediaLaBox**
+## **12- Cultibutte**
 
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
+**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
 
----
-
-**17- Applaus detector**
-
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
+ 
 
 ---
 
-**18- Services numériques décentralisés**
+## **13- Faire Savoir**
 
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
+**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
 
----
 
-**19- Bacterian Farm**
-
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-**20- Gynepunk**
+## **14- Établi Communautaire**
 
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
+**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
 
----
 
-**21- Catamaran DIY**
-
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-**22- Récupérathèque**
+## **15- Paravent de table**
 
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
+**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
 
----
 
-**23- Energy by drill**
-
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-**24- DOZE Parc**
+## **16- MediaLaBox**
 
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
+**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
 
----
 
-**25- CyberGarden**
-
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-**26- Micro-hackuaponie**
+## **17- Applaus detector**
 
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
+**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+
+
 
 ---
 
-27- **Presse à insectes**
+## **18- Services numériques décentralisés**
 
-**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
+**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+
+
+
+---
+
+## **19- Bacterian Farm**
+
+**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+
+
+
+---
+
+## **20- Gynepunk**
+
+**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+
+
+
+---
+
+## **21- Catamaran DIY**
+
+**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+
+
+
+---
+
+## **22- Récupérathèque**
+
+**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+
+
+
+---
+
+## **23- Energy by drill**
+
+**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+
+
+
+---
+
+## **24- DOZE Parc**
+
+**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+
+
+
+---
+
+## **25- CyberGarden**
+
+**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+
+
+
+---
+
+## **26- Micro-hackuaponie**
+
+**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+
+
+
+---
+
+## 27- **Presse à insectes**
+
+**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
 
 
 
