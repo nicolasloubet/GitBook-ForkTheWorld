@@ -8,7 +8,7 @@ Sous l’impulsion des "co-commissaires" Yoann Duriaux \(OpenFactory, Movilab\) 
 
 ---
 
-# Le commissariat de la _World Trust Foundation_
+# La World Trust Foundation
 
 ## **Co-commissariat scientifique**
 
