@@ -196,6 +196,8 @@ Dispositif conçu et réalisé dans le cadre d’Open City Lab \(23 au 29 Janvie
 
 ## **6- Echopen**
 
+Initiateurs : à préciser. Licence : à préciser.
+
 [Echopen](https://echopen.gitbooks.io/starterkit/content/setup_your_own_echopen_lab.html) aims at developing the first low-cost [open source hardware](https://en.wikipedia.org/wiki/Open-source_hardware) echostethoscope which can be connected to a smartphone or a tablet. It is intended for health professionnals and will be developed thanks to a multidisplinary community. To keep in touch:
 
 * Get The News with the echopen [newsletter](http://eepurl.com/6L4I5)
@@ -212,17 +214,7 @@ Dispositif conçu et réalisé dans le cadre d’Open City Lab \(23 au 29 Janvie
 
 ## **7- GNU/Linux Distribution Timeline**
 
-Initiateurs : Andreas Lundqvist \(initially\), Muhammad Herdiansyah \(continued\) — File:Linux Distribution Timeline.svg — Création : 24 mai 2016
+Initiateurs : Andreas Lundqvist \(initially\), Muhammad Herdiansyah \(continued\). Licence : GNU Free Documentation License. Source: [Linux Distribution Timeline.svg](https://commons.wikimedia.org/wiki/File:Linux_Distribution_Timeline.svg)
 
 [Linux](https://simple.wikipedia.org/wiki/Linux) : Linux ou GNU/Linux est un système d'exploitation open source unix-like pour les ordinateurs. Un système d'exploitation est une collection des instructions de base qui gèrent les parties électroniques de l'ordinateur. Linux est un logiciel libre et open source, \[...\] chacun a la liberté de l'utiliser, de voir comment il fonctionne, de le modifier ou de le partager.
-
-
-
-
-
-
-
-
-
-
 
