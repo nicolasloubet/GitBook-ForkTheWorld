@@ -10,7 +10,7 @@ Ce document est UNE mise en forme des [textes](https://docs.google.com/document/
 
 Ce corpus doit être considéré comme un " collage", i.e.  un ensemble d'idées,  de définitions, d'extraits de texte, de témoignages, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en perspective ce que font les protagonistes des Tiers-Lieux.
 
-Les objectifs de ce corpus sont : \(1\) de permettre à celles et ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent \(2\) de soutenir la **formulation de récits **de Tiers-Lieux \(3\) d'engager un** essaimage actif **de l'expérience par les acteurs du réseau Tiers-Lieu\(x\). En filigrane, l'intention est de tester empiriquement l'hypothèse selon laquelle le fonctionnement des Tiers-Lieux est régi par **5 propriétés fondamentales** : 
+Les objectifs de ce corpus sont : \(1\) de permettre à celles et ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent \(2\) de soutenir la **formulation de récits **de Tiers-Lieux \(3\) d'engager un** essaimage actif **de l'expérience par les acteurs du réseau. En filigrane, l'intention est de tester empiriquement l'hypothèse selon laquelle le fonctionnement des Tiers-Lieux est régi par **5 propriétés fondamentales** :
 
 1. [Configuration sociale](https://nicolasloubet.gitbooks.io/fork-the-world/content/principes/configuration-sociale.html)
 2. [Patrimoine commun](https://nicolasloubet.gitbooks.io/fork-the-world/content/principes/patrimoine-commun.html)
