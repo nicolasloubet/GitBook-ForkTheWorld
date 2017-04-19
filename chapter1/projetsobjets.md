@@ -220,13 +220,13 @@ Dispositif conçu et réalisé dans le cadre d’Open City Lab \(23 au 29 Janvie
 
 ---
 
-**8- DIY CRISPR KIT** 
+## **8- DIY CRISPR KIT**
 
-Initiateurs : The ODIN \(The Open Discovery Institute, 2016\). Licence : à préciser. Sources : à ajouter.
+**Initiateurs** : The ODIN \(The Open Discovery Institute, 2016\). **Licence** : à préciser. **Sources** : à ajouter.
 
 Avec "Biohack la planète" comme credo, la startup The Odin tire son origine d'une volonté farouche d'inclure davantage de personnes en science, et plus particulièrement dans le champ des biotechnologies. Biberonnée à la biologie participative ou biologie "Do It Yourself", l'équipe revendique une nécessaire acculturation et appropriation de l'ingénierie des génomes par les citoyens. Chez Odin, rendre accessible à tous les techniques d'édition de l'ADN passe par la conception, et aujourd'hui vente, de kits permettant de remanier génétiquement des organismes unicellulaires inoffensifs. Le Bacterial [DIY CRISPR Kit](https://docs.google.com/document/d/1qJ-hkVjE3uqbSazqJdDkhdM7K9HDTqWl8pN-reX26JM/edit) propose ainsi de modifier l'espèce bactérienne E. Coli, couramment utilisée au laboratoire, pour lui permettre de survivre dans un milieu de culture, habituellement létal pour elle. De l'indispensable micropipette au milieu de culture, le kit contient tout le nécessaire pour faire ses premiers pas: 150$ et quelques heures, c'est ce qu'il en coûte aujourd'hui, à l'ère de la dernière née des techniques d'édition génomique CRISPR-cas9.
 
-**Texte critique de Quitterie Largeteau, co-fondatrice de Biohacking Safari**
+### **Texte critique de Quitterie Largeteau, co-fondatrice de Biohacking Safari**
 
 Les années 2010 voient une évolution rapide des technologies de modification du génome. Janvier 2013, la dernière née s'appelle CRISPR-Cas9. Réputée plus simple, rapide et économique, cette méthode issue de groupes institutionnels de recherche séduit et relance le débat éthique et sociétal autour de l'édition génomique. "Révolution", "menace" font aujourd'hui les unes des médias avec cette question: "Jusqu'où souhaitons nous aller?"
 
@@ -234,19 +234,19 @@ Hors du cadre institutionnel, CRISPR rejoint la panoplie d'outils de modificatio
 
 Pour les curieux, ces workshops sont des initiations, tant théorique que pratique, proposés par les communautés Genspace et Hackteria. Entre discussions et expérimentations, l'enjeu est de contextualiser et démystifier les techniques d'édition génomique, ainsi qu'imaginer ensemble des usages "souhaitables" à venir.
 
-**BioHacking Safari** \(Quitterie Largeteau et Aurélien Dailly\)
+### **BioHacking Safari \(Quitterie Largeteau et Aurélien Dailly\)**
 
-De nouvelles pratiques de biologie, ouvertes et collaboratives, s'étendent dans le monde hors des murs traditionnels. Sous l'appellation "Do it Yourself", elles portent de façons diverses l'ambition de démocratisation et d'appropriation de la biologie par les citoyens.
+De nouvelles pratiques de biologie, ouvertes et collaboratives, s'étendent hors des murs traditionnels. Sous l'appellation "Do it Yourself", elles portent de façons diverses l'ambition de démocratisation et d'appropriation de la biologie par les citoyens.
 
-**La biologie DIY représente beaucoup pour moi car elle permet aux communautés de reprendre le contrôle.**
+> La biologie DIY représente beaucoup pour moi car elle permet aux communautés de reprendre le contrôle.
 
-Derek Jacoby, doctorant et co-fondateur du Victoria makerspace, Canada
+**Derek Jacoby**, doctorant et co-fondateur du Victoria makerspace, Canada
 
-BioHacking Safari est un projet d'exploration de ces terrains d'appropriation citoyenne de la recherche, de la transmission de savoirs et de l'innovation ouverte dans les sciences et technologies liées au vivant.
-
-**Les hackerspaces et les laboratoires communautaires donnent l’opportunité aux aventuriers de découvrir et d’apprendre toujours plus.**
+Les hackerspaces et les laboratoires communautaires donnent l’opportunité aux aventuriers de découvrir et d’apprendre toujours plus.
 
 Tito Jankowsky, BioCurious, Californie
+
+BioHacking Safari est un projet d'exploration de ces terrains d'appropriation citoyenne de la recherche, de la transmission de savoirs et de l'innovation ouverte dans les sciences et technologies liées au vivant.
 
 Partant à la rencontre de ces acteurs et de leurs projets, découvrant des lieux et des communautés plurielles, BioHacking Safari aspire à créer du lien entre eux et leur donner une voix, en partageant et racontant leurs histoires.
 
