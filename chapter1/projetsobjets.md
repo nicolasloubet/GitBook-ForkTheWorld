@@ -182,13 +182,47 @@ Comme toute forme de vie, la Plantoïd a vocation a se reproduire. Pour se faire
 
 **Initiateurs** : R. Técher, S. Rabaaoui, L. Villard, P. Flipo, N. Loubet, C. Epie, X. Lavayssière, A. Omerin, Alizée Gérard \(…\) **Licences** : CC-BY-NC-SA pour la documentation ; GPL3 pour le code.
 
-DAISEE est un commun co-produit par la MYNE \(tiers-lieu basé à Lyon\) et CELLABZ \(« organisme » d’acculturation aux technologies émergentes\). Ce commun mobilise l’intervention d’organisations \(‘communautés'\) qui se reconnaissent d’un objectif de transition de société et de **réappropriation des systèmes**. DAISEE doit permettre à tout usager d’échanger ou acheter de l’électricité directement à des pairs, dans son voisinage, qui en produisent en surplus. Il s'agit d'hybrider différentes technologies qui garantissent la distribution, la transparence, l’intégrité et l’inviolabilité de l’information ainsi que des pratiques de travail ou d'organisation. Les technologies blockchain au centre de cette expérimentation, bien plus comme philosophie que comme technologie, permettent de penser les systèmes différemment mais aussi des modes de co-production du commun.--- 
+DAISEE est un commun co-produit par la MYNE \(tiers-lieu basé à Lyon\) et CELLABZ \(« organisme » d’acculturation aux technologies émergentes\). Ce commun mobilise l’intervention d’organisations \(‘communautés'\) qui se reconnaissent d’un objectif de transition de société et de **réappropriation des systèmes**. DAISEE doit permettre à tout usager d’échanger ou acheter de l’électricité directement à des pairs, dans son voisinage, qui en produisent en surplus. Il s'agit d'hybrider différentes technologies qui garantissent la distribution, la transparence, l’intégrité et l’inviolabilité de l’information ainsi que des pratiques de travail ou d'organisation. Les technologies blockchain au centre de cette expérimentation, bien plus comme philosophie que comme technologie, permettent de penser les systèmes différemment mais aussi des modes de co-production du commun.---
 
 ---
 
 ## **5- Vélo du concierge **
 
-Initiateur : Abel Ary. Licence : à préciser.
+**Initiateur** : Abel Ary. **Licence** : à préciser.
 
 Dispositif conçu et réalisé dans le cadre d’Open City Lab \(23 au 29 Janvier 2017\) pour L’Expérience Tiers-Lieux Fork The World.
+
+---
+
+## **6- Echopen**
+
+[Echopen](https://echopen.gitbooks.io/starterkit/content/setup_your_own_echopen_lab.html) aims at developing the first low-cost [open source hardware](https://en.wikipedia.org/wiki/Open-source_hardware) echostethoscope which can be connected to a smartphone or a tablet. It is intended for health professionnals and will be developed thanks to a multidisplinary community. To keep in touch:
+
+* Get The News with the echopen [newsletter](http://eepurl.com/6L4I5)
+
+* Join the community on the[echopen slack](https://echopen.slack.com)to chat with everyone
+
+* Send an email at contact\[a\]echopen.org
+
+* Join our [Facebook group](https://www.facebook.com/groups/echopen/?fref=ts)
+
+* Come visit us at our open lab inside Hopital Hotel Dieu - 1, place du parvis Notre Dame - 75004 Paris - France \(Bâtiment A1, 6e étage\)
+
+---
+
+## **7- GNU/Linux Distribution Timeline**
+
+Initiateurs : Andreas Lundqvist \(initially\), Muhammad Herdiansyah \(continued\) — File:Linux Distribution Timeline.svg — Création : 24 mai 2016
+
+[Linux](https://simple.wikipedia.org/wiki/Linux) : Linux ou GNU/Linux est un système d'exploitation open source unix-like pour les ordinateurs. Un système d'exploitation est une collection des instructions de base qui gèrent les parties électroniques de l'ordinateur. Linux est un logiciel libre et open source, \[...\] chacun a la liberté de l'utiliser, de voir comment il fonctionne, de le modifier ou de le partager.
+
+
+
+
+
+
+
+
+
+
 
