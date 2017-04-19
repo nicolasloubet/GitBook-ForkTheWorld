@@ -4,6 +4,8 @@ Cette section compile la totalité des oeuvres/démarches présentées sur le te
 
 _NB : il manque  un certain nombre d'éléments \(photographies des objets, licences juridiques et documentation le cas échéant\)._
 
+Initiateurs : xxx. Licence : yyy. Source : zzz.
+
 ## **0- Frigo d’OpenFactory**
 
 **Initiateurs** : anciens membres de l'association Le Garage. **Licence** : à préciser. **Source** : à ajouter.
@@ -252,93 +254,115 @@ Partant à la rencontre de ces acteurs et de leurs projets, découvrant des lieu
 
 ---
 
-9- **My Human Kit**
+**9- My Human Kit**
+
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz.
 
 ---
 
-10- Kit de réparation 
+**10- Kit de réparation**
+
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-11- Personal Computer
+**11- Personal Computer**
+
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-12- **Cultibutte**
+**12- Cultibutte**
+
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-13- **Faire Savoir**
+**13- Faire Savoir**
+
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-14- **Établi Communautaire**
+**14- Établi Communautaire**
+
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-15- **Paravent de table**
+**15- Paravent de table**
+
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-16- **MediaLaBox**
+**16- MediaLaBox**
+
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-17- **Applaus detector**
+**17- Applaus detector**
+
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-18- **Services numériques décentralisés**
+**18- Services numériques décentralisés**
+
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-19- **Bacterian Farm**
+**19- Bacterian Farm**
+
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-20- **Gynepunk**
+**20- Gynepunk**
+
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-21- **Catamaran DIY**
+**21- Catamaran DIY**
+
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-22- **Récupérathèque**
+**22- Récupérathèque**
+
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-23- **Energy by drill**
+**23- Energy by drill**
+
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-24- **DOZE Parc**
+**24- DOZE Parc**
+
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-25- **CyberGarden**
+**25- CyberGarden**
+
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
-26- **Micro-hackuaponie**
+**26- Micro-hackuaponie**
+
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
 
 ---
 
 27- **Presse à insectes**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Initiateurs : xxx. Licence : yyy. Source : zzz
 
