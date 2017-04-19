@@ -24,7 +24,7 @@
   * [Libre appropriation](libre-appropriation.md)
   * [Émancipation par le faire](emancipation-par-le-faire.md)
   * [Résilience et modularité](resilience-et-modularite.md)
-* [Explorer de Tiers-Lieux](exemples.md)
+* [Explorer les Tiers-Lieux](exemples.md)
   * [Jules Verne \(Aurec\)](exemples/maison-jules-verne.md)
   * [Calafou \(Barcelone\)](calafou-barcelone.md)
   * [FunkyCitizen \(Bucarest\)](exemples/funkycitizen-bucarest.md)
