@@ -10,13 +10,7 @@ Ce document est UNE mise en forme des textes rédigés pour l'Expérience Tiers-
 
 Ce corpus doit être considéré comme un " collage", i.e.  un ensemble d'idées,  de définitions, d'extraits de texte, de témoignages, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en perspective ce que font les protagonistes des Tiers-Lieux.
 
-Les objectifs : \(1\) permettre à celles et ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent \(2\) soutenir la **formulation de récits **de Tiers-Lieux, par celles et ceux qui en ressentent le besoin.
-
-L'expérience Fork The World n'est en rien fermée sur elle-même. L**'**intention est de permettre aux acteurs des Tiers-Lieux de **se saisir de ce corpus**, de le mettre en forme librement et de l'enrichir avec leur vécu.
-
-# Thèse
-
-L'apport de **Fork The World** est de proposer une codification" des Tiers-Lieux au travers de 5 **propriétés **:
+Les objectifs sont : \(1\) de permettre à celles et ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent \(2\) de soutenir la **formulation de récits **de Tiers-Lieux \(3\) de soutenir l'**appropriation du corpus** initié dans le cadre de la Bienne de Design. En filigrane, il s'agit d'éprouver l'hypothèse selon laquelle les Tiers-Lieux se décrivent au travers de ces 5 propriétés : 
 
 1. [Configuration sociale](https://nicolasloubet.gitbooks.io/fork-the-world/content/principes/configuration-sociale.html)
 2. [Patrimoine commun](https://nicolasloubet.gitbooks.io/fork-the-world/content/principes/patrimoine-commun.html)
@@ -24,9 +18,9 @@ L'apport de **Fork The World** est de proposer une codification" des Tiers-Lieux
 4. [Émancipation par le faire](https://nicolasloubet.gitbooks.io/fork-the-world/content/emancipation-par-le-faire.html)
 5. [Résilience et modularité](https://nicolasloubet.gitbooks.io/fork-the-world/content/resilience-et-modularite.html)
 
-# Remix
+# Essaimage
 
-Plusieurs Tiers-Lieux / organismes ont exprimé leur souhait de répliquer / adapter le corpus Fork The World.
+Plusieurs Tiers-Lieux / organismes ont exprimé leur souhait de répliquer / adapter le corpus.
 
 * [Cité Descartes](https://hackpad.com/ForkTheCampus-Essaimage-de-lexposition-tiers-lieux-Cit-Descartes-8WmEOzlNZGl) \(Paris\)
 * [Hotel Pasteur](http://www.hotelpasteur.fr) \(Rennes\)
@@ -36,6 +30,8 @@ Plusieurs Tiers-Lieux / organismes ont exprimé leur souhait de répliquer / ada
 * [Meshwork](http://www.meshwork.fr) \(Nancy\)
 
 # Ressources
+
+Voici les ressources nécessaires minimales pour répliquer / reproduire /enrichir le corpus. 
 
 * [Carnet de bord de l'expérience tiers-lieux Fork The World](http://frama.link/BiennaleDesign17-ForkTheWorld)
 * [Dépôt initial des textes au format .doc \(Google Drive\)](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
