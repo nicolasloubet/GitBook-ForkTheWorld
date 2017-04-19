@@ -178,7 +178,7 @@ Comme toute forme de vie, la Plantoïd a vocation a se reproduire. Pour se faire
 
 ---
 
-## **4- DAISEE - Energy as a Common\(s\)**
+## **4- DAISEE**
 
 **Initiateurs** : R. Técher, S. Rabaaoui, L. Villard, P. Flipo, N. Loubet, C. Epie, X. Lavayssière, A. Omerin, Alizée Gérard \(…\) **Licences** : CC-BY-NC-SA pour la documentation ; GPL3 pour le code. **Source** : [knowledge base](https://frama.link/DAISEE-knowledge).
 
@@ -249,6 +249,96 @@ De nouvelles pratiques de biologie, ouvertes et collaboratives, s'étendent hors
 BioHacking Safari est un projet d'exploration de ces terrains d'appropriation citoyenne de la recherche, de la transmission de savoirs et de l'innovation ouverte dans les sciences et technologies liées au vivant.
 
 Partant à la rencontre de ces acteurs et de leurs projets, découvrant des lieux et des communautés plurielles, BioHacking Safari aspire à créer du lien entre eux et leur donner une voix, en partageant et racontant leurs histoires.
+
+---
+
+9- **My Human Kit**
+
+---
+
+10- Kit de réparation 
+
+---
+
+11- Personal Computer
+
+---
+
+12- **Cultibutte**
+
+---
+
+13- **Faire Savoir**
+
+---
+
+14- **Établi Communautaire**
+
+---
+
+15- **Paravent de table**
+
+---
+
+16- **MediaLaBox**
+
+---
+
+17- **Applaus detector**
+
+---
+
+18- **Services numériques décentralisés**
+
+---
+
+19- **Bacterian Farm**
+
+---
+
+20- **Gynepunk**
+
+---
+
+21- **Catamaran DIY**
+
+---
+
+22- **Récupérathèque**
+
+---
+
+23- **Energy by drill**
+
+---
+
+24- **DOZE Parc**
+
+---
+
+25- **CyberGarden**
+
+---
+
+26- **Micro-hackuaponie**
+
+---
+
+27- **Presse à insectes**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
