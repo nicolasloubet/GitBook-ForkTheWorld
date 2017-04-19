@@ -2,11 +2,11 @@
 
 Cette section compile la totalité des oeuvres/démarches présentées sur le temps de la Biennale de Design de Saint-Etienne.
 
-_NB1 : il manque un certain nombre d'éléments \(photographies des objets, licences juridiques et documentation le cas échéant\)._
+Remarques : 
 
-_NB2 : cette liste préfigure une base de données ad hoc qui pourra être augmentée dans le cadre de l'essaimage de l'exposition. _
-
-NB3 : ce qui sera très intéressant, à l'avenir, c'est de permettre des croisements réguliers entre ces différents groupes-projets.
+* Il manque un certain nombre d'éléments \(photographies des objets, licences juridiques et documentation le cas échéant\).
+* Cette liste préfigure une base de données ad hoc qui pourra être augmentée dans le cadre de l'essaimage de l'exposition. 
+* Ce qui sera très intéressant, à l'avenir, c'est de permettre des croisements réguliers entre ces différents groupes-projets.
 
 ## **0- Frigo d’OpenFactory**
 
@@ -423,7 +423,7 @@ Les citoyens et makers prennent un rôle de plus en plus large dans la réapprop
 * Johann Durrafourg, PowerPlant
 * Jean-Marie Claisse & Oriane Marignier, ferme à SCOBY
 
-**Remerciements** : 
+**Remerciements** :
 
 * Ets DB PRODUCTS
 * 2nd PETROLEUM BOY
