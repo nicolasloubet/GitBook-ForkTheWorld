@@ -2,11 +2,13 @@
 
 Cette section compile la totalité des oeuvres/démarches présentées sur le temps de la Biennale de Design de Saint-Etienne.
 
-_NB : il manque  un certain nombre d'éléments \(photographies des objets, licences juridiques et documentation le cas échéant\)._
+_NB1 : il manque un certain nombre d'éléments \(photographies des objets, licences juridiques et documentation le cas échéant\)._
+
+_NB2 : cette liste préfigure une base de données ad hoc qui pourra être augmentée dans le cadre de l'essaimage de l'exposition. _
+
+NB3 : ce qui sera très intéressant, à l'avenir, c'est de permettre des croisements réguliers entre ces différents groupes-projets.
 
 ## **0- Frigo d’OpenFactory**
-
-**Initiateurs** : anciens membres de l'association Le Garage. **Licence** : à préciser. **Source** : à ajouter.
 
 Ce frigo appartenait au Garage, l’association étudiante de l’ESADE. Créée à l’initiative d’étudiants et de professeurs, elle s’était montée pour manifester son indignation face au choix de l’école de former les jeunes designers sur des logiciels propriétaires type la suite Adobe \(1700 €\) alors qu’il existe tout un tas d’outils libres type Gimp et Inskape.
 
@@ -18,7 +20,7 @@ Aujourd’hui, ce frigo et le canapé en cuir qui se trouve dans le makerspace d
 
 ## **1- Table de dataviz Cairn **
 
-**Initiateurs** : Pauline Gourlet et Thierry Dasse \(Carrefour Numérique\). **Licence** : à préciser_. _**Source** : à ajouter.
+**Initiateurs** : Pauline Gourlet et Thierry Dasse \(Carrefour Numérique\). **Licence** : CC-BY-SA_. _**Source** : [page wiki](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=projets:cairn_table_de_recueil_de_donnees).
 
 Résumé
 
@@ -122,7 +124,7 @@ La posture des designers qui ne travaillent pas sur le terrain, dans des endroit
 
 ## **2- Blockchain Vaisselle**
 
-**Initiateurs** : Thomas Thibault \(Collectif Bam\) & Blockchain France, 2016 **Licence** : CC BY 3.0 FR. **Source** : à ajouter.
+**Initiateurs** : Thomas Thibault \(Collectif Bam\) & Blockchain France, 2016 **Licence** : CC BY 3.0 FR. **Source** : [page web](http://www.collectifbam.fr/project/blockchain-corvee-de-vaisselle/).
 
 Résumé
 
@@ -180,7 +182,7 @@ Comme toute forme de vie, la Plantoïd a vocation a se reproduire. Pour se faire
 
 ## **4- DAISEE**
 
-**Initiateurs** : R. Técher, S. Rabaaoui, L. Villard, P. Flipo, N. Loubet, C. Epie, X. Lavayssière, A. Omerin, Alizée Gérard \(…\) **Licences** : CC-BY-NC-SA pour la documentation ; GPL3 pour le code. **Source** : [knowledge base](https://frama.link/DAISEE-knowledge).
+**Initiateurs** : R. Técher, S. Rabaaoui, L. Villard, P. Flipo, N. Loubet, C. Epie, X. Lavayssière, A. Omerin, Alizée Gérard \(…\) **Licences** : CC-BY-NC-SA pour la documentation ; GPL3 pour le code. **Source** : [Knowledge Base](https://frama.link/DAISEE-knowledge).
 
 DAISEE est un commun co-produit par la MYNE \(tiers-lieu basé à Lyon\) et CELLABZ \(« organisme » d’acculturation aux technologies émergentes\). Ce commun mobilise l’intervention d’organisations \(‘communautés'\) qui se reconnaissent d’un objectif de transition de société et de **réappropriation des systèmes**. DAISEE doit permettre à tout usager d’échanger ou acheter de l’électricité directement à des pairs, dans son voisinage, qui en produisent en surplus. Il s'agit d'hybrider différentes technologies qui garantissent la distribution, la transparence, l’intégrité et l’inviolabilité de l’information ainsi que des pratiques de travail ou d'organisation. Les technologies blockchain au centre de cette expérimentation, bien plus comme philosophie que comme technologie, permettent de penser les systèmes différemment mais aussi des modes de co-production du commun.---
 
@@ -196,7 +198,7 @@ Dispositif conçu et réalisé dans le cadre d’Open City Lab \(23 au 29 Janvie
 
 ## **6- Echopen**
 
-**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : à préciser. **Licence** : GNU GPL V3 \(software\), TAPR Open Hardware License \(hardware\). **Source** : [wiki](http://echopen.org/doc-website/CAT-configuration/CFG-sweeping_probe/content).
 
 [Echopen](https://echopen.gitbooks.io/starterkit/content/setup_your_own_echopen_lab.html) aims at developing the first low-cost [open source hardware](https://en.wikipedia.org/wiki/Open-source_hardware) echostethoscope which can be connected to a smartphone or a tablet. It is intended for health professionnals and will be developed thanks to a multidisplinary community. To keep in touch:
 
@@ -222,7 +224,7 @@ Dispositif conçu et réalisé dans le cadre d’Open City Lab \(23 au 29 Janvie
 
 ## **8- DIY CRISPR KIT**
 
-**Initiateurs** : The ODIN \(The Open Discovery Institute, 2016\). **Licence** : à préciser. **Sources** : à ajouter.
+**Initiateurs** : The ODIN \(The Open Discovery Institute, 2016\). **Licence** : à préciser. **Sources** : [Google Drive](https://docs.google.com/document/d/1qJ-hkVjE3uqbSazqJdDkhdM7K9HDTqWl8pN-reX26JM/edit).
 
 Avec "Biohack la planète" comme credo, la startup The Odin tire son origine d'une volonté farouche d'inclure davantage de personnes en science, et plus particulièrement dans le champ des biotechnologies. Biberonnée à la biologie participative ou biologie "Do It Yourself", l'équipe revendique une nécessaire acculturation et appropriation de l'ingénierie des génomes par les citoyens. Chez Odin, rendre accessible à tous les techniques d'édition de l'ADN passe par la conception, et aujourd'hui vente, de kits permettant de remanier génétiquement des organismes unicellulaires inoffensifs. Le Bacterial [DIY CRISPR Kit](https://docs.google.com/document/d/1qJ-hkVjE3uqbSazqJdDkhdM7K9HDTqWl8pN-reX26JM/edit) propose ainsi de modifier l'espèce bactérienne E. Coli, couramment utilisée au laboratoire, pour lui permettre de survivre dans un milieu de culture, habituellement létal pour elle. De l'indispensable micropipette au milieu de culture, le kit contient tout le nécessaire pour faire ses premiers pas: 150$ et quelques heures, c'est ce qu'il en coûte aujourd'hui, à l'ère de la dernière née des techniques d'édition génomique CRISPR-cas9.
 
@@ -254,7 +256,7 @@ Partant à la rencontre de ces acteurs et de leurs projets, découvrant des lieu
 
 ## **9- My Human Kit**
 
-**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : à préciser. **Licence** : CC-BY-SA. **Sources** : [site web](http://myhumankit.org/participer/).
 
 [My Human Kit ](http://myhumankit.org/)est une association visant à développer la santé pour tous à travers l’invention, le partage et la fabrication d’aides techniques aux handicaps réalisables pour et avec les personnes concernées.
 
@@ -268,7 +270,7 @@ Depuis 2012 des liens ont été tissés partout dans le monde, de Saint-Didier \
 
 ## **10- Kit de réparation**
 
-**Initiateurs** : Atelier Soudé. **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : Atelier Soudé. **Licence** : à préciser. **Sources** : à ajouter.
 
 Nos appareils électroniques auraient une durée de vie. Mais après la mort, vont-ils au paradis ? Si l'on cherche à tout prix à maintenir nos vies grâce aux soins médicaux, pourquoi pas celle de nos appareils électroniques ? A l'image des kits de premiers secours, cette armoire à pharmacie nous transforme en chirurgien électronique. Dans ce kit on trouve tout le nécessaire pour diagnostiquer, réparer et bidouiller soi-même l’électronique. Il s'organise comme un véritable plan de travail pour débutant ou initié, sur place ou à emporter. Réunissant les individus autour d’outils physiques et numériques, de transmission de savoirs et de compétences pratiques, ces kits permettent d’installer rapidement un Tiers-Lieu orienté vers la réappropriation de l’électronique. Chaque kit est unique et adapté aux besoins : fabrication, formes, matériaux, contenu.
 
@@ -276,7 +278,7 @@ Nos appareils électroniques auraient une durée de vie. Mais après la mort, vo
 
 ## **11- Personal Computer**
 
-**Initiateurs** : **C. Poudret \(**Atelier Soudé\). **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : Clément Poudret** \(**Atelier Soudé\). **Licence** : à préciser. **Sources** : à ajouter.
 
 Les ordinateurs que nous possédons aujourd'hui sont dits "personnels". Mais cela concerne seulement une couche superficielle de la machine, le reste nous échappe totalement en tant qu'utilisateur, que ce soit au niveau logiciel ou matériel. Cet ordinateur est ici "reconfiguré" entièrement, cassant la barrière préexistante entre la machine telle que conçue initialement et l'utilisateur "consommateur".
 
@@ -286,127 +288,186 @@ Le but est réellement de se réapproprier la technologie sans laisser ce béné
 
 ## **12- Cultibutte**
 
-**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : L'Atelier Paysan. **Licence** : BY-NC-SA. **Sources** : [page web](http://www.latelierpaysan.org/Cultibutte).
 
- 
+Le Cultibutte a été baptisé ainsi car les principaux organes de travail sont des dents de cultivateur complétées par une paire de disques. Il permet le travail en butte et en planche permanente pour la reprise d’un labour ou d’une fin de culture. Il est conçu pour façonner ou entretenir les buttes.
+
+**L'Atelier Paysan **fédère des collectifs de paysans partout en France pour concevoir en groupe des machines et des bâtiments sur mesure, adaptés aux pratiques spécifiques de l’agroécologie paysanne. Nous partons du principe que les agriculteurs, qui sont au cœur de la pratique et de l’expérience agricole, sont bien placés pour inventer ou ajuster eux-mêmes leur outil de production, et que les solutions les plus **autonomes** et **économes** émergent souvent de l**’intelligence collective de terrain**. L’Atelier Paysan est équipé de 5 camions atelier qui sillonnent la France pour essaimer ces communs, en assurant un programme de 70 formations auto-construction par an.
 
 ---
 
 ## **13- Faire Savoir**
 
-**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : Luce Aknin. **Licence** : à préciser. **Sources** : [page web](http://www.luceaknin.com/?portfolio=faire-savoir).
 
-
+L'atelier Faire Savoir permet à tous la découverte de **métiers manuels industriels ou artisanaux** par la fabrication d'un objet. Il approche le métier par la matière et la rencontre, pour créer le déclic chez des personnes qui ne s'y attendrait pas et **revaloriser ces filières**. Les ateliers sont conduit localement par des hommes/femmes de métier volontaires ayant l’envie de transmettre. A chaque métier est associé un objet qui permet de découvrir un panel d’outils à travers les différentes étapes de sa fabrication. Le choix de cet objet est fait en amont en concertation avec les habitants, pour son usage collectif. Le dispositif a été testé à côté de Lens et a donné lieu à 2 ateliers d'initiation à la chaudronnerie par la fabrication de mobiliers de fête de quartier \(tréteaux\). Il a été répliqué avec le Lycée Le Marais et le tiers-lieu OpenFactory afin d’encourager les échanges entre ces établissements. Enfin, il est en cours d’adaptation à la région Grand Est au sein de la Chaire IDIS.
 
 ---
 
 ## **14- Établi Communautaire**
 
-**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : OpenSources. **Licence** : à préciser. **Sources** : à ajouter.
 
-
+La vie en communauté pose des questions en termes de sécurisation des machines-outils, notamment dans le cadre d'artisans en résidence. Nous imaginons cet établi comme un coffre permettant la sécurisation des outils personnelles tout en étant un plan de travail utilisable par tous. Écrin aux machines, il permet leur mobilité en intégrant des modules combinatoires roulants. Il contient des rangements accueillant les outils de base \(pinces, clés, marteaux, etc.\) ainsi que le stock communautaire de quincaillerie. Au centre de l’établi, un grand caisson permet de stocker les profils des projets en cours. Son dessin permet d’accueillir un ensemble de machines en présence, tout en facilitant leur transport dans les véhicules pour les missions extérieures. Nous utilisons les proportions des systainers : les contenants des machines électroportatives, comme base à la conception de l'ensemble des éléments. Un diable dépliable en plan de travail s’ajoute à l’établi et aux modules combinatoires.
 
 ---
 
 ## **15- Paravent de table**
 
-**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : Anthony Vacter, Elise Déplat, Coline Clavreul \(Collectif 96\) **Licence** : à préciser. **Sources** : à ajouter.
 
-
+Le projet est basé sur une observation effectuée lors du workshop Tiny Tilios Camp, organisé par Open Factory, en vue de la Biennale Internationale de Design de Saint-Étienne : Les mutations du travail. L’idée est venue en discutant de l’amélioration et l’aménagement d’Open Factory. Comment obtenir des espaces de travail plus «personnels» dans un espace de comaking? Et comment ceux-ci pourraient être mobiles, interchangeables, modulables...? Le prototype créé est un paravent de table adaptable à toute sorte de plan de travail par un système de serre-joint, productible entièrement en FabLab avec les machines numériques : imprimante 3D, découpe laser ou fraiseuse numérique.
 
 ---
 
 ## **16- MediaLaBox**
 
-**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : Elise Deplat et Coline Clavreul \(Collectif 96\). **Licence** : à préciser. **Sources**: à ajouter.
 
-
+Le constat a été de se dire que beaucoup d'entre nous nous sommes des travailleurs nomades \(coworkeurs, freelance, Community Manager, développeurs, journalistes...\), que nous avons besoin régulièrement besoin de stocker ou de se transférer des données. Ainsi la Media Lab Box permettrait de stocker et de partager des fichiers quels qu'ils soient et de manière nomade, ce serait bien plus simple. La Média Lab Box est pensée pour aussi bien se mettre dans un sac à dos, une boîte à gants d'une voiture, dans un camion, dans un espace de coworking, dans un Tiers Lieux...
 
 ---
 
 ## **17- Applaus detector**
 
-**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : Design Tech Académie & Openscop. **Licence** : à préciser. **Sources** : à ajouter.
 
-
+Capteur de présence permettant de déclencher un son... propre au Tiers Lieux.
 
 ---
 
 ## **18- Services numériques décentralisés**
 
-**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : Clément Ballet, Christophe Junier, Jimmy Fragne, Christian Lopez, Julien Thézé, Patricia Geraci, Jean Bonnard. Avec Clément Bertrand \(Université Jean Monnet\). **Licence** : à préciser. **Sources** : à ajouter.
 
+> Dans les tiers-lieux, nous avons la capacité de créer nos propres réseaux et nos propres services. D’une part, pour contrer les logiques de centralisation par les grands monopoles, les GAFA, et pour répondre aux enjeux liés à la vie privée, à la protection de nos données personnelles, et aux problématiques de surveillance. D’autre part, il s'agit aussi de pouvoir faire tiers-lieu dans les zones reculées, les zones de conflits, celles qui ont connu des chocs politiques ou des catastrophes naturelles, ou encore les lieux de rassemblement. Tout est possible. Branché sur des batteries, nous pouvons imaginer déployer de manière agile une infrastructure numérique là où elle est nécessaire, et mettre en place des services.
 
+Extrait d’interview de** Yoann Duriaux **par Sylvia Fredriksson \(3 mars 2017\)
 
 ---
 
 ## **19- Bacterian Farm**
 
-**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : Jean-Marie Claisse. **Licence** : CC-BY-NC-SA. **Sources** : à ajouter
 
-
+Bacterian Farm, ferme de production de cellulose bactérienne automatisée à partir de sucre, thé et vinaigre. L’intérêt de cette matière est qu’elle ressemble énormément à du cuir issue des bactéries de la boisson Kombucha \(Scoby\). La fabrication est très similaire à la production de vinaigre, et de cellulose bactérienne industrielle mais en DiY. Suivant les ingrédients et le séchage, l’aspect, la couleur et l’odeur peuvent être modifiés. Le but de la ferme est de permettre une culture contrôlée \(Température, PH, séchage\) dans un système clos afin de permettre l'incubation et la culture DiY sans contrainte, et ainsi de faciliter le développement de cette matière dans un usage artisanal local et autonome.
 
 ---
 
 ## **20- Gynepunk**
 
-**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : à préciser. **Licence** : à préciser. **Sources** : [blog](http://gynepunk.tumblr.com).
 
+### **RAID à Calafou**
 
+> Durant une semaine en août 2016, j’ai été amené-e à effectuer un RAID \(Recherche Action Immersion Design\) dans la « colonie éco-industrielle » Calafou, à la rencontre de Gynepunk, groupe d’activistes féministes queer à la tête d’un atelier de production d’instruments et de techniques gynécologiques DIY.
+>
+> En réalité, Gynepunk, est plutôt l’une des nombreuses ramifications d’un projet rhizomique \(qui comprend aussi le laboratoire de biohacking Pechblenda, le mouvement Transhack Feminism, le collectif Freakabolic, etc.\) qui déplace, bricole et réagence biologie et physique appliquées, théories critiques, expérimentations sonores, pornoféminisme, hacktivisme, etc. Gynepunk est un instant de fixation d’une plus vaste expérience aventureuse de mutation et de « devenir » : devenir-plante, devenir-son, devenir-trans, devenir-sorcière. Faire l’expérience de soi en devenant tout autre. Se décoder et se recoder, perpétuellement.
+>
+> Leurs labos-ateliers-antres-studios sont localisés dans une ancienne colonie industrielle, fondée au XIXe siècle, sorte de petite cité ouvrière où une dizaine de familles étaient logées dans une unité d’habitation, à proximité des ateliers. Un magasin, une salle des fêtes et même une église étaient installés sur le site de telle sorte que les ouvriers n’aient jamais à s’éloigner. En 2011, la Coopérative Intégrale de Catalogne \(CIC\) a acquis cette vaste friche de 3 hectares pour y implanter ce projet de « colonie éco-industrielle » qui se situe aux confluences de deux champs de recherche et de développement pour lesquels la CIC s’engage : l’habitat d’un côté et l’autonomie productive et technologique de l’autre.
+
+**Tiphaine Kazi-Tani**, commissaire assistant.e et chargé.e de recherche pour la Biennale internationale de Design 2017
+
+### **Sorcières Cyborg**
+
+Le projet Gynepunk se structure principalement autour de Klau Kinki, artiste, performer et hacktiviste d’origine chilienne, entouré-e de Paula Pin, artiste, musicien-ne, hacker/biohacker, et Gaia Leandra, chercheur-e, performer, biohacker. Gynepunk est un des nombreux projets questionnant genre, pouvoir, narrations, et technologies, animés par ce collectif polymorphe.
+
+Gynepunk englobe différents types d’outils, d’actions et d’interventions, sans hiérarchie, ni permanence. Le projet lui-même est open-source, implémentable par tou.te.s celleux qui s’en emparent. Il s’agit de :
+
+* consigner les liens étroits de la gynécologie avec l’impérialisme, le racisme, le sexisme et la violence \(la gynécologie moderne ayant été mise au point aux États-Unis en utilisant brutalement les corps non-consentants d’esclaves africaines\)
+* proposer la décolonisation et la réappropriation de cette histoire et de cette science par des[individu.es](http://individu.es) aux corps femelles, qui construisent des identités insoumises \(femmes pauvres, en situation irrégulière, indigènes, travailleuses du sexe, personnes trans\*, queer, etc.\)
+* de libérer les techniques de santé traditionnelles du « folklore » où elles sont maintenues, de libérer les technologies des sciences biomédicales des pouvoirs dominants, et d’hybrider ces savoirs pour fabriquer des outils techno-politiques de soin hors des normes économiques, sociales, culturelles et morales
+* se réapproprier en mode 2.0 le pouvoir femelle, commun et ouvert, des sages-femmes, des guérisseuses et des sorcières.
 
 ---
 
 ## **21- Catamaran DIY**
 
-**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : Baptiste Menu et Gabriel Mercier \(OpenSources\) **Licence** : à préciser. **Sources** : [page web](http://www.echo-system.fr/objet/catamaran/).
 
-
+Ce catamaran marque la naissance du collectif stéphanois **Open Sources** \(aujourd'hui association loi 1901\) qui travaille sur la **sensibilisation à la réduction des déchets via la pratique du design**. Il a été réalisé en juillet 2012 en collaboration avec les enfants du comité d’animation pour tous sur le parc de Montaud \(CAPM\). Il se manie à l’aide de pagaies et a remporté les deux courses de radeau de 2012 et 2013 à St Victor-sur-Loire. Sa légèreté \(100 kilos\), le volume d’air emprisonné dans les bouteilles contenues dans les coques \(420 litres\) en font un objet petit mais costaud, pouvant aisément porter 4 adultes, facilement montable et démontable. L’aspect dégradé du prototype est dû à environ 200 heures de flottaisons lors des courses de 2012 et 2013 et de quelques virées bucoliques sur la Loire. À cela s’ajoute un stockage en extérieur depuis deux ans. En 2013, un trimaran à la conception plus aboutie a vu le jour sur le même principe en collaboration avec le centre social Michelet.
 
 ---
 
 ## **22- Récupérathèque**
 
-**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : Esther Coillet-Matillon et Olivier Milis, Thomas Baudouin pour La Valise. **Licence** : Art Libre. **Sources** : à ajouter.
 
-
-
----
-
-## **23- Energy by drill**
-
-**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
-
-
+Une récupérathèque est un magasin de matériaux de réemploi fonctionnant avec sa propre monnaie. Elle peut s’implanter dans toutes écoles de création. C’est un lieu géré par les étudiants pour mutualiser leurs matériaux et en collecter d’autres de qualité dans des entreprises ou institutions culturelles. La première récupérathèque est née en 2015 à l’ENSBA de Lyon et fut rapidement un succès. L’envie est ensuite venue à ses fondateurs de diffuser l’idée pour qu’un maximum d’écoles puissent la reproduire et l’adapter leur propre contexte. Pour les y aider, un site internet est créé. Il met à disposition des outils et des savoirs guidant la mise en place d’une récupérathèque. Un réseau de récupérathèques voit le jour et propose un accompagnement personnalisé aux écoles qui le demandent.
 
 ---
 
-## **24- DOZE Parc**
+## **23- Générateur d'électricité à pédales \(Energy By Drill\*\)**
 
-**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : Emmanuel Laurent. **Licence** : à préciser. **Sources** : [site web](http://www.visiblenergie.fr).
 
+\*_« Drill, baby, drill! » est un slogan de campagne du parti républicain pendant l'élection présidentielle de 2008 aux États-Unis. Il exprime le soutien de ce parti à l'intensification des forages pétroliers en vue d'augmenter les ressources en énergie \(Wikipédia\)_
 
+Les citoyens et makers prennent un rôle de plus en plus large dans la réappropriation des espaces publiques. Ces questions sont souvent liées, directement ou indirectement, à l'énergie. Pour cela, les notions clés comme les ressources, les pertes, le stockage, ... doivent être rendues \#visibles. La forme de mobiliers urbains est en exploration. Au delà d'une simple production de mobiliers, l'enjeu est de privilégier des technologies low-tech plutôt que de rechercher la performance technique à tout prix. Cette posture permet de mieux appréhender les bases physiques de l'énergie et de conserver des objets réparables et améliorables. Cette approche passe nécessairement par des documentations partagées des principes mis en oeuvre. Des générateurs à pédales produisent de l'énergie en détournant un moteur d'imprimante laser ou de visseuse en un générateur d'énergie. Avec des capteurs mesurant l'énergie produite, ce système basique permet d'expliquer les notions clés de la production d'énergie locale. Avec l'ajout d'une documentation, la créativité des citoyens comme des makers va permettre d'imaginer d'autres mobiliers \#ludiques pour s'éclairer ou charger un smartphone.
 
 ---
 
-## **25- CyberGarden**
+## 24- CyberGarden
 
-**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : David Bartholomeo. **Licence** : à préciser. **Sources** : à ajouter.
 
+**Contributeurs** :
 
+* Florian Bianco, Programmeur-développeur, IUT Gratte-Ciel
+* Pradeep Das, Maître-conférencier, Biologie fondamental, ENS de Lyon
+* Olivar Premier, Compositeur
+
+**Fork \(en cours\)** :
+
+* Charlotte Rizzo, Micro-Hackuaponie
+* Johann Durrafourg, PowerPlant
+* Jean-Marie Claisse & Oriane Marignier, ferme à SCOBY
+
+**Remerciements** : 
+
+* Ets DB PRODUCTS
+* 2nd PETROLEUM BOY
+* Gaëtan Robert
+
+CyberGarden est la formalisation de choix tant au niveau artistique que quotidien. L’art m’a amené à me poser certaines questions sur ma vie, mon impact sur l’environnement, mon rôle social\* et \(a\)politique. J’ai modifié mes attentions, ma façon de penser l’existence et de créer. Entre conscience de l’état du monde, quête de sens et recherche de solutions pour envisager un avenir positif, les CyberGardens sont nés. Des alternatives poétiques jouxtant l’art, la science, la nature et la citoyenneté...
+
+Le CyberGarden est un jardin suspendu, connecté. Il est actuellement développé avec plusieurs collaborateurs. La MYNE, EcoHackLab de Lyon qui a permis a ce projet de prendre une dimension citoyenne. Libre et Open source, il est devenu l’incubateur de plusieurs autres projets \(PowerPlant & Aquaponie\) dans le cadre du “Doze Parc“ \*
+
+Plusieurs intentions sont développées autour de ce projet :
+
+* La transformation en sons et en images des observations d’une plante à l’échelle moléculaire \(Biologie Fondamentale, développement avec le Maître de conférence Pradeep Das, ENS de Lyon\). Ce dispositif permet une autre lecture du vivant.
+* La mise en place d’un environnement électronique qui recueille les informations météorologiques de l’environnement du végétal.
+* Permettre au plus grand nombre l’accès aux mondes scientifiques par le prisme artistique.
+* Penser un système autonome \(aquaponie, énergie solaire, énergie des plantes\).
+
+---
+
+## **25- DOZE Parc**
+
+**Initiateurs** : La MYNE. **Licence** : à préciser. **Sources** : à ajouter.
+
+Né du projet Art et Science CyberGarden, l’installation DoZE parc est une forêt moderne qui donne à voir les problématiques vécues dans les Tiers-Lieux \(innovation, DIY, Open source, Blockchain, etc.
+
+Il regroupe un ensemble de projets \(cyber-environnements\) développés au sein du tiers-lieu lyonnais La MYNE: PowerPlant, Micro-hackuaponie, DAISEE, Presse à insectes, fabrication de matière bactériologique comme le Scoby, etc.
+
+DoZE Parc se révèle un incubateur d’expériences aux fonctions multiples :
+
+* Il a pour vocation à étudier des formes de développement des communs et l’activation de boucles d'économie circulaire, en prenant en compte les différentes temporalités des espèces.
+* À l’ère de l’anthropocène, il interroge le lien entre nature et humanté, et la manière dont le numérique interagit avec la nature.
 
 ---
 
 ## **26- Micro-hackuaponie**
 
-**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : Charlotte Rizzo. **Licence** : à préciser. **Sources** : à ajouter.
 
-
+Micro-hackuaponie est un dispositif de réappropriation de la symbiose animal-végétal. Intégré au CyberGarden, il propose une production alimentaire saine, autonome et à échelle humaine. Bio-inspiré par le cycle de l'azote, le système est rendu autogéré et durable par l'introduction de diverses innovations citoyennes, issues de la science participative et de l'intelligence collective. Milieux nutritifs naturels et énergies renouvelables permettent de réinventer une circularité vertueuse, cette nourrice intervient en cohérence avec les autres dispositifs du DozePark. A la fois intuitif et interactif, micro-hackuaponie – la nourrice, invite à interroger les phénomènes agroécologiques en jeu dans la production alimentaire. Il propose une reconnexion aux cycles naturels, mais aussi aux technologies numériques comme nouvelle forme de reliance avec le vivant.
 
 ---
 
 ## 27- **Presse à insectes**
 
-**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
+**Initiateurs** : Yoann Vandendriessche et Valentin Martineau \(Collectif Bam. **Licence** : à préciser. **Sources** : à ajouter.
 
-
+Dans un monde où la production de viande a un fort impact sur notre monde, ce module invite à cultiver des vers de farine et de les consommer. Ces derniers se posent alors comme une alternative avec un impact environnemental raisonné. Le Meuble à Insectes est une invitation à l’auto-fabrication et à l’auto-production alimentaire. Réalisé par Yoann Vandendriessche et Valentin Martineau du collectif Bam, il offre à chacun la possibilité d’expérimenter des alternatives plus souhaitables. Ce projet, est diffusé en open source sous licence creative commons, ce qui permet à quiconque de s’approprier la proposition. Il est disponible en ligne sur la plateforme du LowtechLab. Ce projet reste avant tout une interrogation sur la nécessité de nos modes de consommation dans un avenir pas si lointain
 
