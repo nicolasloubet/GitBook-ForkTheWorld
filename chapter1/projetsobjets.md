@@ -6,7 +6,7 @@ _NB : il manque  un certain nombre d'éléments \(photographies des objets, lice
 
 ## **0- Frigo d’OpenFactory**
 
-**Initiateurs** : anciens membres de l'association Le Garage. **Licence** : à préciser.
+**Initiateurs** : anciens membres de l'association Le Garage. **Licence** : à préciser. **Source** : à ajouter.
 
 Ce frigo appartenait au Garage, l’association étudiante de l’ESADE. Créée à l’initiative d’étudiants et de professeurs, elle s’était montée pour manifester son indignation face au choix de l’école de former les jeunes designers sur des logiciels propriétaires type la suite Adobe \(1700 €\) alors qu’il existe tout un tas d’outils libres type Gimp et Inskape.
 
@@ -18,7 +18,7 @@ Aujourd’hui, ce frigo et le canapé en cuir qui se trouve dans le makerspace d
 
 ## **1- Table de dataviz Cairn **
 
-**Initiateurs** : Pauline Gourlet et Thierry Dasse \(Carrefour Numérique\). **Licence** : à préciser_._
+**Initiateurs** : Pauline Gourlet et Thierry Dasse \(Carrefour Numérique\). **Licence** : à préciser_. _**Source** : à ajouter.
 
 Résumé
 
@@ -122,7 +122,7 @@ La posture des designers qui ne travaillent pas sur le terrain, dans des endroit
 
 ## **2- Blockchain Vaisselle**
 
-**Initiateurs** : Thomas Thibault \(Collectif Bam\) & Blockchain France, 2016 **Licence** : CC BY 3.0 FR
+**Initiateurs** : Thomas Thibault \(Collectif Bam\) & Blockchain France, 2016 **Licence** : CC BY 3.0 FR. **Source** : à ajouter.
 
 Résumé
 
@@ -164,7 +164,7 @@ Ainsi la technologie blockchain permet aujourd’hui de supprimer le besoin de c
 
 ## **3- Plantoïd**
 
-**Initiateurs** : Primavera de Filippi & le collectif Okhaos. **Licence** : à précisr
+**Initiateurs** : Primavera de Filippi & le collectif Okhaos. **Licence** : à préciser. **Source** : à ajouter.
 
 En tant que chercheuse, Primavera de Filippi étudie l’impact des nouvelles technologies sur le système de droit. En tant qu’artiste, elle crée des œuvres qui ont vocation à illustrer sa recherche, et à en identifier les limites.
 
@@ -180,7 +180,7 @@ Comme toute forme de vie, la Plantoïd a vocation a se reproduire. Pour se faire
 
 ## **4- DAISEE - Energy as a Common\(s\)**
 
-**Initiateurs** : R. Técher, S. Rabaaoui, L. Villard, P. Flipo, N. Loubet, C. Epie, X. Lavayssière, A. Omerin, Alizée Gérard \(…\) **Licences** : CC-BY-NC-SA pour la documentation ; GPL3 pour le code.
+**Initiateurs** : R. Técher, S. Rabaaoui, L. Villard, P. Flipo, N. Loubet, C. Epie, X. Lavayssière, A. Omerin, Alizée Gérard \(…\) **Licences** : CC-BY-NC-SA pour la documentation ; GPL3 pour le code. **Source** : [knowledge base](https://frama.link/DAISEE-knowledge). 
 
 DAISEE est un commun co-produit par la MYNE \(tiers-lieu basé à Lyon\) et CELLABZ \(« organisme » d’acculturation aux technologies émergentes\). Ce commun mobilise l’intervention d’organisations \(‘communautés'\) qui se reconnaissent d’un objectif de transition de société et de **réappropriation des systèmes**. DAISEE doit permettre à tout usager d’échanger ou acheter de l’électricité directement à des pairs, dans son voisinage, qui en produisent en surplus. Il s'agit d'hybrider différentes technologies qui garantissent la distribution, la transparence, l’intégrité et l’inviolabilité de l’information ainsi que des pratiques de travail ou d'organisation. Les technologies blockchain au centre de cette expérimentation, bien plus comme philosophie que comme technologie, permettent de penser les systèmes différemment mais aussi des modes de co-production du commun.---
 
@@ -188,7 +188,7 @@ DAISEE est un commun co-produit par la MYNE \(tiers-lieu basé à Lyon\) et CELL
 
 ## **5- Vélo du concierge **
 
-**Initiateur** : Abel Ary. **Licence** : à préciser.
+**Initiateur** : Abel Ary. **Licence** : à préciser. **Source** : à ajouter.
 
 Dispositif conçu et réalisé dans le cadre d’Open City Lab \(23 au 29 Janvier 2017\) pour L’Expérience Tiers-Lieux Fork The World.
 
@@ -196,7 +196,7 @@ Dispositif conçu et réalisé dans le cadre d’Open City Lab \(23 au 29 Janvie
 
 ## **6- Echopen**
 
-Initiateurs : à préciser. Licence : à préciser.
+**Initiateurs** : à préciser. **Licence** : à préciser. **Source** : à ajouter.
 
 [Echopen](https://echopen.gitbooks.io/starterkit/content/setup_your_own_echopen_lab.html) aims at developing the first low-cost [open source hardware](https://en.wikipedia.org/wiki/Open-source_hardware) echostethoscope which can be connected to a smartphone or a tablet. It is intended for health professionnals and will be developed thanks to a multidisplinary community. To keep in touch:
 
@@ -214,7 +214,7 @@ Initiateurs : à préciser. Licence : à préciser.
 
 ## **7- GNU/Linux Distribution Timeline**
 
-Initiateurs : Andreas Lundqvist \(initially\), Muhammad Herdiansyah \(continued\). Licence : GNU Free Documentation License. Source: [Linux Distribution Timeline.svg](https://commons.wikimedia.org/wiki/File:Linux_Distribution_Timeline.svg)
+**Initiateurs** : Andreas Lundqvist \(initially\), Muhammad Herdiansyah \(continued\). **Licence** : GNU Free Documentation License. **Source** : [Linux Distribution Timeline.svg](https://commons.wikimedia.org/wiki/File:Linux_Distribution_Timeline.svg)
 
 [Linux](https://simple.wikipedia.org/wiki/Linux) : Linux ou GNU/Linux est un système d'exploitation open source unix-like pour les ordinateurs. Un système d'exploitation est une collection des instructions de base qui gèrent les parties électroniques de l'ordinateur. Linux est un logiciel libre et open source, \[...\] chacun a la liberté de l'utiliser, de voir comment il fonctionne, de le modifier ou de le partager.
 
