@@ -364,5 +364,7 @@ Partant à la rencontre de ces acteurs et de leurs projets, découvrant des lieu
 
 27- **Presse à insectes**
 
-**Initiateurs** : xxx. Licence : yyy. Source : zzz
+**Initiateurs** : xxx. **Licence** : yyy. **Source** : zzz
+
+
 
