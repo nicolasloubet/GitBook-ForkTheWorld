@@ -2,7 +2,7 @@
 
 Cette page est une réponse à la question "**mais où est donc la documentation de l'expérience Fork The World ?**" C'est loin de convenir aux attentes des libristes les plus chevronés... mais c'est un modeste début. Et toute contribution sera appréciée :\)
 
-# 0- Origines
+# 0- Prémisses
 
 * Territoires en Transitions à l'ère du numérique **2010** : [http://movilab.org/index.php?title=TT10](http://movilab.org/index.php?title=TT10)
 * Territoires en Transitions à l'ère du numérique **2012** : [http://movilab.org/index.php?title=TT12](http://movilab.org/index.php?title=TT12)
@@ -13,13 +13,7 @@ Cette page est une réponse à la question "**mais où est donc la documentation
 * Atelier 'Design Moi un Tiers-Lieux' \(sur la Biennale **2015**\) : [DM1TL Design moi un tiers lieux](https://hackpad.com/2TYhyGkNjje)
 * Les Tiers-Lieux sur la Biennale du Design de l'année **2017** : [https://frama.link/TILIOS-2017](https://frama.link/TILIOS-2017)
 
-# 1- Contribution
-
-* La liste des contributeurs.trices de la WTF Fondation : [Contributeurs World Trust Foundation](https://hackpad.com/uX90pJaGf1o)
-* Les co-commissaires : [https://frama.link/BiennaleDesign17-ForkTheWorld-Cocommissaires](https://frama.link/BiennaleDesign17-ForkTheWorld-Cocommissaires)
-* Contrat de concierge de Yoann : [https://frama.link/BiennaleDesign17-ForkTheWorld-Contrat](https://frama.link/BiennaleDesign17-ForkTheWorld-Contrat)
-
-# 2- Gouvernance
+# 1- Gouvernance
 
 * La liste des participants du conseil collégial : [https://frama.link/biennale2017-conseilcollegial](https://frama.link/biennale2017-conseilcollegial)
 * Documentation du conseil collégial du 21-22/11/2016 : [Conseil collégial de l'expérience ](https://hackpad.com/EBQ6ae0jDdQ)
@@ -27,10 +21,16 @@ Cette page est une réponse à la question "**mais où est donc la documentation
 * Budget de la MYNE : [https://frama.link/BiennaleDesign17-ForkTheWorld-Budget-MYNE](https://frama.link/BiennaleDesign17-ForkTheWorld-Budget-MYNE)
 * La matrice des flux d'argent : [https://frama.link/BiennaleDesign17-ForkTheWorld-Budget](https://frama.link/BiennaleDesign17-ForkTheWorld-Budget)
 
+# 2- Contribution
+
+* La liste des contributeurs.trices de la WTF Fondation : [Contributeurs World Trust Foundation](https://hackpad.com/uX90pJaGf1o)
+* Les co-commissaires : [https://frama.link/BiennaleDesign17-ForkTheWorld-Cocommissaires](https://frama.link/BiennaleDesign17-ForkTheWorld-Cocommissaires)
+* Contrat de concierge de Yoann : [https://frama.link/BiennaleDesign17-ForkTheWorld-Contrat](https://frama.link/BiennaleDesign17-ForkTheWorld-Contrat)
+
 # 3- Coordination
 
 * Carnet de bord global de l'expérience Tiers-Lieux : [Carnet de bord 'ForkTheWorld'](https://hackpad.com/HsVVbQIR9Cz)
-* Log de coordination du co-commissariat : [Coordination du co-commissariat](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Textes/forktheworld_coordination.md)
+* Carnet de coordination du co-commissariat : [Coordination du co-commissariat](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Textes/forktheworld_coordination.md)
 * Groupe Telegram pour le suivi \(frugal\) à distance : [https://telegram.me/forktheworld](https://telegram.me/forktheworld)
 
 # 4- Communication
