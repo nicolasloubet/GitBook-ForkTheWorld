@@ -43,6 +43,7 @@ Cette page est une réponse à la question "**mais où est donc la documentation
 # 5- Suivi web
 
 * Carnet de bord global de l'expérience Tiers-Lieux : [Carnet de bord 'ForkTheWorld'](https://hackpad.com/HsVVbQIR9Cz)
+* Log de coordination du co-commissariat : [Coordination du co-commissariat](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Textes/forktheworld_coordination.md)
 * Suivi en images de l'expérience Tiers-Lieux : [https://www.sharypic.com/yii1053jns2jfnd6/all](https://www.sharypic.com/yii1053jns2jfnd6/all)
 * Groupe Telegram pour le suivi \(frugal\) à distance : [https://telegram.me/forktheworld](https://telegram.me/forktheworld)
 
