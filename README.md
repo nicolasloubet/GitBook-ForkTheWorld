@@ -22,12 +22,10 @@ Les objectifs sont : \(1\) de permettre à celles et ceux qui vivent les Tiers-L
 
 Plusieurs Tiers-Lieux / organismes ont exprimé leur souhait de répliquer / adapter le corpus.
 
-* [Cité Descartes](https://hackpad.com/ForkTheCampus-Essaimage-de-lexposition-tiers-lieux-Cit-Descartes-8WmEOzlNZGl) \(Paris\)
-* [Hotel Pasteur](http://www.hotelpasteur.fr) \(Rennes\)
-* [FabLab Festival](http://fablabfestival.fr) \(Toulouse\)
-* [WIP - Cité chantier ](http://le-wip.com)\(Caen\)
-* [La Coroutine](http://www.lacoroutine.org)  \(Lille\)
-* [Meshwork](http://www.meshwork.fr) \(Nancy\)
+* [Hotel Pasteur](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#) \(Rennes, 19 Mai 2017\)
+* [FabLab Festival](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#) \(Toulouse, 11-14 Mai 2017\)
+* [Centrifugeuse](http://www.centrifugeuse.co) \(Champs-sur-Marne, Juin 2017\)
+* [WIP - Cité chantier ](http://le-wip.com)\(Caen, 13-15 Juin 2017\)
 
 # Ressources
 
