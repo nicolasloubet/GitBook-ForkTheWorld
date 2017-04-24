@@ -22,10 +22,11 @@ Les objectifs sont : \(1\) de permettre à celles et ceux qui vivent les Tiers-L
 
 Plusieurs Tiers-Lieux / organismes ont exprimé leur souhait de répliquer / adapter le corpus.
 
-* [Hotel Pasteur](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#) \(Rennes, 19 Mai 2017\)
 * [FabLab Festival](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#) \(Toulouse, 11-14 Mai 2017\)
-* [Centrifugeuse](http://www.centrifugeuse.co) \(Champs-sur-Marne, Juin 2017\)
+* [Hotel Pasteur](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#) \(Rennes, 19 Mai 2017\)
+* [Grand Ramdam](http://grandramdam.net) \(Poitiers, 1-2 juin 2017\)
 * [WIP - Cité chantier ](http://le-wip.com)\(Caen, 13-15 Juin 2017\)
+* [Centrifugeuse](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#) \(Champs-sur-Marne, 19-23 Juin 2017\)
 
 # Ressources
 
