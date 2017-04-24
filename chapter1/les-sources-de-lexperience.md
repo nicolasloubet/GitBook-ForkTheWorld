@@ -27,25 +27,25 @@ Cette page est une réponse à la question "**mais où est donc la documentation
 * Budget de la MYNE : [https://frama.link/BiennaleDesign17-ForkTheWorld-Budget-MYNE](https://frama.link/BiennaleDesign17-ForkTheWorld-Budget-MYNE)
 * La matrice des flux d'argent : [https://frama.link/BiennaleDesign17-ForkTheWorld-Budget](https://frama.link/BiennaleDesign17-ForkTheWorld-Budget)
 
-# 3- Communication
+# 3- Coordination
 
+* Carnet de bord global de l'expérience Tiers-Lieux : [Carnet de bord 'ForkTheWorld'](https://hackpad.com/HsVVbQIR9Cz)
+* Log de coordination du co-commissariat : [Coordination du co-commissariat](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Textes/forktheworld_coordination.md)
+* Groupe Telegram pour le suivi \(frugal\) à distance : [https://telegram.me/forktheworld](https://telegram.me/forktheworld)
+
+# 4- Communication
+
+* Suivi en images de l'expérience Tiers-Lieux : [https://www.sharypic.com/yii1053jns2jfnd6/all](https://www.sharypic.com/yii1053jns2jfnd6/all)
 * Affiches : [https://www.flickr.com/photos/sylviafredriksson/albums/72157681369649975](https://www.flickr.com/photos/sylviafredriksson/albums/72157681369649975)
 * Les [fichiers](https://drive.google.com/open?id=0B2bNimbuCtqsaEFsRFNuSVBONlk) \(Drive\) des affiches_ \[Indesign + Polices + JPG \(web\) + PDF \(Impression\)\]_
 * Tutoriel pour fabriquer son affiche : [Comment crer une affiche annonce d'événement](https://hackpad.com/vET6Q2GELF1)
 * \(Non\) Restitution : [https://storify.com/nicolasloubet/biennaledesign17-forktheworld](https://storify.com/nicolasloubet/biennaledesign17-forktheworld)
 
-# 4- Événements
+# 5- Événements
 
 * Agenda \(adaptatif et contributif\) : [https://frama.link/BiennaleDesign17-ForkTheWorld-Agenda](https://frama.link/BiennaleDesign17-ForkTheWorld-Agenda)
 * 'Programmation' IN' de la première phase de l'expérience : [https://frama.link/nKFhdgcU](https://frama.link/nKFhdgcU)
 * Restitution de l'expérience tiers-lieux : [https://frama.link/BiennaleDesign17-ForkTheWorld-End](https://frama.link/BiennaleDesign17-ForkTheWorld-End)
-
-# 5- Suivi web
-
-* Carnet de bord global de l'expérience Tiers-Lieux : [Carnet de bord 'ForkTheWorld'](https://hackpad.com/HsVVbQIR9Cz)
-* Log de coordination du co-commissariat : [Coordination du co-commissariat](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Textes/forktheworld_coordination.md)
-* Suivi en images de l'expérience Tiers-Lieux : [https://www.sharypic.com/yii1053jns2jfnd6/all](https://www.sharypic.com/yii1053jns2jfnd6/all)
-* Groupe Telegram pour le suivi \(frugal\) à distance : [https://telegram.me/forktheworld](https://telegram.me/forktheworld)
 
 # 6- Exposition
 
@@ -58,14 +58,14 @@ Cette page est une réponse à la question "**mais où est donc la documentation
 * Feedbacks de "contributeurs" : [Feedbacks de l'exprience tiers lieux ForkTheWorld](https://hackpad.com/4RtjwanpAZK#:h=Alizée-:-&quot;Expositon-complète-m)
 * Controverse autour de l'expo : [Controverses autour de l'exposition ForkTheWorld](https://hackpad.com/E6Hi1JpiqD5)
 
-# 7- Invention
+# 7- Inventions
 
 * Suivi du groupe projet **DoZE Parc** \(proposé par la MYNE\) : [Carnet de bord de DoZE Parc](https://hackpad.com/98hpmej7KYH)
 * Suivi du groupe projet **DAISEE** \(co-produit par la MYNE, Cellabz\) : [Carnet de bord de DAISEE](https://hackpad.com/ahuXu8dfACa)
 * Suivi du groupe projet **FOREST as a DAO** \(Isabelle, Xavier\) : [Carnet de bord Forest as a DAO](https://lpsprojects.hackpad.com/Forest-as-a-DAO-Organisation-globale-BZKOKbdfjyx)
 * Suivi du groupe projet **KODEAL** \(amorcé par Yoann & "forké" [par Sylvia & co.](http://movilab.org/index.php?title=Recherche_et_design_-_Les_nouvelles_formes_de_réciprocité_et_de_contractualisation)\) : [KODEAL](http://movilab.org/index.php?title=KoDeal)
 
-# 8- Réflexion
+# 8- Réflexions
 
 * Témoignage du** collectif BAM** et **Paul** \(Post Piper\) : [Masterclass du Bam et DANT ](https://storify.com/nicolasloubet/biennaledesign17-collectifbam-dant)
 * Témoignage d'**Isabelle **et **Xavier** \(Forest as a DAO\) : [Masterclass 'Forest as a DAO'](https://storify.com/nicolasloubet/biennaledesign17-forest-dao)
@@ -75,7 +75,7 @@ Cette page est une réponse à la question "**mais où est donc la documentation
 * Témoignage de **P. de Filippi **sur les ex. de gouvernance : [Masterclass de Primavera](https://storify.com/nicolasloubet/biennaledesign17-primavera-de-filippi)
 * Forum des "**Transitions énergétiques**" : [Gouvernance et transition\(s\) énergétique\(s\)](https://storify.com/nicolasloubet/biennaledesign17-transition-gouvernance-energie)
 
-# 9- Fabrication
+# 9- Fabrications
 
 * Atelier **CAIRN** avec P. Gourlet et T. Dassé : [Atelier avec P. Gourlet et T. Dass](https://hackpad.com/EDBRa60zyms)
 * Atelier **Tiers-Jardin** avec Bruno Vitasse \(Zone AH! & co\) : [Atelier Tiers Jardin](https://frama.link/BiennaleDesign17-ForkTheWorld-TiersJardin)
