@@ -68,17 +68,7 @@ Pour résoudre ce problème le père a une idée. Il attribue à chacun une coul
 
 Ainsi chacun peut **vérifier** la bonne réalisation des tâches ou savoir à qui est le prochain tour en jetant un oeil au tube. Il est ici impossible de **falsifier** le tube en essayant de venir récupérer de quelconque manière un palet déjà tombé à l’intérieur. Transparent, infalsifiable et indestructible, on pourrait dire de ce tube qu’il est en quelque sorte le tube de la vérité, acceptée par le consensus. Malheureusement ce principe fonctionne bien si l’honnêteté est de mise dans la maison. Mais si 2 ou 3 frères sont un jour de mauvaise foi, alors le palet ne sera pas validé!
 
-### Blockchain
-
-La blockchain n’est en fait qu’une nouvelle forme de livre de compte. Pour comprendre la blockchain, il faut remonter un peu l’histoire du livre de compte. Avant on consignait dans des livres de compte et une poignée de personnes validaient, inscrivaient et avaient accès à ce livre. Puis l'informatique a permis d'avoir ces livres de compte de manière numérique : les bases de données "classique". Par conséquent, un nombre un peu plus important de personnes valident, inscrivent et ont accès à la base de données qui est stockée sur un serveur central et sont aidées par des algorithmes.
-
-Enfin, la convergence de technologies permettant la modularité, la segmentation de l'information et son accès quasi permanent - du fait d'une connectivité permanente et accrue, l'augmentation des capacité de stockage des appareils, le développement de protocoles permettant les échanges pair-à-pair de plus en robuste, une automatisation toujours plus grande et apprenante \(intelligence artificielle\)... permet à ces registres, en les découpant en "blocs" liés les uns aux autres, d'être complètement distribués, accessible à tous de manière sécurisée et pseudonyme
-
-La technologie blockchain fonctionne selon le même principe que l’installation \#BlockchainVaiselle, mais en impliquant un nombre beaucoup plus important de participants. Le tube est en effet dématérialisé par le numérique et Internet, donnant ainsi l’accès à des milliers de personnes en même temps, instantanément et n’importe où dans le monde grâce au réseau. Les tâches, nommées transactions, sont mémorisées de manière transparente au sein d’un grand **registre**. L’ensemble des actions de vérification et de certification est automatisé grâce au numérique et aux technologies cryptographiques de la blockchain.
-
-Ceux qui valident les blocs de la blockchain s’appellent des **mineurs.** Ces participants du réseau font fonctionner un logiciel sur leur ordinateur afin de vérifier l’authenticité et la validité des transactions soumises au réseau, puis résolvent un problème mathématique complexe pour prouver le travail accompli. Lors- qu’un mineur valide un bloc, il le soumet au réseau qui vérifie et accorde sur un nouvel état de consensus.
-
-Ainsi la technologie blockchain permet aujourd’hui de supprimer le besoin de confiance en automatisant les processus. “Les champs d’exploitation sont immenses : [banques](https://blockchainfrance.net/2016/03/01/quels-impacts-de-la-blockchain-sur-les-banques/), [assurance](https://blockchainfrance.net/2016/02/17/assurances-et-blockchain/), [immobilier](https://blockchainfrance.net/2016/03/03/des-cadastres-sur-la-blockchain), [santé](https://blockchainfrance.net/2016/03/02/la-blockchain-et-la-sante/), [énergie](https://blockchainfrance.net/2016/07/07/la-blockchain-pour-lenergie/), [transports](https://blockchainfrance.net/2016/03/19/arcade-city-le-uber-killer-de-la-blockchain/), [vote en ligne](https://blockchainfrance.net/2016/02/12/democratie-et-blockchain-le-cas-du-vote/)… Des blockchains pourraient remplacer la plupart des "tiers de confiance" centralisés par des systèmes informatiques distribués.
+Pour aller plus loin dans la compréhension de Blockchain, lire ce livre blanc.
 
 ---
 
@@ -86,7 +76,7 @@ Ainsi la technologie blockchain permet aujourd’hui de supprimer le besoin de c
 
 | Initiateur\(s\) | Primavera de Filippi et le collectif Okhaos |
 | :--- | :--- |
-| Licence\(s\) | À préciser  |
+| Licence\(s\) | À préciser |
 | Source\(s\) | À rajouter |
 
 ### Résumé
@@ -101,9 +91,14 @@ Comme toute forme de vie, la Plantoïd a vocation a se reproduire. Pour se faire
 
 ## **4- DAISEE**
 
-**Initiateurs** : R. Técher, S. Rabaaoui, L. Villard, P. Flipo, N. Loubet, C. Epie, X. Lavayssière, A. Omerin, Alizée Gérard \(…\) **Licences** : CC-BY-NC-SA pour la documentation ; GPL3 pour le code. **Source** : [Knowledge Base](https://frama.link/DAISEE-knowledge).
+| **Initiateur\(s\)** | R. Técher, S. Rabaaoui, L. Villard, P. Flipo, N. Loubet, C. Epié, X. Lavayssière, A. Omerin, A. Gérard, X. Coadic \(...\) |
+| :---: | :--- |
+| **Licence\(s\)** | CC-BY-NS-SA \(textes\), GPL3 \(code\) |
+| Source\(s\) | [Base de connaissance\(s\)](https://frama.link/DAISEE-knowledge) |
 
-DAISEE est un commun co-produit par la MYNE \(tiers-lieu basé à Lyon\) et CELLABZ \(« organisme » d’acculturation aux technologies émergentes\). Ce commun mobilise l’intervention d’organisations \(‘communautés'\) qui se reconnaissent d’un objectif de transition de société et de **réappropriation des systèmes**. DAISEE doit permettre à tout usager d’échanger ou acheter de l’électricité directement à des pairs, dans son voisinage, qui en produisent en surplus. Il s'agit d'hybrider différentes technologies qui garantissent la distribution, la transparence, l’intégrité et l’inviolabilité de l’information ainsi que des pratiques de travail ou d'organisation. Les technologies blockchain au centre de cette expérimentation, bien plus comme philosophie que comme technologie, permettent de penser les systèmes différemment mais aussi des modes de co-production du commun.---
+### Résumé
+
+DAISEE est un commun co-produit par la [MYNE](http://lamyne.org) \(tiers-lieu basé à Lyon\) et [CELLABZ](http://cellabz.com) \(« organisme » d’acculturation aux technologies émergentes\). Ce commun mobilise l’intervention d’organisations \(‘communautés'\) qui se reconnaissent d’un objectif de transition de société et de **réappropriation des systèmes**. DAISEE doit permettre à tout usager d’échanger ou acheter de l’électricité directement à des pairs, dans son voisinage, qui en produisent en surplus. Il s'agit d'hybrider différentes technologies qui garantissent la distribution, la transparence, l’intégrité et l’inviolabilité de l’information ainsi que des pratiques de travail ou d'organisation. Les technologies blockchain au centre de cette expérimentation, bien plus comme philosophie que comme technologie, permettent de penser les systèmes différemment mais aussi des modes de co-production du commun.---
 
 ---
 
