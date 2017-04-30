@@ -1,4 +1,4 @@
-# Oeuvres
+# Catalogue
 
 Cette section pré-figure un catalogue des oeuvres / démarches originales qui s'expriment dans les tiers-lieux. En l'état, elle rassemble ce qui a été présenté sur la [10e Biennale de Design à Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/). À noter : \(1\) Il manque des éléments \(photos, licences juridiques et documentation ad hoc\) \(2\) Cet annuaire préfigure une base de données et il ne reflète pas les métissages en cours entre les groupes-projets.
 
@@ -473,5 +473,5 @@ Dans un monde où la production de viande a un fort impact sur notre monde, ce m
 
 ### Résumé
 
-Les tiers-jardins sont une typologie de tiers-lieux, un concept d'espaces à la fois dédiés à l'agriculture urbaine, au travail, à la  collaboration et à la détente, issu de l'hybridation des espaces de vie  et des espaces de biodiversité au service de leurs usagers. 
+Les tiers-jardins sont une typologie de tiers-lieux, un concept d'espaces à la fois dédiés à l'agriculture urbaine, au travail, à la  collaboration et à la détente, issu de l'hybridation des espaces de vie  et des espaces de biodiversité au service de leurs usagers.
 
