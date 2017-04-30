@@ -2,7 +2,7 @@
 
 Si vous consultez cette page, c'est que vous êtes lié.e, de près ou de loin, à l'univers des '[Tiers-Lieux](http://movilab.org/index.php?title=Définition_des_Tiers_Lieux)' \(espaces de coworking, ateliers de co-réparation,  squats artistiques auto-gérés, jardins partagés, etc.\). En bref, ce "GitBook" est UNE mise en forme des [textes](https://docs.google.com/document/u/1/d/11zSChvogyU0hkYCUwIkYdCknmw7_u45503250YfT71U/edit?ts=58861959) rédigés par/pour l'Expérience Tiers-Lieux "[_Fork The World_](https://archive.is/gkBhw)" de la [Biennale de Design de Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/) \(9 mars - 9 avril 2017\) consacrée aux **mutations du travail**. Ils sont régis par les termes de la [**licence Creative Commons BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/) et ont été co-rédigés par un réseau d'acteurs des Tiers-Lieux, sous l'impulsion de [Yoann Duriaux](http://www.yoann-duriaux.fr/) \("super concierge", [Movilab](http://movilab.org)\),  [Sylvia Fredriksson](https://www.sylviafredriksson.net/) \(chercheuse, [Cité du Design](http://www.citedudesign.com/fr/la-recherche/)\) et [Juliette Gelli](http://juliettegelli.fr/Juliette-Gelli) \(designeuse, [collectif RDC](https://vimeo.com/200720088)\).
 
-# Enjeux
+# À propos
 
 Ce corpus doit être considéré comme un " collage", i.e.  un ensemble d'idées,  de définitions, d'extraits de texte, de témoignages, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en perspective ce que font les protagonistes des Tiers-Lieux.
 
