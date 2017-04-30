@@ -1,10 +1,6 @@
 # Oeuvres
 
-Cette section pré-figure un catalogue des oeuvres / démarches originales qui s'expriment dans les tiers-lieux. En l'état actuel, elle rassemble uniquement ce qui a été présenté / animé sur la [10e Biennale de Design à Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/).
-
-* Il manque des éléments \(photos, licences juridiques et documentation ad hoc\)
-* Cette liste préfigure une base de données ad hoc qui pourra être augmentée 
-* Cette liste ne reflète pas les croisements réguliers entre ces groupes-projets
+Cette section pré-figure un catalogue des oeuvres / démarches originales qui s'expriment dans les tiers-lieux. En l'état, elle rassemble ce qui a été présenté sur la [10e Biennale de Design à Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/). À noter : \(1\) Il manque des éléments \(photos, licences juridiques et documentation ad hoc\) \(2\) Cet annuaire préfigure une base de données et il ne reflète pas les métissages en cours entre les groupes-projets. 
 
 ---
 
