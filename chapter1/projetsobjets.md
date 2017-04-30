@@ -47,12 +47,12 @@ _Pour aller plus loin, lire cette _[_interview_](https://github.com/nicolasloube
 
 ## **2- Blockchain Vaisselle**
 
-| **Initiateur\(s\)** | T. Thibault \(Collectif BAM\) et A. Stachtchenko \(Blockchain France\) |
+| **Initiateur\(s\)** | T. Thibault \(BAM\) et A. Stachtchenko \(Blockchain France\) |
 | :---: | :---: |
 | **Licence\(s\)** | CC-BY 3.0 FR |
 | **Source\(s\)** | [Page web](http://www.collectifbam.fr/project/blockchain-corvee-de-vaisselle/) \(Collectif BAM\) |
 
-Pour mieux comprendre le fonctionnement de la technologie blockchain et en faire comprendre son potentiel, les designers du Collectif Bam a souhaité imaginer ce qu’elle serait si elle était physique. Aidé par Alexandre Stachtchenko de Blockchain France, ils ont imaginé son usage à travers une installation qui parle à tous : la corvée de vaisselle ! 
+Pour mieux comprendre le fonctionnement de la technologie blockchain et en faire comprendre son potentiel, les designers du Collectif Bam a souhaité imaginer ce qu’elle serait si elle était physique. Aidé par Alexandre Stachtchenko de Blockchain France, ils ont imaginé son usage à travers une installation qui parle à tous : la corvée de vaisselle !
 
 ### Resumé
 
