@@ -453,7 +453,12 @@ Micro-hackuaponie est un dispositif de réappropriation de la symbiose animal-v�
 
 ## 27- **Presse à insectes**
 
-**Initiateurs** : Yoann Vandendriessche et Valentin Martineau \(Collectif Bam. **Licence** : à préciser. **Sources** : à ajouter.
+| **Initiateur\(s\)** | Y. Vandendriessche, V. Martineau \(Collectif BAM\) |
+| :---: | :---: |
+| **Licence\(s\)** | **À préciser** |
+| **Source\(s\)** | **À ajouter** |
 
-Dans un monde où la production de viande a un fort impact sur notre monde, ce module invite à cultiver des vers de farine et de les consommer. Ces derniers se posent alors comme une alternative avec un impact environnemental raisonné. Le Meuble à Insectes est une invitation à l’auto-fabrication et à l’auto-production alimentaire. Réalisé par Yoann Vandendriessche et Valentin Martineau du collectif Bam, il offre à chacun la possibilité d’expérimenter des alternatives plus souhaitables. Ce projet, est diffusé en open source sous licence creative commons, ce qui permet à quiconque de s’approprier la proposition. Il est disponible en ligne sur la plateforme du LowtechLab. Ce projet reste avant tout une interrogation sur la nécessité de nos modes de consommation dans un avenir pas si lointain
+### Résumé
+
+Dans un monde où la production de viande a un fort impact sur notre monde, ce module invite à cultiver des vers de farine et de les consommer. Ces derniers se posent alors comme une alternative avec un impact environnemental raisonné. Le Meuble à Insectes est une invitation à l’auto-fabrication et à l’auto-production alimentaire. Ce projet, est diffusé en open source sous licence creative commons, ce qui permet à quiconque de s’approprier la proposition. Il est disponible sur la plateforme du LowtechLab et  reste avant tout une interrogation sur la nécessité de nos modes de consommation dans un avenir pas si lointain
 
