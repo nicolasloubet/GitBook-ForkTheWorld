@@ -221,7 +221,7 @@ Le Cultibutte a été baptisé ainsi car les principaux organes de travail sont 
 
 ### Résumé
 
-L'atelier Faire Savoir permet à tous la découverte de **métiers manuels industriels ou artisanaux** par la fabrication d'un objet. Il approche le métier par la matière et la rencontre, pour créer le déclic chez des personnes qui ne s'y attendrait pas et **revaloriser ces filières**. Les ateliers sont conduit  par des hommes/femmes de métier volontaires ayant l’envie de transmettre. A chaque métier est associé un objet qui permet de découvrir un panel d’outils à travers les différentes étapes de sa fabrication. Le choix de cet objet est fait en amont en concertation avec les habitants, pour son usage collectif. Le dispositif a été testé à côté de Lens et a donné lieu à 2 ateliers d'initiation à la chaudronnerie par la fabrication de mobiliers de fête de quartier \(tréteaux\). Il a été répliqué avec le Lycée Le Marais et le tiers-lieu OpenFactory afin d’encourager les échanges entre ces établissements. 
+L'atelier Faire Savoir permet à tous la découverte de **métiers manuels industriels ou artisanaux** par la fabrication d'un objet. Il approche le métier par la matière et la rencontre, pour créer le déclic chez des personnes qui ne s'y attendrait pas et **revaloriser ces filières**. Les ateliers sont conduit  par des hommes/femmes de métier volontaires ayant l’envie de transmettre. A chaque métier est associé un objet qui permet de découvrir un panel d’outils à travers les différentes étapes de sa fabrication. Le choix de cet objet est fait en amont en concertation avec les habitants, pour son usage collectif. Le dispositif a été testé à côté de Lens et a donné lieu à 2 ateliers d'initiation à la chaudronnerie par la fabrication de mobiliers de fête de quartier \(tréteaux\). Il a été répliqué avec le Lycée Le Marais et le tiers-lieu OpenFactory afin d’encourager les échanges entre ces établissements.
 
 ---
 
@@ -307,9 +307,14 @@ Bacterian Farm, ferme de production de cellulose bactérienne automatisée à pa
 
 ## **20- Gynepunk**
 
-**Initiateurs** : à préciser. **Licence** : à préciser. **Sources** : [blog](http://gynepunk.tumblr.com).
+| **Initiateur\(s\)** | **K. Kinki, P. Pin, G. Leandra** |
+| :---: | :---: |
+| **Licence\(s\)** | **À préciser** |
+| **Source\(s\)** | [**Site web**](http://gynepunk.tumblr.com) |
 
-### **RAID à Calafou**
+### Résumé
+
+#### Raid à Calafou
 
 > Durant une semaine en août 2016, j’ai été amené-e à effectuer un RAID \(Recherche Action Immersion Design\) dans la « colonie éco-industrielle » Calafou, à la rencontre de Gynepunk, groupe d’activistes féministes queer à la tête d’un atelier de production d’instruments et de techniques gynécologiques DIY.
 >
@@ -319,9 +324,9 @@ Bacterian Farm, ferme de production de cellulose bactérienne automatisée à pa
 
 **Tiphaine Kazi-Tani**, commissaire assistant.e et chargé.e de recherche pour la Biennale internationale de Design 2017
 
-### **Sorcières Cyborg**
+#### **Sorcières Cyborg**
 
-Le projet Gynepunk se structure principalement autour de Klau Kinki, artiste, performer et hacktiviste d’origine chilienne, entouré-e de Paula Pin, artiste, musicien-ne, hacker/biohacker, et Gaia Leandra, chercheur-e, performer, biohacker. Gynepunk est un des nombreux projets questionnant genre, pouvoir, narrations, et technologies, animés par ce collectif polymorphe.
+Le projet Gynepunk se structure principalement autour de Klau Kinki, artiste, performer et hacktiviste d’origine chilienne, entourée de Paula Pin, artiste, musicien-ne, hacker/biohacker, et Gaia Leandra, chercheur-e, performer, biohacker. Gynepunk est un des nombreux projets questionnant genre, pouvoir, narrations, et technologies, animés par ce collectif polymorphe.
 
 Gynepunk englobe différents types d’outils, d’actions et d’interventions, sans hiérarchie, ni permanence. Le projet lui-même est open-source, implémentable par tou.te.s celleux qui s’en emparent. Il s’agit de :
 
@@ -334,7 +339,12 @@ Gynepunk englobe différents types d’outils, d’actions et d’interventions,
 
 ## **21- Catamaran DIY**
 
-**Initiateurs** : Baptiste Menu et Gabriel Mercier \(OpenSources\) **Licence** : à préciser. **Sources** : [page web](http://www.echo-system.fr/objet/catamaran/).
+| **Initiateur\(s\)** | **B. Menu, G. Mercier \(OpenSources\)** |
+| :---: | :---: |
+| **Licence\(s\)** | **À préciser** |
+| **Source\(s\)** | [**Site web**](http://www.echo-system.fr/objet/catamaran/) |
+
+### Résumé
 
 Ce catamaran marque la naissance du collectif stéphanois **Open Sources** \(aujourd'hui association loi 1901\) qui travaille sur la **sensibilisation à la réduction des déchets via la pratique du design**. Il a été réalisé en juillet 2012 en collaboration avec les enfants du comité d’animation pour tous sur le parc de Montaud \(CAPM\). Il se manie à l’aide de pagaies et a remporté les deux courses de radeau de 2012 et 2013 à St Victor-sur-Loire. Sa légèreté \(100 kilos\), le volume d’air emprisonné dans les bouteilles contenues dans les coques \(420 litres\) en font un objet petit mais costaud, pouvant aisément porter 4 adultes, facilement montable et démontable. L’aspect dégradé du prototype est dû à environ 200 heures de flottaisons lors des courses de 2012 et 2013 et de quelques virées bucoliques sur la Loire. À cela s’ajoute un stockage en extérieur depuis deux ans. En 2013, un trimaran à la conception plus aboutie a vu le jour sur le même principe en collaboration avec le centre social Michelet.
 
@@ -342,43 +352,58 @@ Ce catamaran marque la naissance du collectif stéphanois **Open Sources** \(auj
 
 ## **22- Récupérathèque**
 
-**Initiateurs** : Esther Coillet-Matillon et Olivier Milis, Thomas Baudouin pour La Valise. **Licence** : Art Libre. **Sources** : à ajouter.
+| **Initiateur\(s\)** | **E. Coillet-Matillon, O. Milis, T. Baudoin \(La Valise\)** |
+| :---: | :---: |
+| **Licence\(s\)** | **Art Libre** |
+| **Source\(s\)** | [Site web](http://recuperatheque.wixsite.com/recuperatheque) |
 
-Une récupérathèque est un magasin de matériaux de réemploi fonctionnant avec sa propre monnaie. Elle peut s’implanter dans toutes écoles de création. C’est un lieu géré par les étudiants pour mutualiser leurs matériaux et en collecter d’autres de qualité dans des entreprises ou institutions culturelles. La première récupérathèque est née en 2015 à l’ENSBA de Lyon et fut rapidement un succès. L’envie est ensuite venue à ses fondateurs de diffuser l’idée pour qu’un maximum d’écoles puissent la reproduire et l’adapter leur propre contexte. Pour les y aider, un site internet est créé. Il met à disposition des outils et des savoirs guidant la mise en place d’une récupérathèque. Un réseau de récupérathèques voit le jour et propose un accompagnement personnalisé aux écoles qui le demandent.
+### Résumé
+
+La récupérathèque est un magasin de matériaux de réemploi fonctionnant avec sa propre monnaie. Elle peut s’implanter dans toutes écoles de création. C’est un lieu \(auto\) géré par les étudiants pour mutualiser leurs matériaux et en collecter d’autres de qualité dans des entreprises ou institutions culturelles. La 1ère est née en 2015 à l’ENSBA de Lyon. L’envie est ensuite venue à ses fondateurs de diffuser l’idée pour qu’un maximum d’écoles puissent la reproduire et l’adapter leur propre contexte. Pour les y aider, un [site internet ](http://recuperatheque.wixsite.com/recuperatheque)est créé. Il met à disposition des outils et des savoirs guidant la mise en place d’une récupérathèque. Un réseau de récupérathèques voit le jour et propose un accompagnement personnalisé aux écoles qui le demandent.
 
 ---
 
-## **23- Générateur d'électricité à pédales \(Energy By Drill\*\)**
+## **23- Energy By Drill**
 
-**Initiateurs** : Emmanuel Laurent. **Licence** : à préciser. **Sources** : [site web](http://www.visiblenergie.fr).
+| **Initiateur\(s\)** | **Emmanuel Laurent** |
+| :---: | :---: |
+| **Licence\(s\)** | **Art Libre** |
+| **Source\(s\)** | [**Site web**](http://www.visiblenergie.fr) |
 
-\*_« Drill, baby, drill! » est un slogan de campagne du parti républicain pendant l'élection présidentielle de 2008 aux États-Unis. Il exprime le soutien de ce parti à l'intensification des forages pétroliers en vue d'augmenter les ressources en énergie \(Wikipédia\)_
+### Résumé
 
-Les citoyens et makers prennent un rôle de plus en plus large dans la réappropriation des espaces publiques. Ces questions sont souvent liées, directement ou indirectement, à l'énergie. Pour cela, les notions clés comme les ressources, les pertes, le stockage, ... doivent être rendues \#visibles. La forme de mobiliers urbains est en exploration. Au delà d'une simple production de mobiliers, l'enjeu est de privilégier des technologies low-tech plutôt que de rechercher la performance technique à tout prix. Cette posture permet de mieux appréhender les bases physiques de l'énergie et de conserver des objets réparables et améliorables. Cette approche passe nécessairement par des documentations partagées des principes mis en oeuvre. Des générateurs à pédales produisent de l'énergie en détournant un moteur d'imprimante laser ou de visseuse en un générateur d'énergie. Avec des capteurs mesurant l'énergie produite, ce système basique permet d'expliquer les notions clés de la production d'énergie locale. Avec l'ajout d'une documentation, la créativité des citoyens comme des makers va permettre d'imaginer d'autres mobiliers \#ludiques pour s'éclairer ou charger un smartphone.
+_« Drill, baby, drill! » est un slogan de campagne du parti républicain pendant l'élection présidentielle de 2008 aux États-Unis. Il exprime le soutien de ce parti à l'intensification des forages pétroliers en vue d'augmenter les ressources en énergie \(Wikipédia\)_
+
+Les citoyen prennent un rôle de plus en plus large dans la réappropriation des espaces publiques et ces questions sont souvent liées, directement ou indirectement, à l'énergie. Pour cela, les notions clés comme les ressources, les pertes, le stockage, ... doivent être rendues visibles Au delà d'une simple production de mobiliers, l'enjeu est de privilégier des technologies low-tech plutôt que de rechercher la performance technique à tout prix. Cette posture permet de mieux appréhender les bases physiques de l'énergie et de conserver des objets réparables et améliorables. Cette approche passe nécessairement par des documentations partagées des principes mis en oeuvre. Des générateurs à pédales produisent de l'énergie en détournant un moteur d'imprimante laser ou de visseuse en un générateur d'énergie. Avec des capteurs mesurant l'énergie produite, ce système basique permet d'expliquer les notions clés de la production d'énergie locale. Avec l'ajout d'une documentation, la créativité des citoyens comme des makers va permettre d'imaginer d'autres mobiliers \#ludiques pour s'éclairer ou charger un smartphone.
 
 ---
 
 ## 24- CyberGarden
 
-**Initiateurs** : David Bartholomeo. **Licence** : à préciser. **Sources** : à ajouter.
+| **Initiateur\(s\)** | **David Bartholomeo** |
+| :---: | :---: |
+| **Licence\(s\)** | **À préciser** |
+| **Source\(s\)** | **À ajouter** |
 
-**Contributeurs** :
+**Contributeurs**
 
 * Florian Bianco, Programmeur-développeur, IUT Gratte-Ciel
 * Pradeep Das, Maître-conférencier, Biologie fondamental, ENS de Lyon
 * Olivar Premier, Compositeur
 
-**Fork \(en cours\)** :
+**Fork \(en cours\)**
 
 * Charlotte Rizzo, Micro-Hackuaponie
 * Johann Durrafourg, PowerPlant
 * Jean-Marie Claisse & Oriane Marignier, ferme à SCOBY
 
-**Remerciements** :
+**Remerciements**
 
 * Ets DB PRODUCTS
 * 2nd PETROLEUM BOY
 * Gaëtan Robert
+
+### Résumé
 
 CyberGarden est la formalisation de choix tant au niveau artistique que quotidien. L’art m’a amené à me poser certaines questions sur ma vie, mon impact sur l’environnement, mon rôle social\* et \(a\)politique. J’ai modifié mes attentions, ma façon de penser l’existence et de créer. Entre conscience de l’état du monde, quête de sens et recherche de solutions pour envisager un avenir positif, les CyberGardens sont nés. Des alternatives poétiques jouxtant l’art, la science, la nature et la citoyenneté...
 
@@ -387,7 +412,7 @@ Le CyberGarden est un jardin suspendu, connecté. Il est actuellement développ�
 Plusieurs intentions sont développées autour de ce projet :
 
 * La transformation en sons et en images des observations d’une plante à l’échelle moléculaire \(Biologie Fondamentale, développement avec le Maître de conférence Pradeep Das, ENS de Lyon\). Ce dispositif permet une autre lecture du vivant.
-* La mise en place d’un environnement électronique qui recueille les informations météorologiques de l’environnement du végétal.
+* La mise en place d’un environnement électronique qui recueille les infos météorologiques de l’environnement du végétal.
 * Permettre au plus grand nombre l’accès aux mondes scientifiques par le prisme artistique.
 * Penser un système autonome \(aquaponie, énergie solaire, énergie des plantes\).
 
@@ -395,7 +420,12 @@ Plusieurs intentions sont développées autour de ce projet :
 
 ## **25- DOZE Parc**
 
-**Initiateurs** : La MYNE. **Licence** : à préciser. **Sources** : à ajouter.
+| **Initiateur\(s\)** | La MYNE |
+| :---: | :---: |
+| **Licence\(s\)** | **À préciser** |
+| **Source\(s\)** | **À ajouter** |
+
+### Résumé
 
 Né du projet Art et Science CyberGarden, l’installation DoZE parc est une forêt moderne qui donne à voir les problématiques vécues dans les Tiers-Lieux \(innovation, DIY, Open source, Blockchain, etc.
 
@@ -410,9 +440,14 @@ DoZE Parc se révèle un incubateur d’expériences aux fonctions multiples :
 
 ## **26- Micro-hackuaponie**
 
-**Initiateurs** : Charlotte Rizzo. **Licence** : à préciser. **Sources** : à ajouter.
+| **Initiateur\(s\)** | Charlotte Rizzo |
+| :---: | :---: |
+| **Licence\(s\)** | **À préciser** |
+| **Source\(s\)** | **À ajouter** |
 
-Micro-hackuaponie est un dispositif de réappropriation de la symbiose animal-végétal. Intégré au CyberGarden, il propose une production alimentaire saine, autonome et à échelle humaine. Bio-inspiré par le cycle de l'azote, le système est rendu autogéré et durable par l'introduction de diverses innovations citoyennes, issues de la science participative et de l'intelligence collective. Milieux nutritifs naturels et énergies renouvelables permettent de réinventer une circularité vertueuse, cette nourrice intervient en cohérence avec les autres dispositifs du DozePark. A la fois intuitif et interactif, micro-hackuaponie – la nourrice, invite à interroger les phénomènes agroécologiques en jeu dans la production alimentaire. Il propose une reconnexion aux cycles naturels, mais aussi aux technologies numériques comme nouvelle forme de reliance avec le vivant.
+### Résumé
+
+Micro-hackuaponie est un dispositif de réappropriation de la symbiose animal-végétal. Intégré à l'installation CyberGarden, il propose une production alimentaire saine, autonome et à échelle humaine. Bio-inspiré par le cycle de l'azote, le système est rendu autogéré et durable par l'introduction de diverses innovations citoyennes, issues de la science participative et de l'intelligence collective. Milieux nutritifs naturels et énergies renouvelables permettent de réinventer une circularité vertueuse, cette nourrice intervient en cohérence avec les autres dispositifs du DozePark. A la fois intuitif et interactif, micro-hackuaponie – la nourrice, invite à interroger les phénomènes agroécologiques en jeu dans la production alimentaire. Il propose une reconnexion aux cycles naturels, mais aussi aux technologies numériques comme nouvelle forme de reliance avec le vivant.
 
 ---
 
