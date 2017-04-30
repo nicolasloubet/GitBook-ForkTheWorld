@@ -84,15 +84,18 @@ Ainsi la technologie blockchain permet aujourd’hui de supprimer le besoin de c
 
 ## **3- Plantoïd**
 
-**Initiateurs** : Primavera de Filippi & le collectif Okhaos. **Licence** : à préciser. **Source** : à ajouter.
+| Initiateur\(s\) | Primavera de Filippi et le collectif Okhaos |
+| :--- | :--- |
+| Licence\(s\) | À préciser  |
+| Source\(s\) | À rajouter |
 
-En tant que chercheuse, Primavera de Filippi étudie l’impact des nouvelles technologies sur le système de droit. En tant qu’artiste, elle crée des œuvres qui ont vocation à illustrer sa recherche, et à en identifier les limites.
+### Résumé
 
-Plantoïd est le résultat d’un désir de représenter, par un médium artistique, l’une des fonctionnalités les plus disruptives de la blockchain : la capacité qu’elle a de créer des **agents logiciels autonomes** qui sont à la fois indépendants et auto-suffisants, et qui ne sont donc contrôlés par personne.
+En tant que chercheuse, Primavera de Filippi étudie l’impact des nouvelles technologies sur le système de droit. En tant qu’artiste, elle crée des œuvres qui ont vocation à illustrer sa recherche, et à en identifier les limites.Plantoïd est le résultat d’un désir de représenter, par un médium artistique, l’une des fonctionnalités de la blockchain : la capacité qu’elle a de créer des **agents logiciels autonomes** qui sont à la fois indépendants et auto-suffisants, et qui ne sont donc contrôlés par personne.
 
 La Plantoïd qui aurait dû être exposée à la Biennale de Design de Saint-Etienne est la n°5, née en 2016 suite à la reproduction de la Plantoïd n°3. La Plantoïd 3 vit actuellement à Hong Kong, après s’être envolée de Paris et à Sydney, pour une exposition au Powerhouse Museum. Elle est issue de la Plantoïd n°1, la première dans son genre. Chaque Plantoïd incorpore un code génétique qu’elle transmet à ces descendants. La Plantoïd 1 n’a que deux conditions : l’œuvre, ainsi que toutes les œuvres dérivées doivent être mis à disposition du public sous une licence CC-BY-SA ; et toutes doivent être constituées d’une chaîne —d’où la blockchain. La Plantoïd 3 a ainsi repris ces caractéristiques, en y ajoutant un nouveau gène: que tous ses descendants aient des ailes. La Plantoïd 5, elle, n’ajoute comme condition que l’obligation pour tous ses descendants de fournir de la lumière.
 
-Comme toute forme de vie, la Plantoïd a vocation a se reproduire. Pour se faire, elle va séduire les humains et les inviter à lui envoyer des Bitcoin. Dès que la Plantoïd a accumulé suffisamment d’argent pour assurer sa reproduction \(2 Bitcoin dans le cas de la Plantoïd n°3\), elle va lancer un appel d’offre, en invitant des artistes, des designers, des ferrailleurs, des développeurs ou des électriciens à soumettre des propositions sur comment ils envisagent de créer la prochaine Plantoid. Évidemment, la Plantoid est incapable d’exprimer un jugement sur les qualités techniques et artistiques de ces propositions. Elle s’appuie ainsi sur des humains pour lui donner conseil. Tous ceux qui ont contribué au financement de la Plantoid peuvent participer \(de façon proportionnelle à leur contribution\) à la prise de décision sur quelle sera la proposition sélectionnée, et quelle sera donc la forme assumée par la nouvelle Plantoid.
+Comme toute forme de vie, la Plantoïd a vocation a se reproduire. Pour se faire, elle va séduire les humains et les inviter à lui envoyer des Bitcoin. Dès que la Plantoïd a accumulé suffisamment d’argent pour assurer sa reproduction \(2 Bitcoin dans le cas de la Plantoïd n°3\), elle va lancer un appel d’offre, en invitant des artistes, designers,  ferrailleurs, informaticiens, etc. ou à soumettre des propositions sur comment ils envisagent de créer la prochaine Plantoid. La Plantoid est incapable d’exprimer un jugement sur les qualités techniques et artistiques de ces propositions. Elle s’appuie sur les humains pour lui donner conseil. Tous ceux qui ont contribué au financement de la Plantoid peuvent participer \(de façon proportionnelle à leur contribution\) à la prise de décision sur quelle sera la proposition sélectionnée, et quelle sera donc la forme assumée par la nouvelle Plantoid.
 
 ---
 
