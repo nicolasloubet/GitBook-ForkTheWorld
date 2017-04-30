@@ -39,7 +39,8 @@ Cette page est une réponse à la question "**mais où est donc la documentation
 * Affiches : [https://www.flickr.com/photos/sylviafredriksson/albums/72157681369649975](https://www.flickr.com/photos/sylviafredriksson/albums/72157681369649975)
 * Les [fichiers](https://drive.google.com/open?id=0B2bNimbuCtqsaEFsRFNuSVBONlk) \(Drive\) des affiches_ \[Indesign + Polices + JPG \(web\) + PDF \(Impression\)\]_
 * Tutoriel pour fabriquer son affiche : [Comment crer une affiche annonce d'événement](https://hackpad.com/vET6Q2GELF1)
-* \(Non\) Restitution : [https://storify.com/nicolasloubet/biennaledesign17-forktheworld](https://storify.com/nicolasloubet/biennaledesign17-forktheworld)
+* Résumé de la restitution : [https://storify.com/nicolasloubet/biennaledesign17-forktheworld](https://storify.com/nicolasloubet/biennaledesign17-forktheworld)
+  Vidéo\(s\) de la restitution : \(1\) [Le\(s\) processus](https://youtu.be/Cjf5__Rlu0s) + \(2\) [Les workshops](https://youtu.be/xBE-esA2kKI?t=4m53s) + \(3\) [L'étape d'après](https://youtu.be/VXSs6vBp0a8)
 
 # 5- Événements
 
