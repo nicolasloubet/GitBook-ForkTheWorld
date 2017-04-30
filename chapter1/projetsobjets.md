@@ -466,16 +466,12 @@ Dans un monde où la production de viande a un fort impact sur notre monde, ce m
 
 ## 28- Tiers-Jardin {#27--presse-à-insectes}
 
-|  |
-| :--- |
-
-
 | **Initiateur\(s\)** | B. Vitasse, X.Pinasseau, S. Rousseau, C. Clavreul, etc. |
 | :---: | :---: |
 | **Licence\(s\)** | **À préciser** |
-| **Source\(s\)** | [Hackpad](https://frama.link/BiennaleDesign17-ForkTheWorld-TiersJardin) |
+| **Source\(s\)** | [**Hackpad**](https://frama.link/BiennaleDesign17-ForkTheWorld-TiersJardin) |
 
 ### Résumé
 
-
+Les tiers-jardins sont une typologie de tiers-lieux, un concept d'espaces à la fois dédiés à l'agriculture urbaine, au travail, à la  collaboration et à la détente, issu de l'hybridation des espaces de vie  et des espaces de biodiversité au service de leurs usagers. 
 
