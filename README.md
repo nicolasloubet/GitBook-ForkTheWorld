@@ -36,5 +36,5 @@ Voici les ressources nécessaires minimales pour répliquer / reproduire /enrich
 
 ---
 
-_Si vous souhaitez remixer ce GitBook, vous le POU-VEZ. Un tutoriel \[sur ce _[_modèle_](https://handbook.enspiral.com/guides/contributing.html)_\] sera dispo ASAP._
+_Si vous souhaitez remixer ce GitBook, vous le POU-VEZ. Voir avec _[_Nicolas_](https://github.com/nicolasloubet)_ : nicolas\[dot\]loubet\[at\]protonmail\[dot\]com_
 
