@@ -50,23 +50,17 @@ _Pour aller plus loin, lire cette _[_interview_](https://github.com/nicolasloube
 | **Licence\(s\)** | CC-BY 3.0 FR |
 | **Source\(s\)** | [Page web](http://www.collectifbam.fr/project/blockchain-corvee-de-vaisselle/) \(Collectif BAM\) |
 
-Pour mieux comprendre le fonctionnement de la technologie blockchain et en faire comprendre son potentiel, les designers du Collectif Bam a souhaité imaginer ce qu’elle serait si elle était physique. Aidé par Alexandre Stachtchenko de Blockchain France, ils ont imaginé son usage à travers une installation qui parle à tous : la corvée de vaisselle !
-
 ### Resumé
 
-Léo, Jules, Marie et Elsa sont 4 frères et soeurs vivant dans la même maison. Comme dans beaucoup de familles, la corvée de vaisselle est un sujet propice à de nombreuses discordes. Entre celui qui prétend avoir effectué sa corvée plus souvent et celle qui a oublié son tour, le casse-tête est infini et la **confiance** n’existe plus. Le dilemme prend souvent fin par l’intervention autoritaire des parents.
+Pour faire comprendre le fonctionnement de la technologie blockchain, les designers du Collectif Bam a souhaité imaginer ce qu’elle serait si elle était physique. Aidé par Alexandre Stachtchenko de Blockchain France, ils ont imaginé son usage à travers une installation qui parle à tous : la corvée de vaisselle ! 
 
-Pour résoudre ce problème le père a une idée. Il attribue à chacun une couleur de palet différente. Puis, il construit un long tube transparent indestructible, qu’il fixe dans le sol de la maison pour accueillir ces palets à chaque tour de vaisselle réalisé. Pour éviter de **tricher**, l’accès au tube n’est possible qu’avec la **présence** d’au moins la majorité des frères et soeurs. En effet un couvercle sur le dessus est fermé par des serrures  dont chacun possède une clé. Il rappelle alors les 3 **règles** suivantes :
+> Léo, Jules, Marie et Elsa sont 4 frères et soeurs vivant dans la même maison. Comme dans beaucoup de familles, la corvée de vaisselle est un sujet propice à de nombreuses discordes. Entre celui qui prétend avoir effectué sa corvée plus souvent et celle qui a oublié son tour, le casse-tête est infini et la **confiance** n’existe plus. Le dilemme prend souvent fin par l’intervention autoritaire des parents.
+>
+> Pour résoudre ce problème le père a une idée. Il attribue à chacun une couleur de palet différente. Puis, il construit un long tube transparent indestructible, qu’il fixe dans le sol de la maison pour accueillir ces palets à chaque tour de vaisselle réalisé. Pour éviter de **tricher**, l’accès au tube n’est possible qu’avec la **présence** d’au moins la majorité des frères et soeurs. En effet un couvercle sur le dessus est fermé par des serrures  dont chacun possède une clé. Il rappelle alors les 3 **règles** suivantes : \(1\) Vous devez faire chacun votre tour la vaisselle \(2\) À chaque tour de vaisselle que vous réalisez, vous devez vous munir de votre palet et venir le placer en haut du tube \(3\) Les autres frères et soeurs doivent ensuite valider le fait que la corvée ait bien été réalisée en ouvrant ensemble le couvercle grâce à leurs clés respectives ce qui a pour conséquence de faire tomber le palet de couleur à l’intérieur du tube. La majorité des clés suffit à faire tomber le palet.
 
-* Vous devez faire chacun votre tour la vaisselle
+> Ainsi chacun peut **vérifier** la bonne réalisation des tâches ou savoir à qui est le prochain tour en jetant un oeil au tube. Il est ici impossible de **falsifier** le tube en essayant de venir récupérer de quelconque manière un palet déjà tombé à l’intérieur. Transparent, infalsifiable et indestructible, on pourrait dire de ce tube qu’il est en quelque sorte le tube de la vérité, acceptée par le consensus. Malheureusement ce principe fonctionne bien si l’honnêteté est de mise dans la maison. Mais si 2 ou 3 frères sont un jour de mauvaise foi, alors le palet ne sera pas validé !
 
-* À chaque tour de vaisselle que vous réalisez, vous devez vous munir de votre palet et venir le placer en haut du tube
-
-* Les autres frères et soeurs doivent ensuite valider le fait que la corvée ait bien été réalisée en ouvrant ensemble le couvercle grâce à leurs clés respectives ce qui a pour conséquence de faire tomber le palet de couleur à l’intérieur du tube. La majorité des clés suffit à faire tomber le palet.
-
-Ainsi chacun peut **vérifier** la bonne réalisation des tâches ou savoir à qui est le prochain tour en jetant un oeil au tube. Il est ici impossible de **falsifier** le tube en essayant de venir récupérer de quelconque manière un palet déjà tombé à l’intérieur. Transparent, infalsifiable et indestructible, on pourrait dire de ce tube qu’il est en quelque sorte le tube de la vérité, acceptée par le consensus. Malheureusement ce principe fonctionne bien si l’honnêteté est de mise dans la maison. Mais si 2 ou 3 frères sont un jour de mauvaise foi, alors le palet ne sera pas validé!
-
-Pour aller plus loin, ne pas hésiter à consulter ce [livre blanc](http://bit.ly/beyondblockchain).
+_Pour aller plus loin, ne pas hésiter à consulter ce _[_livre blanc_](http://bit.ly/beyondblockchain) _rédigé par Cellabz._
 
 ---
 
@@ -141,19 +135,20 @@ GNU/Linux ou Linux est un système d'exploitation créé en 1991 par Linus Torva
 
 ## **8- DIY CRISPR KIT**
 
-**Initiateurs** : The ODIN \(The Open Discovery Institute, 2016\). **Licence** : à préciser. **Sources** : [Google Drive](https://docs.google.com/document/d/1qJ-hkVjE3uqbSazqJdDkhdM7K9HDTqWl8pN-reX26JM/edit).
+| Initiateur\(s\) | The ODIN |
+| :--- | :--- |
+| Licence\(s\) | A préciser |
+| Source\(s\) | [CRISPR Kit](https://docs.google.com/document/d/1qJ-hkVjE3uqbSazqJdDkhdM7K9HDTqWl8pN-reX26JM/edit) |
 
-Avec "Biohack la planète" comme credo, la startup The Odin tire son origine d'une volonté farouche d'inclure davantage de personnes en science, et plus particulièrement dans le champ des biotechnologies. Biberonnée à la biologie participative ou biologie "Do It Yourself", l'équipe revendique une nécessaire acculturation et appropriation de l'ingénierie des génomes par les citoyens. Chez Odin, rendre accessible à tous les techniques d'édition de l'ADN passe par la conception, et aujourd'hui vente, de kits permettant de remanier génétiquement des organismes unicellulaires inoffensifs. Le Bacterial [DIY CRISPR Kit](https://docs.google.com/document/d/1qJ-hkVjE3uqbSazqJdDkhdM7K9HDTqWl8pN-reX26JM/edit) propose ainsi de modifier l'espèce bactérienne E. Coli, couramment utilisée au laboratoire, pour lui permettre de survivre dans un milieu de culture, habituellement létal pour elle. De l'indispensable micropipette au milieu de culture, le kit contient tout le nécessaire pour faire ses premiers pas: 150$ et quelques heures, c'est ce qu'il en coûte aujourd'hui, à l'ère de la dernière née des techniques d'édition génomique CRISPR-cas9.
+### Résumé
 
-### **Texte critique de Quitterie Largeteau \(Biohacking Safari\)**
+Avec "Biohack la planète" comme credo, The Odin tire son origine d'une volonté  d'inclure davantage de personnes en science, et plus particulièrement dans le champ des biotechnologies. Biberonnée à la biologie participative, l'équipe revendique une nécessaire acculturation et appropriation de l'ingénierie des génomes par les citoyens. Chez Odin, rendre accessible à tous les techniques d'édition de l'ADN passe par la conception, et aujourd'hui vente, de kits permettant de remanier génétiquement des organismes unicellulaires inoffensifs. Le Bacterial [DIY CRISPR Kit](https://docs.google.com/document/d/1qJ-hkVjE3uqbSazqJdDkhdM7K9HDTqWl8pN-reX26JM/edit) propose ainsi de modifier l'espèce bactérienne E. Coli, couramment utilisée au laboratoire, pour lui permettre de survivre dans un milieu de culture, habituellement létal pour elle. De l'indispensable micropipette au milieu de culture, le kit contient tout le nécessaire pour faire ses premiers pas: 150$ et quelques heures, c'est ce qu'il en coûte aujourd'hui, à l'ère de la dernière née des techniques d'édition génomique CRISPR-cas9.
 
-Les années 2010 voient une évolution rapide des technologies de modification du génome. Janvier 2013, la dernière née s'appelle CRISPR-Cas9. Réputée plus simple, rapide et économique, cette méthode issue de groupes institutionnels de recherche séduit et relance le débat éthique et sociétal autour de l'édition génomique. "Révolution", "menace" font aujourd'hui les unes des médias avec cette question: "Jusqu'où souhaitons nous aller?"
+#### **Texte critique de Quitterie Largeteau \(Biohacking Safari\)**
 
-Hors du cadre institutionnel, CRISPR rejoint la panoplie d'outils de modification génomique en usage dans les communautés de biohack selon les législations en vigueur. De la fabrication de levure fluorescente à la description génétique de végétal, cette technique se met au service des projets existants.
+Les années 2010 voient une évolution rapide des technologies de modification du génome. La dernière née s'appelle CRISPR-Cas9. Réputée plus simple, rapide et économique, cette méthode issue de groupes de recherche séduit et relance le débat éthique autour de l'édition génomique. Les unes des médias font aujourd'hui la une avec cette question: "_Jusqu'où souhaitons nous aller ?_" Hors du cadre institutionnel, CRISPR rejoint la panoplie d'outils de modification génomique en usage dans les communautés de biohack selon les législations en vigueur. De la fabrication de levure fluorescente à la description génétique de végétal, cette technique se met au service des projets existants. Pour les curieux, ces workshops sont des initiations, théoriques et pratiques, proposés par les communautés Genspace et Hackteria. Entre discussions et expérimentations, l'enjeu est de contextualiser et démystifier les techniques d'édition génomique, ainsi qu'imaginer ensemble des usages "souhaitables" à venir.
 
-Pour les curieux, ces workshops sont des initiations, tant théorique que pratique, proposés par les communautés Genspace et Hackteria. Entre discussions et expérimentations, l'enjeu est de contextualiser et démystifier les techniques d'édition génomique, ainsi qu'imaginer ensemble des usages "souhaitables" à venir.
-
-### **BioHacking Safari \(Quitterie Largeteau et Aurélien Dailly\)**
+#### **BioHacking Safari \(Quitterie Largeteau et Aurélien Dailly\)**
 
 De nouvelles pratiques de biologie, ouvertes et collaboratives, s'étendent hors des murs traditionnels. Sous l'appellation "Do it Yourself", elles portent de façons diverses l'ambition de démocratisation et d'appropriation de la biologie par les citoyens.
 
@@ -165,23 +160,20 @@ De nouvelles pratiques de biologie, ouvertes et collaboratives, s'étendent hors
 
 **Tito Jankowsky**, BioCurious, Californie
 
-BioHacking Safari est un projet d'exploration de ces terrains d'appropriation citoyenne de la recherche, de la transmission de savoirs et de l'innovation ouverte dans les sciences et technologies liées au vivant.
-
-Partant à la rencontre de ces acteurs et de leurs projets, découvrant des lieux et des communautés plurielles, BioHacking Safari aspire à créer du lien entre eux et leur donner une voix, en partageant et racontant leurs histoires.
+BioHacking Safari est un projet d'exploration de ces terrains d'appropriation citoyenne de la recherche, de la transmission de savoirs et de l'innovation ouverte dans les sciences et technologies liées au vivant. Partant à la rencontre de ces acteurs et de leurs projets, découvrant des lieux et des communautés plurielles, BioHacking Safari aspire à créer du lien entre eux et leur donner une voix, en partageant et racontant leurs histoires.
 
 ---
 
 ## **9- My Human Kit**
 
-**Initiateurs** : à préciser. **Licence** : CC-BY-SA. **Sources** : [site web](http://myhumankit.org/participer/).
+| **Initiateur\(s\)** | Nicolas Huchet, Hugues Aubin |
+| :---: | :---: |
+| **Licence\(s\)** | CC-BY-SA |
+| **Source\(s\)** | [Site web](http://myhumankit.org/participer/) |
 
-[My Human Kit ](http://myhumankit.org/)est une association visant à développer la santé pour tous à travers l’invention, le partage et la fabrication d’aides techniques aux handicaps réalisables pour et avec les personnes concernées.
+### Résumé
 
-Elle invite les personnes en situation de handicaps à devenir le centre de gravité de leur projet, c’est à dire à transformer leur limitation en motivation. D’être impliquées dans la résolution de leur problème pour fédérer une équipe en utilisant la force combinée de la solidarité \(Tous Ensemble\), du fait maison \(Do It Yourself\) et de la fabrication numérique \(FabLab\). L’objectif est de démontrer et de propager des “Humanlab”, ateliers où les humains vont apprendre à s’auto-réparer partout dans le monde.
-
-My Human Kit se positionne comme un opérateur expérimental dédié à l’invention et la propagation de méthodes et solutions concrètes, et à l’établissement d’un réseau international de lieux où valides et handicapés collaboreront pour les inventer, les fabriquer, et les partager.
-
-Depuis 2012 des liens ont été tissés partout dans le monde, de Saint-Didier \(35\) à Saint-Pétersbourg, en passant par Bombay, Bristol ou Sao-Paulo, à l’occasion d’événements, de conférences et de sessions de prototypage
+[My Human Kit ](http://myhumankit.org/)est une association visant à développer la santé pour tous à travers l’invention, le partage et la fabrication d’aides techniques aux handicaps réalisables pour et avec les personnes concernées. Elle invite les personnes en situation de handicap\(s\) à devenir le centre de gravité de leur projet, c’est à dire d’être impliquées dans la résolution de leur problème pour fédérer une équipe en utilisant la force combinée de la solidarité \(Tous Ensemble\), du fait maison \(Do It Yourself\) et de la fabrication numérique \(FabLab\). L’objectif est de démontrer et de propager des “Humanlabs”, ateliers où les humains vont apprendre à s’auto-réparer. My Human Kit se positionne comme opérateur expérimental dédié à l’invention et la propagation de méthodes et solutions concrètes, et à l’établissement d’un réseau international de lieux où valides et handicapés collaboreront pour les inventer, les fabriquer, et les partager. Depuis 2012 des liens ont été tissés de Saint-Didier \(35\) à Saint-Pétersbourg, en passant par Bombay, Bristol ou Sao-Paulo, à l’occasion d’événements, de conférences et de sessions de prototypage. 
 
 ---
 
@@ -197,9 +189,7 @@ Nos appareils électroniques auraient une durée de vie. Mais après la mort, vo
 
 **Initiateurs** : Clément Poudret** \(**Atelier Soudé\). **Licence** : à préciser. **Sources** : à ajouter.
 
-Les ordinateurs que nous possédons aujourd'hui sont dits "personnels". Mais cela concerne seulement une couche superficielle de la machine, le reste nous échappe totalement en tant qu'utilisateur, que ce soit au niveau logiciel ou matériel. Cet ordinateur est ici "reconfiguré" entièrement, cassant la barrière préexistante entre la machine telle que conçue initialement et l'utilisateur "consommateur".
-
-Le but est réellement de se réapproprier la technologie sans laisser ce bénéfice unique entre les mains des constructeurs. Le Personal Computer inclut: une 2eme carte wifi, un tuner TNT pour analyser les ondes radio, une carte GSM pour envoyer des SMS depuis l'ordinateur, un lecteur de carte à puces, un hub USB. Il ne s’allume que grâce à une clé contenant le système Linux. Le mot "clé" reprend alors tout son sens.
+Les ordinateurs que nous possédons aujourd'hui sont dits "personnels". Mais cela concerne seulement une couche superficielle de la machine, le reste nous échappe totalement en tant qu'utilisateur, que ce soit au niveau logiciel ou matériel. Cet ordinateur est ici "reconfiguré" entièrement, cassant la barrière préexistante entre la machine telle que conçue initialement et l'utilisateur "consommateur". Le but est réellement de se réapproprier la technologie sans laisser ce bénéfice unique entre les mains des constructeurs. Le Personal Computer inclut: une 2eme carte wifi, un tuner TNT pour analyser les ondes radio, une carte GSM pour envoyer des SMS depuis l'ordinateur, un lecteur de carte à puces, un hub USB. Il ne s’allume que grâce à une clé contenant le système Linux. Le mot "clé" reprend alors tout son sens.
 
 ---
 
