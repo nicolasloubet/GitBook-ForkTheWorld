@@ -468,7 +468,7 @@ Dans un monde où la production de viande a un fort impact sur notre monde, ce m
 
 | **Initiateur\(s\)** | B. Vitasse, X.Pinasseau, S. Rousseau, C. Clavreul, etc. |
 | :---: | :---: |
-| **Licence\(s\)** | **À préciser** |
+| **Licence\(s\)** | CC-BY-NC-SA |
 | **Source\(s\)** | [**Hackpad**](https://frama.link/BiennaleDesign17-ForkTheWorld-TiersJardin) |
 
 ### Résumé
