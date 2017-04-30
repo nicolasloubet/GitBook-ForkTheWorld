@@ -462,7 +462,7 @@ Micro-hackuaponie est un dispositif de réappropriation de la symbiose animal-v�
 
 Dans un monde où la production de viande a un fort impact sur notre monde, ce module invite à cultiver des vers de farine et de les consommer. Le Meuble à Insectes est une invitation à l’auto-fabrication et à l’auto-production alimentaire. Ce projet est diffusé dans un esprit open source au travers de licence creative commons, ce qui permet à quiconque de s’approprier la proposition. Il reste avant tout une interrogation sur la nécessité de nos modes de consommation dans un avenir pas si lointain.
 
-##  {#27--presse-à-insectes}
+---
 
 ## 28- Tiers-Jardin {#27--presse-à-insectes}
 
