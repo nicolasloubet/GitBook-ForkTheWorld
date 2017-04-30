@@ -16,11 +16,14 @@ Ce frigo appartenait au Garage, l’association étudiante de l’ESADE. Créée
 
 ---
 
-## **1- Table de dataviz Cairn **
+## **1- Table de dataviz Cairn ** {#1-table-cairn}
 
-**Initiateurs** : Pauline Gourlet et Thierry Dasse \(Carrefour Numérique\). **Licence** : CC-BY-SA_. _**Source** : [page wiki](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=projets:cairn_table_de_recueil_de_donnees).
+| **Initiateur\(s\)** | Pauline Gourlet, Thierry Dasse |
+| :--- | :--- |
+| **Licence** | CC-BY-SA |
+| **Source\(s\)** | [Page Wiki](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=projets:cairn_table_de_recueil_de_donnees) \(version originale\) + [Pad](https://hackpad.com/BiennaleDesign17-Atelier-avec-Pauline-Gourlet-et-Thierry-Dass-EDBRa60zyms) \(fork tiers-lieux\) |
 
-Résumé
+### Résumé
 
 **Un FabLab ne doit pas se réduire à une liste de machines**
 
@@ -34,13 +37,13 @@ Au-delà des contenus ouverts promus par les fablabs et la culture du libre, Pau
 
 La visualisation tangible de données simplifie la lecture d’un système : ici, chaque usager « rend compte » de qui il est et de ce qu’il a fait. La visualisation incarne une pratique.
 
-**La donnée comme outil de coopération**
+**Révéler la donnée pour engager la démarche de coopération**
 
 On peut émettre l'hypothèse qu'ouvrir aux usagers la boîte noire et les métriques de fréquentation des espaces de travail, c'est accompagner les pratiques et leurs mutations. En rendant visible les savoirs-faire, on favorise les démarches pair-à-pair et la coopération.
 
 **De la mesure de l'emploi à la compréhension du travail**
 
-Alors que le travail hiérarchique et la société de consommation nous ont dépossédés de la culture du chiffre et de la statistique, utilisée à des fins marketing, d'optimisation ou comme outil de prise de décision de politiques descendantes, l'ère des tiers-lieux marque-t-elle une forme de réappropriation de la donnée
+Alors que le travail hiérarchique et la société de consommation nous ont dépossédés de la culture du chiffre et de la statistique, utilisée à des fins marketing, ou comme outil de prise de décision de politiques descendantes, l'ère des tiers-lieux marque-t-elle une forme de réappropriation de la donnée ?
 
 ### Histoire
 
@@ -114,9 +117,7 @@ En tant que designers, nous avons été éduqué à mettre en œuvre une démarc
 
 Mais je ne suis pas sûre qu’il faille réellement essayer d’identifier ce que le design peut apporter pour répondre à tel ou tel sujet spécifique, car cela reviendrait à l'enfermer. C’est au contraire dans le tissage, avec les rencontres, l’immersion et l’humilité que les choses se jouent. Et c’est peut-être la chose la plus difficile pour un designer.
 
-Quand on arrive sur ces terrains-là, il s’agit de se dire. : "je ne sais pas tout. Je vais aussi beaucoup apprendre de la relation avec l’autre."
-
-La posture des designers qui ne travaillent pas sur le terrain, dans des endroits où ils peuvent comprendre leurs usagers, m’interroge beaucoup. Pour moi, il y a une rupture importante qui se joue entre les designers qui conçoivent pour des usagers, et les designers qui sont juste des gens et qui conçoivent avec d’autres gens.
+Quand on arrive sur ces terrains-là, il s’agit de se dire "J_e ne sais pas tout. Je vais aussi beaucoup apprendre de la relation avec l’autre". _La posture des designers qui ne travaillent pas sur le terrain, dans des endroits où ils peuvent comprendre leurs usagers, m’interroge beaucoup. Pour moi, il y a une rupture importante qui se joue entre les designers qui conçoivent pour des usagers, et les designers qui sont juste des gens et qui conçoivent avec d’autres gens.
 
 ---
 
