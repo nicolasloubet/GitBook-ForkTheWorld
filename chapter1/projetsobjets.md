@@ -1,6 +1,6 @@
 # Oeuvres
 
-Cette section compile les oeuvres / démarches présentées sur la [10e Biennale de Design à Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/).
+Cette section pré-figure un catalogue des oeuvres / démarches originales qui s'expriment dans les tiers-lieux. En l'état actuel, elle rassemble uniquement ce qui a été présenté / animé sur la [10e Biennale de Design à Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/).
 
 * Il manque des éléments \(photos, licences juridiques et documentation ad hoc\)
 * Cette liste préfigure une base de données ad hoc qui pourra être augmentée 
