@@ -1,4 +1,4 @@
-# Code Source
+# Processus
 
 Cette page est une réponse à la question "**mais où est donc la documentation de l'expérience Fork The World ?**" C'est loin de convenir aux attentes des libristes les plus chevronés... mais c'est un modeste début. Et toute contribution sera appréciée :\)
 
@@ -42,7 +42,7 @@ Cette page est une réponse à la question "**mais où est donc la documentation
 * Résumé de la restitution : [https://storify.com/nicolasloubet/biennaledesign17-forktheworld](https://storify.com/nicolasloubet/biennaledesign17-forktheworld)
   Vidéo\(s\) de la restitution : \(1\) [Le\(s\) processus](https://youtu.be/Cjf5__Rlu0s) + \(2\) [Les workshops](https://youtu.be/xBE-esA2kKI?t=4m53s) + \(3\) [L'étape d'après](https://youtu.be/VXSs6vBp0a8)
 
-# 5- Événements
+# 5- Manifestations
 
 * Agenda \(adaptatif et contributif\) : [https://frama.link/BiennaleDesign17-ForkTheWorld-Agenda](https://frama.link/BiennaleDesign17-ForkTheWorld-Agenda)
 * 'Programmation' IN' de la première phase de l'expérience : [https://frama.link/nKFhdgcU](https://frama.link/nKFhdgcU)

@@ -8,7 +8,7 @@ Cette section compile les oeuvres / démarches présentées sur la [10e Biennale
 
 ---
 
-## **0- Frigo d’OpenFactory**
+## **0- Frigo**
 
 Ce frigo appartenait au Garage, l’association étudiante de l’ESADE. Créée à l’initiative d’étudiants et de professeurs, elle s’était montée pour manifester son indignation face au choix de l’école de former les jeunes designers sur des logiciels propriétaires type la suite Adobe \(1700 €\) alors qu’il existe tout un tas d’outils libres type Gimp et Inskape. En 2013 l’association le Garage a été dissoute et les membres actifs ont intégré l’association OpenFactory42 qui est à l’initiative et gère aujourd’hui le FabLab du quartier Manufacture Plaine Achile de Saint-Étienne. Aujourd’hui, ce frigo et le canapé en cuir qui se trouve dans le makerspace d’OpenFactory sont donc les deux objets rescapés de cette aventure et sont devenus pour la communauté des objets totem qui ont une valeur plus pour leur symbolique \(un combat\) que leur fonction originelle \(refroidir et s'asseoir\).
 
@@ -52,12 +52,12 @@ _Pour aller plus loin, lire cette _[_interview_](https://github.com/nicolasloube
 
 ### Resumé
 
-Pour faire comprendre le fonctionnement de la technologie blockchain, les designers du Collectif Bam a souhaité imaginer ce qu’elle serait si elle était physique. Aidé par Alexandre Stachtchenko de Blockchain France, ils ont imaginé son usage à travers une installation qui parle à tous : la corvée de vaisselle ! 
+Pour faire comprendre le fonctionnement de la technologie blockchain, les designers du Collectif Bam a souhaité imaginer ce qu’elle serait si elle était physique. Aidé par Alexandre Stachtchenko de Blockchain France, ils ont imaginé son usage à travers une installation qui parle à tous : la corvée de vaisselle !
 
 > Léo, Jules, Marie et Elsa sont 4 frères et soeurs vivant dans la même maison. Comme dans beaucoup de familles, la corvée de vaisselle est un sujet propice à de nombreuses discordes. Entre celui qui prétend avoir effectué sa corvée plus souvent et celle qui a oublié son tour, le casse-tête est infini et la **confiance** n’existe plus. Le dilemme prend souvent fin par l’intervention autoritaire des parents.
 >
 > Pour résoudre ce problème le père a une idée. Il attribue à chacun une couleur de palet différente. Puis, il construit un long tube transparent indestructible, qu’il fixe dans le sol de la maison pour accueillir ces palets à chaque tour de vaisselle réalisé. Pour éviter de **tricher**, l’accès au tube n’est possible qu’avec la **présence** d’au moins la majorité des frères et soeurs. En effet un couvercle sur le dessus est fermé par des serrures  dont chacun possède une clé. Il rappelle alors les 3 **règles** suivantes : \(1\) Vous devez faire chacun votre tour la vaisselle \(2\) À chaque tour de vaisselle que vous réalisez, vous devez vous munir de votre palet et venir le placer en haut du tube \(3\) Les autres frères et soeurs doivent ensuite valider le fait que la corvée ait bien été réalisée en ouvrant ensemble le couvercle grâce à leurs clés respectives ce qui a pour conséquence de faire tomber le palet de couleur à l’intérieur du tube. La majorité des clés suffit à faire tomber le palet.
-
+>
 > Ainsi chacun peut **vérifier** la bonne réalisation des tâches ou savoir à qui est le prochain tour en jetant un oeil au tube. Il est ici impossible de **falsifier** le tube en essayant de venir récupérer de quelconque manière un palet déjà tombé à l’intérieur. Transparent, infalsifiable et indestructible, on pourrait dire de ce tube qu’il est en quelque sorte le tube de la vérité, acceptée par le consensus. Malheureusement ce principe fonctionne bien si l’honnêteté est de mise dans la maison. Mais si 2 ou 3 frères sont un jour de mauvaise foi, alors le palet ne sera pas validé !
 
 _Pour aller plus loin, ne pas hésiter à consulter ce _[_livre blanc_](http://bit.ly/beyondblockchain) _rédigé par Cellabz._
@@ -173,33 +173,46 @@ BioHacking Safari est un projet d'exploration de ces terrains d'appropriation ci
 
 ### Résumé
 
-[My Human Kit ](http://myhumankit.org/)est une association visant à développer la santé pour tous à travers l’invention, le partage et la fabrication d’aides techniques aux handicaps réalisables pour et avec les personnes concernées. Elle invite les personnes en situation de handicap\(s\) à devenir le centre de gravité de leur projet, c’est à dire d’être impliquées dans la résolution de leur problème pour fédérer une équipe en utilisant la force combinée de la solidarité \(Tous Ensemble\), du fait maison \(Do It Yourself\) et de la fabrication numérique \(FabLab\). L’objectif est de démontrer et de propager des “Humanlabs”, ateliers où les humains vont apprendre à s’auto-réparer. My Human Kit se positionne comme opérateur expérimental dédié à l’invention et la propagation de méthodes et solutions concrètes, et à l’établissement d’un réseau international de lieux où valides et handicapés collaboreront pour les inventer, les fabriquer, et les partager. Depuis 2012 des liens ont été tissés de Saint-Didier \(35\) à Saint-Pétersbourg, en passant par Bombay, Bristol ou Sao-Paulo, à l’occasion d’événements, de conférences et de sessions de prototypage. 
+[My Human Kit ](http://myhumankit.org/)est une association visant à développer la santé pour tous à travers l’invention, le partage et la fabrication d’aides techniques aux handicaps réalisables pour et avec les personnes concernées. Elle invite les personnes en situation de handicap\(s\) à devenir le centre de gravité de leur projet, c’est à dire d’être impliquées dans la résolution de leur problème pour fédérer une équipe en utilisant la force combinée de la solidarité \(Tous Ensemble\), du fait maison \(Do It Yourself\) et de la fabrication numérique \(FabLab\). L’objectif est de démontrer et de propager des “Humanlabs”, ateliers où les humains vont apprendre à s’auto-réparer. My Human Kit se positionne comme opérateur expérimental dédié à l’invention et la propagation de méthodes et solutions concrètes, et à l’établissement d’un réseau international de lieux où valides et handicapés collaboreront pour les inventer, les fabriquer, et les partager. Depuis 2012 des liens ont été tissés de Saint-Didier \(35\) à Saint-Pétersbourg, en passant par Bombay, Bristol ou Sao-Paulo, à l’occasion d’événements, de conférences et de sessions de prototypage.
 
 ---
 
 ## **10- Kit de réparation**
 
-**Initiateurs** : Atelier Soudé. **Licence** : à préciser. **Sources** : à ajouter.
+| Initiateur\(s\) | Atelier Soudé |
+| :--- | :--- |
+| **Licence** | À préciser |
+| **Source\(s\)** | À ajouter |
 
-Nos appareils électroniques auraient une durée de vie. Mais après la mort, vont-ils au paradis ? Si l'on cherche à tout prix à maintenir nos vies grâce aux soins médicaux, pourquoi pas celle de nos appareils électroniques ? A l'image des kits de premiers secours, cette armoire à pharmacie nous transforme en chirurgien électronique. Dans ce kit on trouve tout le nécessaire pour diagnostiquer, réparer et bidouiller soi-même l’électronique. Il s'organise comme un véritable plan de travail pour débutant ou initié, sur place ou à emporter. Réunissant les individus autour d’outils physiques et numériques, de transmission de savoirs et de compétences pratiques, ces kits permettent d’installer rapidement un Tiers-Lieu orienté vers la réappropriation de l’électronique. Chaque kit est unique et adapté aux besoins : fabrication, formes, matériaux, contenu.
+### Résumé
+
+À l'image des kits de premiers secours, cette armoire à pharmacie nous transforme en chirurgien électronique. Dans ce kit on trouve tout le nécessaire pour diagnostiquer, réparer et bidouiller soi-même l’électronique. Il s'organise comme un véritable plan de travail pour débutant ou initié, sur place ou à emporter. Réunissant les individus autour d’outils physiques et numériques, de transmission de savoirs et de compétences pratiques, ces kits permettent d’installer rapidement un Tiers-Lieu orienté vers la réappropriation de l’électronique. Chaque kit est unique et adapté aux besoins : fabrication, formes, matériaux, contenu.
 
 ---
 
 ## **11- Personal Computer**
 
-**Initiateurs** : Clément Poudret** \(**Atelier Soudé\). **Licence** : à préciser. **Sources** : à ajouter.
+| **Initiateur\(s\)** | Clément Poudret \(Atelier Soudé\) |
+| :--- | :--- |
+| **Licence\(s\)** | À préciser |
+| **Source\(s\)** | À ajouter |
 
-Les ordinateurs que nous possédons aujourd'hui sont dits "personnels". Mais cela concerne seulement une couche superficielle de la machine, le reste nous échappe totalement en tant qu'utilisateur, que ce soit au niveau logiciel ou matériel. Cet ordinateur est ici "reconfiguré" entièrement, cassant la barrière préexistante entre la machine telle que conçue initialement et l'utilisateur "consommateur". Le but est réellement de se réapproprier la technologie sans laisser ce bénéfice unique entre les mains des constructeurs. Le Personal Computer inclut: une 2eme carte wifi, un tuner TNT pour analyser les ondes radio, une carte GSM pour envoyer des SMS depuis l'ordinateur, un lecteur de carte à puces, un hub USB. Il ne s’allume que grâce à une clé contenant le système Linux. Le mot "clé" reprend alors tout son sens.
+### Résumé
+
+Les ordinateurs que nous possédons aujourd'hui sont dits "personnels"... mais cela ne concerne qu'une couche superficielle de la machine, le reste nous échappant totalement, que ce soit au niveau logiciel ou matériel. Cet ordinateur est ici "reconfiguré" , cassant la barrière préexistante entre la machine et l'utilisateur "consommateur". Le but est réellement de se réapproprier la technologie sans laisser ce bénéfice unique entre les mains des constructeurs. Le Personal Computer inclut : une 2eme carte wifi, un tuner TNT pour analyser les ondes radio, une carte GSM pour envoyer des SMS depuis l'ordinateur, un lecteur de carte à puces, un hub USB. Il ne s’allume que grâce à une clé contenant le système Linux. Le mot "clé" reprend alors tout son sens.
 
 ---
 
 ## **12- Cultibutte**
 
-**Initiateurs** : L'Atelier Paysan. **Licence** : BY-NC-SA. **Sources** : [page web](http://www.latelierpaysan.org/Cultibutte).
+| Initiateur\(s\) | Atelier Paysan |
+| :--- | :--- |
+| Licence\(s\) | CC-BY-NC-SA |
+| Source\(s\) | [Page web](http://www.latelierpaysan.org/Cultibutte) |
 
-Le Cultibutte a été baptisé ainsi car les principaux organes de travail sont des dents de cultivateur complétées par une paire de disques. Il permet le travail en butte et en planche permanente pour la reprise d’un labour ou d’une fin de culture. Il est conçu pour façonner ou entretenir les buttes.
+### Résumé
 
-**L'Atelier Paysan **fédère des collectifs de paysans partout en France pour concevoir en groupe des machines et des bâtiments sur mesure, adaptés aux pratiques spécifiques de l’agroécologie paysanne. Nous partons du principe que les agriculteurs, qui sont au cœur de la pratique et de l’expérience agricole, sont bien placés pour inventer ou ajuster eux-mêmes leur outil de production, et que les solutions les plus **autonomes** et **économes** émergent souvent de l**’intelligence collective de terrain**. L’Atelier Paysan est équipé de 5 camions atelier qui sillonnent la France pour essaimer ces communs, en assurant un programme de 70 formations auto-construction par an.
+Le Cultibutte a été baptisé ainsi car les principaux organes de travail sont des dents de cultivateur complétées par une paire de disques. Il permet le travail en butte et en planche permanente pour la reprise d’un labour ou d’une fin de culture. Il est conçu pour façonner ou entretenir les buttes. Cette machine a été libérée par l**'Atelier Paysan **qui** **fédère des collectifs de paysans partout en France pour concevoir en groupe des machines et des bâtiments sur mesure, adaptés aux pratiques spécifiques de l’agroécologie paysanne. Ses acteurs partent du principe que les agriculteurs, qui sont au cœur de la pratique et de l’expérience agricole, sont bien placés pour inventer ou ajuster eux-mêmes leur outil de production, et que les solutions les plus **autonomes** et **économes** émergent souvent de l**’intelligence collective de terrain**. L’Atelier Paysan est aujourd'hui équipé de 5 camions atelier qui sillonnent la France pour essaimer ces communs, en assurant un programme de 70 formations auto-construction par an.
 
 ---
 

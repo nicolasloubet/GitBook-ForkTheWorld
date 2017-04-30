@@ -2,9 +2,9 @@
 
 * [Bienvenue](README.md)
 * [Expérience Fork The World](chapter1.md)
-  * [À propos](chapter1/la-promesse.md)
-  * [Oeuvres](chapter1/projetsobjets.md)
-  * [Sources](chapter1/les-sources-de-lexperience.md)
+  * [Intention](chapter1/la-promesse.md)
+  * [Catalogue](chapter1/projetsobjets.md)
+  * [Processus](chapter1/les-sources-de-lexperience.md)
 * [Portraits de praticien.nes](talents-des-tiers-lieux.md)
   * [Béatrice David ](talents-des-tiers-lieux/beatrice-david.md)
   * [Alexandre Del Perugia ](talents-des-tiers-lieux/alexandre-del-perugia.md)
