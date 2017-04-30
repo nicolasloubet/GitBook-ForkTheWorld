@@ -1,20 +1,18 @@
 # Oeuvres
 
-Cette section compile la totalité des oeuvres/démarches présentées sur le temps de la Biennale de Design de Saint-Etienne.
+Cette section compile les oeuvres présentées pendant la [10e Biennale de Design de Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/).
 
-Remarques : 
+Remarques :
 
-* Il manque un certain nombre d'éléments \(photographies des objets, licences juridiques et documentation le cas échéant\).
-* Cette liste préfigure une base de données ad hoc qui pourra être augmentée dans le cadre de l'essaimage de l'exposition. 
-* Ce qui sera très intéressant, à l'avenir, c'est de permettre des croisements réguliers entre ces différents groupes-projets.
+* Il manque des éléments \(photos, licences juridiques et documentation ad hoc\)
+* Cette liste préfigure une base de données ad hoc qui pourra être augmentée 
+* Cette liste ne reflète pas les croisements réguliers entre ces groupes-projets
+
+---
 
 ## **0- Frigo d’OpenFactory**
 
-Ce frigo appartenait au Garage, l’association étudiante de l’ESADE. Créée à l’initiative d’étudiants et de professeurs, elle s’était montée pour manifester son indignation face au choix de l’école de former les jeunes designers sur des logiciels propriétaires type la suite Adobe \(1700 €\) alors qu’il existe tout un tas d’outils libres type Gimp et Inskape.
-
-En 2013 l’association le Garage a été dissoute et les membres actifs ont intégré l’association OpenFactory42 qui est à l’initiative et gère aujourd’hui le FabLab du quartier Manufacture Plaine Achile de Saint-Étienne.
-
-Aujourd’hui, ce frigo et le canapé en cuir qui se trouve dans le makerspace d’OpenFactory sont donc les deux objets rescapés de cette aventure et sont devenus pour la communauté des objets totem qui ont une valeur plus pour leur symbolique \(un combat\) que leur fonction originelle \(refroidir et s'asseoir\).
+Ce frigo appartenait au Garage, l’association étudiante de l’ESADE. Créée à l’initiative d’étudiants et de professeurs, elle s’était montée pour manifester son indignation face au choix de l’école de former les jeunes designers sur des logiciels propriétaires type la suite Adobe \(1700 €\) alors qu’il existe tout un tas d’outils libres type Gimp et Inskape. En 2013 l’association le Garage a été dissoute et les membres actifs ont intégré l’association OpenFactory42 qui est à l’initiative et gère aujourd’hui le FabLab du quartier Manufacture Plaine Achile de Saint-Étienne. Aujourd’hui, ce frigo et le canapé en cuir qui se trouve dans le makerspace d’OpenFactory sont donc les deux objets rescapés de cette aventure et sont devenus pour la communauté des objets totem qui ont une valeur plus pour leur symbolique \(un combat\) que leur fonction originelle \(refroidir et s'asseoir\).
 
 ---
 
