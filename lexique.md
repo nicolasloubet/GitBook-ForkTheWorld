@@ -46,9 +46,9 @@ _Biologie participative - _[_**Wikipedia**_](https://fr.wikipedia.org/wiki/Biolo
 >
 > Ainsi la technologie blockchain permet aujourd’hui de supprimer le besoin de confiance en automatisant les processus. “Les champs d’exploitation sont immenses : [banques](https://blockchainfrance.net/2016/03/01/quels-impacts-de-la-blockchain-sur-les-banques/), [assurance](https://blockchainfrance.net/2016/02/17/assurances-et-blockchain/), [immobilier](https://blockchainfrance.net/2016/03/03/des-cadastres-sur-la-blockchain), [santé](https://blockchainfrance.net/2016/03/02/la-blockchain-et-la-sante/), [énergie](https://blockchainfrance.net/2016/07/07/la-blockchain-pour-lenergie/), [transports](https://blockchainfrance.net/2016/03/19/arcade-city-le-uber-killer-de-la-blockchain/), [vote en ligne](https://blockchainfrance.net/2016/02/12/democratie-et-blockchain-le-cas-du-vote/)… Des blockchains pourraient remplacer la plupart des "tiers de confiance" centralisés par des systèmes informatiques distribués.
 
-Blockchain France
+_**Blockchain France**_
 
-# 
+---
 
 # **\#Confiance**
 
