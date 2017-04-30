@@ -1,8 +1,6 @@
 # Oeuvres
 
-Cette section compile les oeuvres présentées pendant la [10e Biennale de Design de Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/).
-
-Remarques :
+Cette section compile les oeuvres / démarches présentées sur la [10e Biennale de Design à Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/).
 
 * Il manque des éléments \(photos, licences juridiques et documentation ad hoc\)
 * Cette liste préfigure une base de données ad hoc qui pourra être augmentée 
@@ -68,14 +66,14 @@ Pour résoudre ce problème le père a une idée. Il attribue à chacun une coul
 
 Ainsi chacun peut **vérifier** la bonne réalisation des tâches ou savoir à qui est le prochain tour en jetant un oeil au tube. Il est ici impossible de **falsifier** le tube en essayant de venir récupérer de quelconque manière un palet déjà tombé à l’intérieur. Transparent, infalsifiable et indestructible, on pourrait dire de ce tube qu’il est en quelque sorte le tube de la vérité, acceptée par le consensus. Malheureusement ce principe fonctionne bien si l’honnêteté est de mise dans la maison. Mais si 2 ou 3 frères sont un jour de mauvaise foi, alors le palet ne sera pas validé!
 
-Pour aller plus loin dans la compréhension de Blockchain, lire ce livre blanc.
+Pour aller plus loin, ne pas hésiter à consulter ce [livre blanc](http://bit.ly/beyondblockchain).
 
 ---
 
 ## **3- Plantoïd**
 
 | Initiateur\(s\) | Primavera de Filippi et le collectif Okhaos |
-| :--- | :--- |
+| :---: | :---: |
 | Licence\(s\) | À préciser |
 | Source\(s\) | À rajouter |
 
@@ -94,7 +92,7 @@ Comme toute forme de vie, la Plantoïd a vocation a se reproduire. Pour se faire
 | **Initiateur\(s\)** | R. Técher, S. Rabaaoui, L. Villard, P. Flipo, N. Loubet, C. Epié, X. Lavayssière, A. Omerin, A. Gérard, X. Coadic \(...\) |
 | :---: | :--- |
 | **Licence\(s\)** | CC-BY-NS-SA \(textes\), GPL3 \(code\) |
-| Source\(s\) | [Base de connaissance\(s\)](https://frama.link/DAISEE-knowledge) |
+| **Source\(s\)** | [Hackpad](https://frama.link/DAISEE-knowledge) \(connaissance\), [Rocket](https://chat.daisee.org/) \(coordination\)[ ](https://frama.link/DAISEE-knowledge) |
 
 ### Résumé
 
@@ -104,35 +102,40 @@ DAISEE est un commun co-produit par la [MYNE](http://lamyne.org) \(tiers-lieu ba
 
 ## **5- Vélo du concierge **
 
-**Initiateur** : Abel Ary. **Licence** : à préciser. **Source** : à ajouter.
+| **Initiateur\(s\)** | Abel Ary |
+| :---: | :---: |
+| **Licence\(s\)** | À préciser |
+| **Source\(s\)** | À ajouter |
 
-Dispositif conçu et réalisé dans le cadre d’Open City Lab \(23 au 29 Janvier 2017\) pour L’Expérience Tiers-Lieux Fork The World.
+### Résumé
+
+Dispositif conçu et réalisé dans le cadre d’Open City Lab \(23 au 29 Janvier 2017\) pour Fork The World.
 
 ---
 
 ## **6- Echopen**
 
-**Initiateurs** : à préciser. **Licence** : GNU GPL V3 \(software\), TAPR Open Hardware License \(hardware\). **Source** : [wiki](http://echopen.org/doc-website/CAT-configuration/CFG-sweeping_probe/content).
+| **Initiateur\(s\)** | M. Benchoufi, O. de Fresnoye, L. Jonveaux, etc. |
+| :---: | :--- |
+| **Licence\(s\)** | GPL 3 \(software\) et TAPR \(hardware\) |
+| **Source\(s\)** | [Wiki](http://wiki.echopen.org/index.php/Main_Page) \(connaissance\), [Slack](http://echopen.slack.com) \(coordination\) |
 
-[Echopen](https://echopen.gitbooks.io/starterkit/content/setup_your_own_echopen_lab.html) aims at developing the first low-cost [open source hardware](https://en.wikipedia.org/wiki/Open-source_hardware) echostethoscope which can be connected to a smartphone or a tablet. It is intended for health professionnals and will be developed thanks to a multidisplinary community. To keep in touch:
+### Résumé
 
-* Get The News with the echopen [newsletter](http://eepurl.com/6L4I5)
-
-* Join the community on the[echopen slack](https://echopen.slack.com)to chat with everyone
-
-* Send an email at contact\[a\]echopen.org
-
-* Join our [Facebook group](https://www.facebook.com/groups/echopen/?fref=ts)
-
-* Come visit us at our open lab inside Hopital Hotel Dieu - 1, place du parvis Notre Dame - 75004 Paris - France \(Bâtiment A1, 6e étage\)
+[Echopen](http://echopen.org) poursuit l'objectif de développer le premier echo-stethoscope [_open hardware_](https://en.wikipedia.org/wiki/Open-source_hardware) et bon marché qui peut se connecter sur un smartphone / tablette. Il se destine aux professionnels de santé et est développé via une communauté multidisciplinaire.
 
 ---
 
 ## **7- GNU/Linux Distribution Timeline**
 
-**Initiateurs** : Andreas Lundqvist \(initially\), Muhammad Herdiansyah \(continued\). **Licence** : GNU Free Documentation License. **Source** : [Linux Distribution Timeline.svg](https://commons.wikimedia.org/wiki/File:Linux_Distribution_Timeline.svg)
+| **Initiateur\(s\)** | J. Alex Sandoval, A. Lundqvist, M. Herdiansyah, etc. |
+| :---: | :---: |
+| **Licence\(s\)** | GNU Free Documentation |
+| **Source\(s\)** | [Linux Distribution Timeline](https://commons.wikimedia.org/wiki/File:Linux_Distribution_Timeline.svg) |
 
-[Linux](https://simple.wikipedia.org/wiki/Linux) : Linux ou GNU/Linux est un système d'exploitation open source unix-like pour les ordinateurs. Un système d'exploitation est une collection des instructions de base qui gèrent les parties électroniques de l'ordinateur. Linux est un logiciel libre et open source, \[...\] chacun a la liberté de l'utiliser, de voir comment il fonctionne, de le modifier ou de le partager.
+### Résumé
+
+GNU/Linux ou Linux est un système d'exploitation créé en 1991 par Linus Torvalds qui remplace le précédent noyau GNU fondé en 1984 par Richard Stallman. Depuis cette date, il existe une multitude de déclinaisons \(ou _fork_\) ou distributions. Pour rendre visibles ces distributions, José Alex Sandoval, aidé par d'autres personnes ont décidés de créer laGNU/Linux Distribution Timeline. On y retrouve toutes les distributions, comme les plus connues \(Debian, Ubuntu, RedHat, Fedora...\). \[[Source](https://www.babeuloula.fr/blog/gnu-linux-distribution-timeline.html)\]
 
 ---
 
