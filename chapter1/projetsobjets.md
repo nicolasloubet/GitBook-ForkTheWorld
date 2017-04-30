@@ -466,5 +466,16 @@ Dans un monde où la production de viande a un fort impact sur notre monde, ce m
 
 ## 28- Tiers-Jardin {#27--presse-à-insectes}
 
+|  |
+| :--- |
+
+
+| **Initiateur\(s\)** | B. Vitasse, X.Pinasseau, S. Rousseau, C. Clavreul, etc. |
+| :---: | :---: |
+| **Licence\(s\)** | **À préciser** |
+| **Source\(s\)** | [Hackpad](https://frama.link/BiennaleDesign17-ForkTheWorld-TiersJardin) |
+
+### Résumé
+
 
 
