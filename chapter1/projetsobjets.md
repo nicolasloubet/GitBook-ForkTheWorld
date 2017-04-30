@@ -1,6 +1,6 @@
 # Oeuvres
 
-Cette section pré-figure un catalogue des oeuvres / démarches originales qui s'expriment dans les tiers-lieux. En l'état, elle rassemble ce qui a été présenté sur la [10e Biennale de Design à Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/). À noter : \(1\) Il manque des éléments \(photos, licences juridiques et documentation ad hoc\) \(2\) Cet annuaire préfigure une base de données et il ne reflète pas les métissages en cours entre les groupes-projets. 
+Cette section pré-figure un catalogue des oeuvres / démarches originales qui s'expriment dans les tiers-lieux. En l'état, elle rassemble ce qui a été présenté sur la [10e Biennale de Design à Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/). À noter : \(1\) Il manque des éléments \(photos, licences juridiques et documentation ad hoc\) \(2\) Cet annuaire préfigure une base de données et il ne reflète pas les métissages en cours entre les groupes-projets.
 
 ---
 
@@ -14,8 +14,8 @@ Ce frigo appartenait au Garage, l’association étudiante de l’ESADE. Créée
 
 | **Initiateur\(s\)** | P. Gourlet \(CRI\), T. Dasse \(Carrefour Numérique\) |
 | :---: | :---: |
-| **Licence\(s\)** | CC-BY-SA |
-| **Source\(s\)** | [Page Wiki](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=projets:cairn_table_de_recueil_de_donnees) \(version originale\) + [PAD ](https://hackpad.com/BiennaleDesign17-Atelier-avec-Pauline-Gourlet-et-Thierry-Dass-EDBRa60zyms)\(fork tiers-lieux\) |
+| **Licence\(s\)** | **CC-BY-SA** |
+| **Source\(s\)** | [**Page Wiki**](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=projets:cairn_table_de_recueil_de_donnees)** \(version originale\) + **[**PAD **](https://hackpad.com/BiennaleDesign17-Atelier-avec-Pauline-Gourlet-et-Thierry-Dass-EDBRa60zyms)**\(fork tiers-lieux\)** |
 
 ### Résumé
 
@@ -43,8 +43,8 @@ _Pour aller plus loin, lire cette _[_interview_](https://github.com/nicolasloube
 
 | **Initiateur\(s\)** | T. Thibault \(BAM\) et A. Stachtchenko \(Blockchain France\) |
 | :---: | :---: |
-| **Licence\(s\)** | CC-BY 3.0 FR |
-| **Source\(s\)** | [Page web](http://www.collectifbam.fr/project/blockchain-corvee-de-vaisselle/) \(Collectif BAM\) |
+| **Licence\(s\)** | **CC-BY 3.0 FR** |
+| **Source\(s\)** | [**Page web**](http://www.collectifbam.fr/project/blockchain-corvee-de-vaisselle/) |
 
 ### Resumé
 
@@ -62,10 +62,10 @@ _Pour aller plus loin, ne pas hésiter à consulter ce _[_livre blanc_](http://b
 
 ## **3- Plantoïd**
 
-| Initiateur\(s\) | Primavera de Filippi et le collectif Okhaos |
+| **Initiateur\(s\)** | **Primavera de Filippi et le collectif Okhaos** |
 | :---: | :---: |
-| Licence\(s\) | À préciser |
-| Source\(s\) | À rajouter |
+| **Licence\(s\)** | **À préciser** |
+| **Source\(s\)** | **À rajouter** |
 
 ### Résumé
 
@@ -79,10 +79,10 @@ Comme toute forme de vie, la Plantoïd a vocation a se reproduire. Pour se faire
 
 ## **4- DAISEE**
 
-| **Initiateur\(s\)** | R. Técher, S. Rabaaoui, L. Villard, P. Flipo, N. Loubet, C. Epié, X. Lavayssière, A. Omerin, A. Gérard, X. Coadic \(...\) |
+| **Initiateur\(s\)** | **R. Técher, S. Rabaaoui, L. Villard, P. Flipo, N. Loubet, C. Epié, X. Lavayssière, A. Omerin, A. Gérard, X. Coadic \(...\)** |
 | :---: | :--- |
-| **Licence\(s\)** | CC-BY-NS-SA \(textes\), GPL3 \(code\) |
-| **Source\(s\)** | [Hackpad](https://frama.link/DAISEE-knowledge) \(connaissance\), [Rocket](https://chat.daisee.org/) \(coordination\)[ ](https://frama.link/DAISEE-knowledge) |
+| **Licence\(s\)** | **CC-BY-NS-SA \(textes\), GPL3 \(code\)** |
+| **Source\(s\)** | [**Hackpad**](https://frama.link/DAISEE-knowledge)** \(connaissance\), **[**Rocket**](https://chat.daisee.org/)** \(coordination\)**[** **](https://frama.link/DAISEE-knowledge) |
 
 ### Résumé
 
@@ -92,10 +92,10 @@ DAISEE est un commun co-produit par la [MYNE](http://lamyne.org) \(tiers-lieu ba
 
 ## **5- Vélo du concierge **
 
-| **Initiateur\(s\)** | Abel Ary |
+| **Initiateur\(s\)** | **Abel Ary** |
 | :---: | :---: |
-| **Licence\(s\)** | À préciser |
-| **Source\(s\)** | À ajouter |
+| **Licence\(s\)** | **À préciser** |
+| **Source\(s\)** | **À ajouter** |
 
 ### Résumé
 
@@ -105,10 +105,10 @@ Dispositif conçu et réalisé dans le cadre d’Open City Lab \(23 au 29 Janvie
 
 ## **6- Echopen**
 
-| **Initiateur\(s\)** | M. Benchoufi, O. de Fresnoye, L. Jonveaux, etc. |
+| **Initiateur\(s\)** | **M. Benchoufi, O. de Fresnoye, L. Jonveaux, etc.** |
 | :---: | :--- |
-| **Licence\(s\)** | GPL 3 \(software\) et TAPR \(hardware\) |
-| **Source\(s\)** | [Wiki](http://wiki.echopen.org/index.php/Main_Page) \(connaissance\), [Slack](http://echopen.slack.com) \(coordination\) |
+| **Licence\(s\)** | **GPL 3 \(software\) et TAPR \(hardware\)** |
+| **Source\(s\)** | [**Wiki**](http://wiki.echopen.org/index.php/Main_Page)** \(connaissance\), **[**Slack**](http://echopen.slack.com)** \(coordination\)** |
 
 ### Résumé
 
@@ -118,10 +118,10 @@ Dispositif conçu et réalisé dans le cadre d’Open City Lab \(23 au 29 Janvie
 
 ## **7- GNU/Linux Distribution Timeline**
 
-| **Initiateur\(s\)** | J. Alex Sandoval, A. Lundqvist, M. Herdiansyah, etc. |
+| **Initiateur\(s\)** | **J. Alex Sandoval, A. Lundqvist, M. Herdiansyah, etc.** |
 | :---: | :---: |
-| **Licence\(s\)** | GNU Free Documentation |
-| **Source\(s\)** | [Linux Distribution Timeline](https://commons.wikimedia.org/wiki/File:Linux_Distribution_Timeline.svg) |
+| **Licence\(s\)** | **GNU Free Documentation** |
+| **Source\(s\)** | [**Linux Distribution Timeline**](https://commons.wikimedia.org/wiki/File:Linux_Distribution_Timeline.svg) |
 
 ### Résumé
 
@@ -131,10 +131,10 @@ GNU/Linux ou Linux est un système d'exploitation créé en 1991 par Linus Torva
 
 ## **8- DIY CRISPR KIT**
 
-| Initiateur\(s\) | The ODIN |
-| :--- | :--- |
-| Licence\(s\) | A préciser |
-| Source\(s\) | [CRISPR Kit](https://docs.google.com/document/d/1qJ-hkVjE3uqbSazqJdDkhdM7K9HDTqWl8pN-reX26JM/edit) |
+| **Initiateur\(s\)** | **The ODIN** |
+| :---: | :---: |
+| **Licence\(s\)** | **A préciser** |
+| **Source\(s\)** | [**CRISPR Kit**](https://docs.google.com/document/d/1qJ-hkVjE3uqbSazqJdDkhdM7K9HDTqWl8pN-reX26JM/edit) |
 
 ### Résumé
 
@@ -162,10 +162,10 @@ BioHacking Safari est un projet d'exploration de ces terrains d'appropriation ci
 
 ## **9- My Human Kit**
 
-| **Initiateur\(s\)** | Nicolas Huchet, Hugues Aubin |
+| **Initiateur\(s\)** | **Nicolas Huchet, Hugues Aubin** |
 | :---: | :---: |
-| **Licence\(s\)** | CC-BY-SA |
-| **Source\(s\)** | [Site web](http://myhumankit.org/participer/) |
+| **Licence\(s\)** | **CC-BY-SA** |
+| **Source\(s\)** | [**Site web**](http://myhumankit.org/participer/) |
 
 ### Résumé
 
@@ -175,10 +175,10 @@ BioHacking Safari est un projet d'exploration de ces terrains d'appropriation ci
 
 ## **10- Kit de réparation**
 
-| Initiateur\(s\) | Atelier Soudé |
-| :--- | :--- |
-| **Licence** | À préciser |
-| **Source\(s\)** | À ajouter |
+| **Initiateur\(s\)** | **Atelier Soudé** |
+| :---: | :---: |
+| **Licence** | **À préciser** |
+| **Source\(s\)** | **À ajouter** |
 
 ### Résumé
 
@@ -188,10 +188,10 @@ BioHacking Safari est un projet d'exploration de ces terrains d'appropriation ci
 
 ## **11- Personal Computer**
 
-| **Initiateur\(s\)** | Clément Poudret \(Atelier Soudé\) |
-| :--- | :--- |
-| **Licence\(s\)** | À préciser |
-| **Source\(s\)** | À ajouter |
+| **Initiateur\(s\)** | **C. Poudret \(Atelier Soudé\)** |
+| :---: | :---: |
+| **Licence\(s\)** | **À préciser** |
+| **Source\(s\)** | **À ajouter** |
 
 ### Résumé
 
@@ -201,10 +201,10 @@ Les ordinateurs que nous possédons aujourd'hui sont dits "personnels"... mais c
 
 ## **12- Cultibutte**
 
-| Initiateur\(s\) | Atelier Paysan |
-| :--- | :--- |
-| Licence\(s\) | CC-BY-NC-SA |
-| Source\(s\) | [Page web](http://www.latelierpaysan.org/Cultibutte) |
+| **Initiateur\(s\)** | **Atelier Paysan** |
+| :---: | :---: |
+| **Licence\(s\)** | **CC-BY-NC-SA** |
+| **Source\(s\)** | [**Page web**](http://www.latelierpaysan.org/Cultibutte) |
 
 ### Résumé
 
@@ -214,15 +214,25 @@ Le Cultibutte a été baptisé ainsi car les principaux organes de travail sont 
 
 ## **13- Faire Savoir**
 
-**Initiateurs** : Luce Aknin. **Licence** : à préciser. **Sources** : [page web](http://www.luceaknin.com/?portfolio=faire-savoir).
+| **Initiateur\(s\)** | **L. Aknin** |
+| :---: | :---: |
+| **Licence\(s\)** | **À préciser** |
+| **Source\(s\)** | [**Page web**](http://www.luceaknin.com/?portfolio=faire-savoir) |
 
-L'atelier Faire Savoir permet à tous la découverte de **métiers manuels industriels ou artisanaux** par la fabrication d'un objet. Il approche le métier par la matière et la rencontre, pour créer le déclic chez des personnes qui ne s'y attendrait pas et **revaloriser ces filières**. Les ateliers sont conduit localement par des hommes/femmes de métier volontaires ayant l’envie de transmettre. A chaque métier est associé un objet qui permet de découvrir un panel d’outils à travers les différentes étapes de sa fabrication. Le choix de cet objet est fait en amont en concertation avec les habitants, pour son usage collectif. Le dispositif a été testé à côté de Lens et a donné lieu à 2 ateliers d'initiation à la chaudronnerie par la fabrication de mobiliers de fête de quartier \(tréteaux\). Il a été répliqué avec le Lycée Le Marais et le tiers-lieu OpenFactory afin d’encourager les échanges entre ces établissements. Enfin, il est en cours d’adaptation à la région Grand Est au sein de la Chaire IDIS.
+### Résumé
+
+L'atelier Faire Savoir permet à tous la découverte de **métiers manuels industriels ou artisanaux** par la fabrication d'un objet. Il approche le métier par la matière et la rencontre, pour créer le déclic chez des personnes qui ne s'y attendrait pas et **revaloriser ces filières**. Les ateliers sont conduit  par des hommes/femmes de métier volontaires ayant l’envie de transmettre. A chaque métier est associé un objet qui permet de découvrir un panel d’outils à travers les différentes étapes de sa fabrication. Le choix de cet objet est fait en amont en concertation avec les habitants, pour son usage collectif. Le dispositif a été testé à côté de Lens et a donné lieu à 2 ateliers d'initiation à la chaudronnerie par la fabrication de mobiliers de fête de quartier \(tréteaux\). Il a été répliqué avec le Lycée Le Marais et le tiers-lieu OpenFactory afin d’encourager les échanges entre ces établissements. 
 
 ---
 
 ## **14- Établi Communautaire**
 
-**Initiateurs** : OpenSources. **Licence** : à préciser. **Sources** : à ajouter.
+| **Initiateur\(s\)** | OpenSources |
+| :---: | :---: |
+| **Licence\(s\)** | **À préciser** |
+| **Source\(s\)** | [**Page web**](http://www.echo-system.fr/ecodesign/dm1tl/) |
+
+### Résumé
 
 La vie en communauté pose des questions en termes de sécurisation des machines-outils, notamment dans le cadre d'artisans en résidence. Nous imaginons cet établi comme un coffre permettant la sécurisation des outils personnelles tout en étant un plan de travail utilisable par tous. Écrin aux machines, il permet leur mobilité en intégrant des modules combinatoires roulants. Il contient des rangements accueillant les outils de base \(pinces, clés, marteaux, etc.\) ainsi que le stock communautaire de quincaillerie. Au centre de l’établi, un grand caisson permet de stocker les profils des projets en cours. Son dessin permet d’accueillir un ensemble de machines en présence, tout en facilitant leur transport dans les véhicules pour les missions extérieures. Nous utilisons les proportions des systainers : les contenants des machines électroportatives, comme base à la conception de l'ensemble des éléments. Un diable dépliable en plan de travail s’ajoute à l’établi et aux modules combinatoires.
 
@@ -230,31 +240,51 @@ La vie en communauté pose des questions en termes de sécurisation des machines
 
 ## **15- Paravent de table**
 
-**Initiateurs** : Anthony Vacter, Elise Déplat, Coline Clavreul \(Collectif 96\) **Licence** : à préciser. **Sources** : à ajouter.
+| **Initiateur\(s\)** | **A. Vacter, E. Déplat, C. Clavreul \(Collectif 96\)** |
+| :---: | :---: |
+| **Licence\(s\)** | **À préciser** |
+| **Source\(s\)** | **À ajouter** |
 
-Le projet est basé sur une observation effectuée lors du workshop Tiny Tilios Camp, organisé par Open Factory, en vue de la Biennale Internationale de Design de Saint-Étienne : Les mutations du travail. L’idée est venue en discutant de l’amélioration et l’aménagement d’Open Factory. Comment obtenir des espaces de travail plus «personnels» dans un espace de comaking? Et comment ceux-ci pourraient être mobiles, interchangeables, modulables...? Le prototype créé est un paravent de table adaptable à toute sorte de plan de travail par un système de serre-joint, productible entièrement en FabLab avec les machines numériques : imprimante 3D, découpe laser ou fraiseuse numérique.
+### Résumé
+
+Le projet est basé sur une observation effectuée lors du workshop Tiny Tilios Camp en préparation de la 10e Biennale Internationale de Design de Saint-Étienne. L’idée est venue en discutant de l’amélioration d’OpenFactory. Comment obtenir des espaces de travail plus «personnels» dans un espace de comaking ? Et comment ceux-ci pourraient être mobiles, interchangeables, modulables ? Le prototype créé est un paravent de table adaptable à toute sorte de plan de travail par un système de serre-joint, productible en FabLab avec une imprimante 3D, une découpe laser ou une fraiseuse numérique.
 
 ---
 
 ## **16- MediaLaBox**
 
-**Initiateurs** : Elise Deplat et Coline Clavreul \(Collectif 96\). **Licence** : à préciser. **Sources**: à ajouter.
+| **Initiateur\(s\)** | E. Déplat, C. Clavreul \(Collectif 96\) |
+| :---: | :---: |
+| **Licence\(s\)** | **À préciser** |
+| **Source\(s\)** | **À ajouter** |
 
-Le constat a été de se dire que beaucoup d'entre nous nous sommes des travailleurs nomades \(coworkeurs, freelance, Community Manager, développeurs, journalistes...\), que nous avons besoin régulièrement besoin de stocker ou de se transférer des données. Ainsi la Media Lab Box permettrait de stocker et de partager des fichiers quels qu'ils soient et de manière nomade, ce serait bien plus simple. La Média Lab Box est pensée pour aussi bien se mettre dans un sac à dos, une boîte à gants d'une voiture, dans un camion, dans un espace de coworking, dans un Tiers Lieux...
+### Résumé
+
+Le constat a été de se dire que beaucoup d'entre nous nous sont des travailleurs nomades \(designers,  informaticiens, journalistes...\) et que nous avons besoin de stocker/transférer des données. L'idée de la Media Lab Box est de permettre de stocker et de partager des fichiers quels qu'ils sont et de manière nomade. Elle a été  pensée pour aussi bien se mettre dans un sac à dos, une boîte à gants d'une voiture, dans un camion, dans un espace de coworking. Bref, dans tout type de Tiers-Lieux.
 
 ---
 
 ## **17- Applaus detector**
 
-**Initiateurs** : Design Tech Académie & Openscop. **Licence** : à préciser. **Sources** : à ajouter.
+| **Initiateur\(s\)** | Design Tech Academie, OpenScop |
+| :---: | :---: |
+| **Licence\(s\)** | **À préciser** |
+| **Source\(s\)** | **À ajouter** |
 
-Capteur de présence permettant de déclencher un son... propre au Tiers Lieux.
+### Résumé
+
+Il s'agit d'un capteur de présence qui permet de déclencher un son... propre au Tiers Lieux.
 
 ---
 
 ## **18- Services numériques décentralisés**
 
-**Initiateurs** : Clément Ballet, Christophe Junier, Jimmy Fragne, Christian Lopez, Julien Thézé, Patricia Geraci, Jean Bonnard. Avec Clément Bertrand \(Université Jean Monnet\). **Licence** : à préciser. **Sources** : à ajouter.
+| **Initiateur\(s\)** | C. Ballet, C. Junier, J. Fragne, C. Lopez, J. Thézé, P. Geraci, J. Bonnard. Avec C. Bertrand \(Université Jean Monnet\) |
+| :---: | :---: |
+| **Licence\(s\)** | **À préciser** |
+| **Source\(s\)** | **À ajouter** |
+
+### Résumé
 
 > Dans les tiers-lieux, nous avons la capacité de créer nos propres réseaux et nos propres services. D’une part, pour contrer les logiques de centralisation par les grands monopoles, les GAFA, et pour répondre aux enjeux liés à la vie privée, à la protection de nos données personnelles, et aux problématiques de surveillance. D’autre part, il s'agit aussi de pouvoir faire tiers-lieu dans les zones reculées, les zones de conflits, celles qui ont connu des chocs politiques ou des catastrophes naturelles, ou encore les lieux de rassemblement. Tout est possible. Branché sur des batteries, nous pouvons imaginer déployer de manière agile une infrastructure numérique là où elle est nécessaire, et mettre en place des services.
 
@@ -264,7 +294,12 @@ Extrait d’interview de** Yoann Duriaux **par Sylvia Fredriksson \(3 mars 2017\
 
 ## **19- Bacterian Farm**
 
-**Initiateurs** : Jean-Marie Claisse. **Licence** : CC-BY-NC-SA. **Sources** : à ajouter
+| **Initiateur\(s\)** | **Jean-Marie Claisse** |
+| :---: | :---: |
+| **Licence\(s\)** | **CC-BY-NC-SA** |
+| **Source\(s\)** | **À ajouter** |
+
+### Résumé
 
 Bacterian Farm, ferme de production de cellulose bactérienne automatisée à partir de sucre, thé et vinaigre. L’intérêt de cette matière est qu’elle ressemble énormément à du cuir issue des bactéries de la boisson Kombucha \(Scoby\). La fabrication est très similaire à la production de vinaigre, et de cellulose bactérienne industrielle mais en DiY. Suivant les ingrédients et le séchage, l’aspect, la couleur et l’odeur peuvent être modifiés. Le but de la ferme est de permettre une culture contrôlée \(Température, PH, séchage\) dans un système clos afin de permettre l'incubation et la culture DiY sans contrainte, et ainsi de faciliter le développement de cette matière dans un usage artisanal local et autonome.
 
