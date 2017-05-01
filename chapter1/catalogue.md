@@ -56,7 +56,7 @@ Pour faire comprendre le fonctionnement de la technologie blockchain, les design
 >
 > Ainsi chacun peut **vérifier** la bonne réalisation des tâches ou savoir à qui est le prochain tour en jetant un oeil au tube. Il est ici impossible de **falsifier** le tube en essayant de venir récupérer de quelconque manière un palet déjà tombé à l’intérieur. Transparent, infalsifiable et indestructible, on pourrait dire de ce tube qu’il est en quelque sorte le tube de la vérité, acceptée par le consensus. Malheureusement ce principe fonctionne bien si l’honnêteté est de mise dans la maison. Mais si 2 ou 3 frères sont un jour de mauvaise foi, alors le palet ne sera pas validé !
 
-_Pour aller plus loin, ne pas hésiter à consulter ce _[_livre blanc_](http://bit.ly/beyondblockchain) _rédigé par Cellabz._
+_Pour aller plus loin, ne pas hésiter à consulter ce [_livre blanc_](http://bit.ly/beyondblockchain) rédigé par Cellabz._
 
 ---
 
