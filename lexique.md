@@ -124,7 +124,7 @@ _**Valérie Peugeot**, chercheuse \(_[_9 Juillet 2013_](http://notesondesign.org
 
 > Doocratie est un terme souvent rencontré dans le monde des hackers et du logiciel. Il traduit une principe qui m’est assez sympathique qui consiste à dire que celui qui fait doit décider. Il me semble que c’est un bon point de départ quand on essaie de s’organiser collectivement et faire des choses ensemble. Je n’aime pas trop les inspecteurs des travaux finis. La doocratie me paraît être une bonne manière de lutter contre cela.
 
-**Sébastien Broca**, sociologue \([31 Octobre 2014](http://notesondesign.org/sebastien-broca/)\)
+_**Sébastien Broca**, sociologue \([31 Octobre 2014](http://notesondesign.org/sebastien-broca/)\)_
 
 ---
 
@@ -242,7 +242,7 @@ _**Nadine Jouanen**, consultante \(_[_16 Novembre 2014_](http://notesondesign.or
 
 > Je peux définir le logiciel libre en trois mots : Liberté, Égalité, Fraternité. Liberté, parce que les utilisateurs sont libres. Égalité, parce qu’ils disposent tous des mêmes libertés. Fraternité, parce que nous encourageons chacun à coopérer dans la communauté.
 
-**Richard Stallman** dans sa [conférence](http://www.youtube.com/watch?v=so9UBH4I_GI) pour _Paris capital du libre_ \(2007\)
+_**Richard Stallman** dans sa [conférence](http://www.youtube.com/watch?v=so9UBH4I_GI) pour Paris capital du libre (2007)_
 
 > Un des enjeux de la communauté du libre est de monter que ce n’est pas une solution au rabais. Dans le cas du logiciel libre, on en a fait la preuve en ce qui concerne tout ce qui est serveur. 50 % des serveurs du monde tourne avec Apache, qui est du logiciel libre. Tout ce qui concerne les réseaux également. Mais en ce qui concerne les logiciels et applications grand public, on doit faire face à des idées reçues. La gratuité est presque suspecte. Le libre est un moyen de concevoir des outils de niveau professionnel voire supérieur à ce qu’une structure classique pourrait obtenir. Le libre est un mode d’agir efficace.
 
@@ -254,7 +254,7 @@ _**Vincent Calame**, codeur et militant \(_[_5 Septembre 2013_](http://notesonde
 
 > Je pense qu’il est important d’avoir des textes auxquels se référer pour construire une culture commune et un cadre où chacun puisse s’exprimer à partir du même référentiel. Par exemple, les libertés du logiciel libre décrites dans les conférences deRichard Stallman constituent pour moi un corpus de références qui permet de fixer des idées. Cependant, je pense que le temps des manifestes est fini \(…\). Il est important d’en avoir fait et le corpus doctrinal existe dorénavant mais à trop en faire on risque de tomber dans de la politique à l’ancienne, dans des déclarations d’intentions qui ne sont pas suivies de faits \(…\) L’engagement écrit ne suffit pas. Il est important d’agir, au-delà des manifestes.
 
-**Adrienne Alix**, militante \([20 Août 2013](http://notesondesign.org/adrienne-alix/)\)
+_**Adrienne Alix**, militante \([20 Août 2013](http://notesondesign.org/adrienne-alix/)\)_
 
 ---
 
