@@ -30,7 +30,7 @@ _**Jennifer Bonn**, artiste \(_[_18 Novembre 2013_](http://notesondesign.org/jen
 
 > Le terme bio-hacker est parfois utilisé pour désigner un individu expérimentant principalement les propriétés de l'[ADN](https://fr.wikipedia.org/wiki/Acide_désoxyribonucléique) et d'autres aspects de la [génétique](https://fr.wikipedia.org/wiki/Génétique), dans le cadre ou en dehors du cadre académique, [gouvernemental](https://fr.wikipedia.org/wiki/Gouvernement) ou des [laboratoires](https://fr.wikipedia.org/wiki/Laboratoire_de_recherche). Les bio-hackers sont comparables aux [hackers](https://fr.wikipedia.org/wiki/Hacker_%28sécurité_informatique%29) informatiques dans leur approche ouverte de leur champ d'étude.
 
-_Biologie participative - _[_**Wikipedia**_](https://fr.wikipedia.org/wiki/Biologie_participative)
+_Biologie participative, [**Wikipedia**](https://fr.wikipedia.org/wiki/Biologie_participative)_
 
 ---
 
@@ -66,7 +66,7 @@ _**Lionel Maurel**, bibliothécaire et activiste \(_[_25 Juillet 2013_](http://n
 
 > Si l’on considère la communauté comme un objet mouvant, alors on peut définir la richesse de ce milieu par le nombre et la qualité de liens qui s’y tissent, par l’interconnexion des individus de ce même milieu.
 
-_**Irène Favero **du** **_[_**Réseau Culture 21**_](http://reseauculture21.fr/)_ \(_[_10 Septembre 2013_](http://notesondesign.org/irene-favero/)_\)_
+_**Irène Favero** du [Réseau Culture 21](http://reseauculture21.fr/)_ \(_[_10 Septembre 2013_](http://notesondesign.org/irene-favero/)_\)_
 
 > Le commun est associé à l’idée de quelque chose de non figé, d’un non objet, et de l’idée que le faire est plus important que le qui fait. Ce détachement de la personne en faveur de la communauté permet de sortir d’une vision figée de ce qu’est la vie, que constituent nos activités. C’est un mouvement, ce n’est pas fixe. Les choses sont en train de changer. C’est ce que l’on fait qui compte, plus que nos propres personnes ou l’image que l’on peut développer autour de nos identités personnelles. Il y a un transfert d’attention sur ce qui est fait plutôt que sur les personnes qui font.
 
@@ -92,7 +92,7 @@ _**Yoann Duriaux**, super concierge et initiateur de Movilab_
 
 > Un chef de tribu dont le seul pouvoir est de rappeler les règles à défaut de pouvoir en imposer l’application ?
 
-_**Pierre Clastres **dans "**La société contre l’État**" \(Minuit, 1974\)_
+_**Pierre Clastres** dans "**La société contre l’État**" \(Minuit, 1974\)_
 
 ---
 
@@ -154,7 +154,7 @@ _**Fred Turner**, professeur à l'_[_Université de Stanford_](https://fr.wikipe
 
 > Comme l’a montré la philosophe et historienne féministe Silvia Federici, le processus d’enclosure, i.e. d’appropriation privée des conditions de vie, ne concernait pas que les terres. Il s’est également emparé des savoirs, qui font partie des moyens de vie et de production. Ce n’est pas un hasard si les enclosures ont coïncidé avec la chasse aux sorcières car les sorcières étaient justement les dépositaires de savoirs médicinaux, et notamment de techniques abortives que les classes dominantes honnissaient à la fin du Moyen Âge, en raison du manque de main d’œuvre et de son prix excessif.
 
-[_**Aurélien Berlan**_](https://www.cairn.info/publications-de-Berlan-Aurélien--80289.htm)_ dans "**Pouvoir et dépendance**" \(2016\)_
+_[**Aurélien Berlan**](https://www.cairn.info/publications-de-Berlan-Aurélien--80289.htm) dans "**Pouvoir et dépendance**" \(2016\)_
 
 ---
 
@@ -170,11 +170,11 @@ _**Émeline Brulé**, designer \(10 Décembre 2013\)_
 
 > **Fork \(logiciel\) : **un **fork** est un nouveau logiciel créé à partir du[code source](https://fr.wikipedia.org/wiki/Code_source) d'un logiciel existant. Cela suppose que les droits accordés par les auteurs le permettent : ils doivent autoriser l'utilisation, la modification et la redistribution du code source. C'est pour cette raison que les forks se produisent facilement dans le domaine des[logiciels libres](https://fr.wikipedia.org/wiki/Logiciel_libre).
 
-_Fork _[_- **Wikipedia**_](https://fr.wikipedia.org/wiki/Fork_%28développement_logiciel%29)
+_Fork, [**Wikipedia**](https://fr.wikipedia.org/wiki/Fork_%28développement_logiciel%29)_
 
 > **Fork \(matériel\) :**un **fork** est un objet ayant une racine commune avec un second. Ces deux objets, jumeaux au départ, suivent chacun, après séparation, leur évolution propre. Le mot peut être employé également comme synonyme d'« objet dérivé ».
 
-_Fork - _[_**Wikipedia**_](https://fr.wikipedia.org/wiki/Fork)
+_Fork, [**Wikipedia**](https://fr.wikipedia.org/wiki/Fork)_
 
 ---
 
@@ -186,7 +186,7 @@ _**Irène Favero**, Réseau Culture 21 \(_[_10 Septembre 2013_](http://notesonde
 
 > Ce terme renvoie à la « _novlangue_ » du « _new public management_\*» \[qui recommandait d'introduire au sein des structures et procédures bureaucratiques du public des principes inspirés du privé\] qui a accompagné la restructuration, engagée depuis la période néolibérale des années 1980 et 1990, des façons de gouverner, dans les démocraties occidentales, tant les entreprises que les institutions.
 
-_**Amy Dahan** dans "_[_La gouvernance du climat : Entre climatisation du monde et schisme de réalité_](http://communsetdeveloppement-afd2016.com/uploads/event_member/116769/amydahan.pdf)"_ \(article paru dans la Revue l’Homme et la Société, n° 199, p 79-90, Juillet 2016\)_
+_**Amy Dahan** dans "_[_La gouvernance du climat : Entre climatisation du monde et schisme de réalité_](http://communsetdeveloppement-afd2016.com/uploads/event_member/116769/amydahan.pdf)"_
 
 > La gouvernance c’est la décentralisation de la prise de décision où se déroule l’action, elle ne peut s’appliquer que sur la base d’un patrimoine informationnel et matériel commun.
 
@@ -202,7 +202,7 @@ _**Bastien Guerry**, développeur et enseignant \(_[_29 Juillet 2013_](http://no
 
 > Il y a une définition que j’aime bien actuellement, c’est l’idée que les biens communs sont un laboratoire de gouvernance.
 
-_**Frédéric Sultan**, initiateur de** **_[_**Remix the Commons**_](http://www.remixthecommons.org/)_ \(_[_17 Juillet 2013_](http://notesondesign.org/frederic-sultan/)_\)_
+_**Frédéric Sultan**, initiateur de [**Remix the Commons**](http://www.remixthecommons.org/)_ \(_[_17 Juillet 2013_](http://notesondesign.org/frederic-sultan/)_\)_
 
 ---
 
@@ -210,7 +210,7 @@ _**Frédéric Sultan**, initiateur de** **_[_**Remix the Commons**_](http://www.
 
 > **Le hack est une manipulation d'un système**. En [sécurité informatique](https://fr.wikipedia.org/wiki/Sécurité_informatique), un hacker \(ou hackeur\) est un [spécialiste](https://fr.wikipedia.org/wiki/Spécialiste) qui recherche les moyens de contourner les protections [logicielles](https://fr.wikipedia.org/wiki/Logiciel) et [matérielles](https://fr.wikipedia.org/wiki/Matériel_informatique).
 
-_Hack - _[_**Wikipedia**_](https://fr.wikipedia.org/wiki/Hack)_** & **Hacker - _[_**Wikipedia**_](https://fr.wikipedia.org/wiki/Hacker_%28sécurité_informatique%29)
+_Hack, [_**Wikipedia**_](https://fr.wikipedia.org/wiki/Hack)_ & _Hacker, [_**Wikipedia**_](https://fr.wikipedia.org/wiki/Hacker_%28sécurité_informatique%29)_
 
 ---
 
@@ -274,7 +274,7 @@ _**Susanne Tarkowski Tempelhof**, fondatrice de **Bitnation**_
 
 > La nouvelle figure politique sera-t-elle le programmeur ?
 
-_**Lawrence Lessig **dans **Code is Law **\(Harvard Magazine, 2000\)_
+_**Lawrence Lessig** dans **Code is Law** (Harvard Magazine, 2000)_
 
 ---
 
@@ -298,7 +298,7 @@ _**Anthony Masure**, designer \(_[_7 Juin 2015_](http://notesondesign.org/anthon
 
 > Le thème welfariste du plein emploi n’est aujourd'hui plus central, puisque – que l’on ait du travail ou pas – dans la société qui est la nôtre, dans les réseaux de coopération qui enferment aujourd’hui les forces productives dans les rapports de production, chacun est dans tous les cas engagé dans le processus productif. C’est la mise en lumière de cette évidence qui a fait scandale.
 
-_**Toni Negri **dans **EuroNomade** \(7 Février 2017\)_
+_**Toni Negri** dans **EuroNomade** (7 Février 2017)_
 
 ---
 
@@ -306,7 +306,7 @@ _**Toni Negri **dans **EuroNomade** \(7 Février 2017\)_
 
 > La démocratie commence par le proche.
 
-Extrait de_ "**Squatter le pouvoir. Les Mairies rebelles d’Espagne" **de** **Ludovic Lamant \(2016\)_
+_Extrait de "**Squatter le pouvoir. Les Mairies rebelles d’Espagne**" de Ludovic Lamant (2016)_
 
 ---
 
@@ -330,7 +330,7 @@ _**Jacques Derrida**, philosophe, dans le dossier "_[_**Derrida Politique**_](ht
 
 > La gestion de versions consiste à maintenir l'ensemble des versions d'un ou plusieurs fichiers \(généralement [en texte](https://fr.wikipedia.org/wiki/Fichier_texte)\). Essentiellement utilisée dans le domaine de la [création de logiciels](https://fr.wikipedia.org/wiki/Programmation_informatique), elle concerne surtout la gestion des [codes source](https://fr.wikipedia.org/wiki/Codes_source).
 
-_Gestion de versions - _[_**Wikipedia**_](https://fr.wikipedia.org/wiki/Gestion_de_versions)
+_Gestion de versions, [**Wikipedia**](https://fr.wikipedia.org/wiki/Gestion_de_versions)_
 
 ---
 
