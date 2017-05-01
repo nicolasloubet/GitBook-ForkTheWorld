@@ -15,7 +15,7 @@ Ce frigo appartenait au Garage, l’association étudiante de l’ESADE. Créée
 | **Initiateur\(s\)** | P. Gourlet \(CRI\), T. Dasse \(Carrefour Numérique\) |
 | :---: | :---: |
 | **Licence\(s\)** | **CC-BY-SA** |
-| **Source\(s\)** | [**Page Wiki**](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=projets:cairn_table_de_recueil_de_donnees) \(version originale\) + [**PAD **](https://hackpad.com/BiennaleDesign17-Atelier-avec-Pauline-Gourlet-et-Thierry-Dass-EDBRa60zyms) \(fork tiers-lieux\)** |
+| **Source\(s\)** | [**Page Wiki**](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=projets:cairn_table_de_recueil_de_donnees) \(version originale\) + [**PAD**](https://hackpad.com/BiennaleDesign17-Atelier-avec-Pauline-Gourlet-et-Thierry-Dass-EDBRa60zyms) \(fork tiers-lieux\)** |
 
 ### Résumé
 
