@@ -21,7 +21,7 @@ Ce frigo appartenait au Garage, l’association étudiante de l’ESADE. Créée
 
 **Un FabLab ne doit pas se réduire à une liste de machines**
 
-C’est ce que nous rappelle Pauline Gourlet en concevant le projet Cairn**, **qui déplace notre regard vers les communautés d’usagers : **une étude des usages en FabLab**.
+C’est ce que nous rappelle Pauline Gourlet en concevant le projet Cairn, qui déplace notre regard vers les communautés d’usagers : **une étude des usages en FabLab**.
 
 **La culture ouverte ne s’arrête pas aux contenus ouverts**
 
@@ -208,7 +208,7 @@ Les ordinateurs que nous possédons aujourd'hui sont dits "personnels"... mais c
 
 ### Résumé
 
-Le Cultibutte a été baptisé ainsi car les principaux organes de travail sont des dents de cultivateur complétées par une paire de disques. Il permet le travail en butte et en planche permanente pour la reprise d’un labour ou d’une fin de culture. Il est conçu pour façonner ou entretenir les buttes. Cette machine a été libérée par l**'Atelier Paysan **qui** **fédère des collectifs de paysans partout en France pour concevoir en groupe des machines et des bâtiments sur mesure, adaptés aux pratiques spécifiques de l’agroécologie paysanne. Ses acteurs partent du principe que les agriculteurs, qui sont au cœur de la pratique et de l’expérience agricole, sont bien placés pour inventer ou ajuster eux-mêmes leur outil de production, et que les solutions les plus **autonomes** et **économes** émergent souvent de l**’intelligence collective de terrain**. L’Atelier Paysan est aujourd'hui équipé de 5 camions atelier qui sillonnent la France pour essaimer ces communs, en assurant un programme de 70 formations auto-construction par an.
+Le Cultibutte a été baptisé ainsi car les principaux organes de travail sont des dents de cultivateur complétées par une paire de disques. Il permet le travail en butte et en planche permanente pour la reprise d’un labour ou d’une fin de culture. Il est conçu pour façonner ou entretenir les buttes. Cette machine a été libérée par l'**Atelier Paysan** qui fédère des collectifs de paysans partout en France pour concevoir en groupe des machines et des bâtiments sur mesure, adaptés aux pratiques spécifiques de l’agroécologie paysanne. Ses acteurs partent du principe que les agriculteurs, qui sont au cœur de la pratique et de l’expérience agricole, sont bien placés pour inventer ou ajuster eux-mêmes leur outil de production, et que les solutions les plus **autonomes** et **économes** émergent souvent de l**’intelligence collective de terrain**. L’Atelier Paysan est aujourd'hui équipé de 5 camions atelier qui sillonnent la France pour essaimer ces communs, en assurant un programme de 70 formations auto-construction par an.
 
 ---
 
