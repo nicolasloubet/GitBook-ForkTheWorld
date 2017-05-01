@@ -119,7 +119,7 @@ D’autres mouvements encore comme Move Commons \(MC\) vise à développer “un
 
 Mais alors… pourquoi est-ce important d’apposer une licence si de manière naturelle toute production est régie par le droit d’auteur, les droits de propriété \(brevet entre autre\) ou par le domaine public ?
 
-**Rieul Techer,** co-initiateur de la MYNE et core contributeur de DAISEE
+**Rieul Techer,** co-initiateur de la MYNE et co-producteur de DAISEE
 
 [^1]: D’après l’article écrit par Lionel Maurel, 14 juin 2014. Du brevet comme arme de guerre au don comme acte de paix
 
