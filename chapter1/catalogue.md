@@ -108,7 +108,7 @@ Dispositif conçu et réalisé dans le cadre d’Open City Lab \(23 au 29 Janvie
 | **Initiateur\(s\)** | **M. Benchoufi, O. de Fresnoye, L. Jonveaux, etc.** |
 | :---: | :--- |
 | **Licence\(s\)** | **GPL 3 \(software\) et TAPR \(hardware\)** |
-| **Source\(s\)** | [**Wiki**](http://wiki.echopen.org/index.php/Main_Page)** \(connaissance\), **[**Slack**](http://echopen.slack.com)** \(coordination\)** |
+| **Source\(s\)** | [**Wiki**](http://wiki.echopen.org/index.php/Main_Page) \(connaissance\), [**Slack**](http://echopen.slack.com) \(coordination\) |
 
 ### Résumé
 
