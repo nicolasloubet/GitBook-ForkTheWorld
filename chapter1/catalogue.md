@@ -331,7 +331,7 @@ Le projet Gynepunk se structure principalement autour de Klau Kinki, artiste, pe
 Gynepunk englobe différents types d’outils, d’actions et d’interventions, sans hiérarchie, ni permanence. Le projet lui-même est open-source, implémentable par tou.te.s celleux qui s’en emparent. Il s’agit de :
 
 * consigner les liens étroits de la gynécologie avec l’impérialisme, le racisme, le sexisme et la violence \(la gynécologie moderne ayant été mise au point aux États-Unis en utilisant brutalement les corps non-consentants d’esclaves africaines\)
-* proposer la décolonisation et la réappropriation de cette histoire et de cette science par des[individu.es](http://individu.es) aux corps femelles, qui construisent des identités insoumises \(femmes pauvres, en situation irrégulière, indigènes, travailleuses du sexe, personnes trans\*, queer, etc.\)
+* proposer la décolonisation et la réappropriation de cette histoire et de cette science par des individu.es aux corps femelles, qui construisent des identités insoumises \(femmes pauvres, en situation irrégulière, indigènes, travailleuses du sexe, personnes trans, queer, etc.\)
 * de libérer les techniques de santé traditionnelles du « folklore » où elles sont maintenues, de libérer les technologies des sciences biomédicales des pouvoirs dominants, et d’hybrider ces savoirs pour fabriquer des outils techno-politiques de soin hors des normes économiques, sociales, culturelles et morales
 * se réapproprier en mode 2.0 le pouvoir femelle, commun et ouvert, des sages-femmes, des guérisseuses et des sorcières.
 
@@ -405,7 +405,7 @@ Les citoyen prennent un rôle de plus en plus large dans la réappropriation des
 
 ### Résumé
 
-CyberGarden est la formalisation de choix tant au niveau artistique que quotidien. L’art m’a amené à me poser certaines questions sur ma vie, mon impact sur l’environnement, mon rôle social\* et \(a\)politique. J’ai modifié mes attentions, ma façon de penser l’existence et de créer. Entre conscience de l’état du monde, quête de sens et recherche de solutions pour envisager un avenir positif, les CyberGardens sont nés. Des alternatives poétiques jouxtant l’art, la science, la nature et la citoyenneté...
+CyberGarden est la formalisation de choix tant au niveau artistique que quotidien. L’art m’a amené à me poser certaines questions sur ma vie, mon impact sur l’environnement, mon rôle social et \(a\)politique. J’ai modifié mes attentions, ma façon de penser l’existence et de créer. Entre conscience de l’état du monde, quête de sens et recherche de solutions pour envisager un avenir positif, les CyberGardens sont nés. Des alternatives poétiques jouxtant l’art, la science, la nature et la citoyenneté...
 
 Le CyberGarden est un jardin suspendu, connecté. Il est actuellement développé avec plusieurs collaborateurs. La MYNE, EcoHackLab de Lyon qui a permis a ce projet de prendre une dimension citoyenne. Libre et Open source, il est devenu l’incubateur de plusieurs autres projets \(PowerPlant & Aquaponie\) dans le cadre du “Doze Parc“ \*
 
