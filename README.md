@@ -32,9 +32,10 @@ Voici les ressources nécessaires minimales pour répliquer / reproduire /enrich
 * [Dépôt initial des textes au format .doc \(Google Drive\)](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
 * [Version épurée des textes au format .odt \(Nextcloud\)](https://frama.link/BiennaleDesign17-ForkTheWorld-Archive)
 * [Compilation des photos de l'expérience sur la Biennale](https://www.sharypic.com/yii1053jns2jfnd6/all)
+* [Chaîne vidéo YouTube "Design Moi un Tiers-Lieu\(x\)"](https://www.youtube.com/channel/UCjGNiNS1hk23M0vAQCE_fIg/videos)
 * [Groupe Telegram pour discuter de cette expérience](https://telegram.me/forktheworld)
 
 ---
 
-_Si vous souhaitez remixer ce GitBook, contactez [Nicolas](https://github.com/nicolasloubet) : nicolas[dot]loubet[at]protonmail[dot]com_
+_Si vous souhaitez remixer ce GitBook, contactez _[_Nicolas_](https://github.com/nicolasloubet)_ : nicolas\[dot\]loubet\[at\]protonmail\[dot\]com_
 
