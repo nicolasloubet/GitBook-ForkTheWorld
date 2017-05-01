@@ -288,7 +288,7 @@ Il s'agit d'un capteur de présence qui permet de déclencher un son... propre a
 
 > Dans les tiers-lieux, nous avons la capacité de créer nos propres réseaux et nos propres services. D’une part, pour contrer les logiques de centralisation par les grands monopoles, les GAFA, et pour répondre aux enjeux liés à la vie privée, à la protection de nos données personnelles, et aux problématiques de surveillance. D’autre part, il s'agit aussi de pouvoir faire tiers-lieu dans les zones reculées, les zones de conflits, celles qui ont connu des chocs politiques ou des catastrophes naturelles, ou encore les lieux de rassemblement. Tout est possible. Branché sur des batteries, nous pouvons imaginer déployer de manière agile une infrastructure numérique là où elle est nécessaire, et mettre en place des services.
 
-Extrait d’interview de** Yoann Duriaux **par Sylvia Fredriksson \(3 mars 2017\)
+Extrait d’interview de **Yoann Duriaux** par Sylvia Fredriksson \(3 mars 2017\)
 
 ---
 
