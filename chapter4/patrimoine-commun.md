@@ -14,11 +14,14 @@ Les laboratoires pharmaceutiques qui fabriquent aujourd’hui la solution hydro-
 
 Le partage de la connaissance sous licences ouvertes est par ailleurs une forme de protection de notre patrimoine informationnel commun contre les enclosures potentielles, qu’elles proviennent du marché autant des États.
 
+  
+D'après l'article de **Lionel Maurel **du [14 juin 2014](https://scinfolex.com/2014/06/14/du-brevet-comme-arme-de-guerre-au-don-comme-acte-de-paix/), [_Du brevet comme arme de guerre au don comme acte de paix_](https://scinfolex.com/2014/06/14/du-brevet-comme-arme-de-guerre-au-don-comme-acte-de-paix/)_._
+
 ---
 
 ## Anthologie des** actes de don**
 
-Tableau adapté depuis l'article [_Du brevet comme arme de guerre au don comme acte de paix_](https://scinfolex.com/2014/06/14/du-brevet-comme-arme-de-guerre-au-don-comme-acte-de-paix/) \(Lionel Maurel, [14 Juin 2014](https://scinfolex.com/2014/06/14/du-brevet-comme-arme-de-guerre-au-don-comme-acte-de-paix/)\)
+Tableau par Sylvia Fredriksson depuis l'article [_Du brevet comme arme de guerre au don comme acte de paix_](https://scinfolex.com/2014/06/14/du-brevet-comme-arme-de-guerre-au-don-comme-acte-de-paix/) \(Lionel Maurel, [14 Juin 2014](https://scinfolex.com/2014/06/14/du-brevet-comme-arme-de-guerre-au-don-comme-acte-de-paix/)\)
 
 | **Qui** | **Quand** | **Quoi** | Impact |
 | :--- | :--- | :--- | :--- |
@@ -27,7 +30,7 @@ Tableau adapté depuis l'article [_Du brevet comme arme de guerre au don comme a
 | [Tim Berners-Lee](http://romainelubrique.org/web-domaine-public-30-avril-1993) \(CERN\) | 1993 | Invention des technologies à la base du web mise dans le domaine public. | [Les caractéristiques fondamentales d’Internet et ensuite du Web](https://scinfolex.com/2013/04/30/biens-communs-neutralite-du-reseau-et-economie-de-lattention-webinaire/) découlent de cet acte originel de don, qui les ont constitués en biens communs. |
 | [Jonas Salk](http://en.wikipedia.org/wiki/Jonas_Salk) | 1955 | Invention du vaccin contre la polio mis dans le domaine public. | Le vaccin dit Salk fut l'un des premiers vaccins efficaces pour l'immunisation contre un [virus](https://fr.wikipedia.org/wiki/Virus) en général. Il fut essentiel à la campagne mondiale pour éradiquer la [polio](https://fr.wikipedia.org/wiki/Poliomyélite) jadis l'une des maladies les plus meurtrières, surtout chez les enfants. |
 | [Pierre et Marie Curie](http://boingboing.net/2014/05/30/marie-curie-open-source-pione.html) | [**1898**](https://fr.wikipedia.org/wiki/1898) | Invention de la [méthode d’extraction du radium](http://boingboing.net/2014/05/30/marie-curie-open-source-pione.html) | Pour financer ses recherches, Marie Curie préféra recourir à des souscriptions, ce qui en fait une des précurseurs du crowdfunding. |
-| Louis Daguerre | 1839 | Invention du [daguerréotype](http://fr.wikipedia.org/wiki/Daguerréotype#Histoire) | L’État français[rachete le brevet sur le daguerréotype](http://fr.wikipedia.org/wiki/Daguerréotype#Histoire), pour en « doter libéralement le monde entier » et libérer cette technologie. Ce procédé devint le premier procédé photographique utilisé commercialement. |
+| Louis Daguerre | 1839 | Invention du [daguerréotype](http://fr.wikipedia.org/wiki/Daguerréotype#Histoire) | L’État français[rachete le brevet sur le daguerréotype](http://fr.wikipedia.org/wiki/Daguerréotype#Histoire), pour en « doter libéralement le monde entier » et libérer cette technologie. Ce procédé devint le premier procédé photographique utilisé commercialement. 
 
 ---
 
@@ -119,7 +122,7 @@ D’autres mouvements encore comme Move Commons \(MC\) vise à développer “un
 
 Mais alors… pourquoi est-ce important d’apposer une licence si de manière naturelle toute production est régie par le droit d’auteur, les droits de propriété \(brevet entre autre\) ou par le domaine public ?
 
-**Rieul Techer,** co-initiateur de la MYNE et co-producteur de DAISEE
+**Rieul Techer,** ingénieur, co-initiateur de la MYNE et co-producteur de DAISEE
 
 [^1]: D’après l’article écrit par Lionel Maurel, 14 juin 2014. Du brevet comme arme de guerre au don comme acte de paix
 
