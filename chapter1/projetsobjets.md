@@ -10,7 +10,7 @@ Ce frigo appartenait au Garage, l’association étudiante de l’ESADE. Créée
 
 ---
 
-## **1- Cairn ** {#1-table-cairn}
+## **1- Cairn **
 
 | **Initiateur\(s\)** | P. Gourlet \(CRI\), T. Dasse \(Carrefour Numérique\) |
 | :---: | :---: |
@@ -464,7 +464,7 @@ Dans un monde où la production de viande a un fort impact sur notre monde, ce m
 
 ---
 
-## 28- Tiers-Jardin {#27--presse-à-insectes}
+## 28- Tiers-Jardin
 
 | **Initiateur\(s\)** | B. Vitasse, X.Pinasseau, S. Rousseau, C. Clavreul, etc. |
 | :---: | :---: |
