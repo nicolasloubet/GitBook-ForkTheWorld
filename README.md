@@ -29,8 +29,8 @@ Plusieurs Tiers-Lieux / organismes ont exprimé leur souhait de répliquer / ada
 Voici les ressources nécessaires minimales pour répliquer / reproduire /enrichir le corpus.
 
 * \[Hackpad\] [Carnet de bord de l'expérience _Fork The World_](http://frama.link/BiennaleDesign17-ForkTheWorld)
-* \[Drive\] [Version initiale des textes de l'expo au format .doc](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
-* \[Nexcloud\] [Version épurée des textes au format .odt](https://frama.link/BiennaleDesign17-ForkTheWorld-Textes)
+* \[Google\] [Version initiale des textes de l'expo au format .doc](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
+* \[Nexcloud\] [Version des textes de l'expo au format .odt](https://frama.link/BiennaleDesign17-ForkTheWorld-Textes)
 * \[Sharypic\] [Compilation des photographies de la Biennale](https://www.sharypic.com/yii1053jns2jfnd6/all)
 * \[YouTube\] [Compilation des vidéos _Design Moi 1 Tiers-Lieu\(x\)_](https://www.youtube.com/channel/UCjGNiNS1hk23M0vAQCE_fIg/videos)
 * \[Telegram\] [Groupe pour échanger avec les 'co-commissaires'](https://telegram.me/forktheworld)
