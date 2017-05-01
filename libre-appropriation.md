@@ -16,7 +16,7 @@ L’objet de ce questionnement n’est pas d’apporter une réponse mais de sit
 
 ---
 
-## Hack/ing/**ers : aperçu\(s\) d'un concept indomptable **
+## Hack/ing/ers : aperçu\(s\) d'un concept indomptable
 
 > Tous les ouvrages consacrés au Hackers ou au Hacking font le même constat. Il est extrêmement difficile de trouver une définition claire de ce que hacker veut dire. On comprend dès lors la radicale impossibilité à traduire des termes qui, de toutes les manières, se sont imposés dans leur habillage sémantique habituel au sein de nombreux corpus étrangers.
 >
@@ -49,7 +49,7 @@ L’objet de ce questionnement n’est pas d’apporter une réponse mais de sit
 
 ---
 
-## **La démarche de recherche au cœur des processus tiers-lieux**
+## La démarche de recherche au cœur des processus tiers-lieux
 
 La **recherche scientifique** se caractérise par “l’ensemble des actions entreprises en vue d’améliorer et d’augmenter l’état des connaissances dans un domaine scientifique”.
 
