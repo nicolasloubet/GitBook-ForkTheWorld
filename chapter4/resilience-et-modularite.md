@@ -18,9 +18,7 @@ Ils ouvrent l’hypothèse du territoire comme laboratoire. Des villes apprenant
 
 Le pouvoir aux maires ? Ces émergences sont-elles le pari que la transition démocratique se joue localement ? Si le souci écologiste des villes a été moteur pour les États, comme l’a montré l’économiste et urbaniste Jean Haëntjens dans son livre Le Pouvoir des villes, dans un contexte de défiance générale vis-à-vis des institutions, les maires des grandes villes “_font partie des rares responsables qui ont gardé l’estime de leurs concitoyens_[^1]”. Et si c’était dans les villes que l’Europe sociale voyait le jour[^2] ?
 
-[^1]: **Jean Haëntjens**. _Le Pouvoir des villes_, Ed. de L’Aube, 2008
-
-[^2]: **Ludovic Lamant**. _Squatter le pouvoir. Les Mairies rebelles d’Espagne,_ 2016\)
+**Sylvia Fredriksson**, Designer-chercheur, Pôle recherche de la Cité du Design.
 
 ---
 
@@ -50,3 +48,8 @@ Voici une approche par la résilience qui a été développée dans le cadre de 
 * **Redondance** : les fonctions se chevauchent, et un relais peut ainsi être assuré si certaines échouen. Les espèces d’animaux redondantes sont celles qui exercent la même fonction au sein de l’écosystème. Comme les vautours et les hyènes dont les fonctions de découpage des animaux morts sont une m^me fonction pour deux espèces.
 
 Proposé par **Xavier Coadic,** co-initiateur du Biome. Source : [Wardekker J. et al. \(2010\) “Operationalising a resilience approach to adapting an urban delta to uncertain climate changes”, Technological Forecasting and Social Change](http://www.nusap.net/downloads/Wardekker_ea_2010_TFS.pdf)
+
+[^1]: **Jean Haëntjens**. _Le Pouvoir des villes_, Ed. de L’Aube, 2008
+
+[^2]: **Ludovic Lamant**. _Squatter le pouvoir. Les Mairies rebelles d’Espagne,_ 2016\)
+
