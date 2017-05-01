@@ -22,6 +22,8 @@ Le tiers-lieu est l’espace où l’individu renoue avec la présence de l’au
 
 Dans les tiers-lieux, des individus s’emparent de “_la question du rapport à l’usager et des compétences techniques nécessaires pour embrayer de véritables processus de participation citoyenne et d’encapacitation au sein d’écologies technologiques et infrastructurelles particulières_.[^5]” En mettant en place des réseaux de télécommunications décentralisés et autonomes, participatifs et engageants, ces individus donnent à réfléchir à un “_horizon politique plus enclin au partage, à une nouvelle façon de penser la circulation des idées, des biens et de la vie en communauté_.” Et finalement, à une autre gouvernementalité possible.1
 
+**Sylvia Fredriksson**, Designer-chercheur, Pôle recherche de la Cité du Design.
+
 ---
 
 ## **Le tiers-lieu, lieu de la pluralité**
@@ -34,7 +36,7 @@ Les interactions qui se tissent à l’intérieur du tiers-lieu s’établissent
 
 Il est cet espace nécessaire au politique, il est l’espace qui fait advenir le politique.
 
-**Sylvia Fredriksson,** chercheuse en design à la Cité du Design de Saint-Etienne
+**Sylvia Fredriksson**, Designer-chercheur, Pôle recherche de la Cité du Design.
 
 ---
 
