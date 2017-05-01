@@ -36,5 +36,5 @@ Voici les ressources nécessaires minimales pour répliquer / reproduire /enrich
 
 ---
 
-_Si vous souhaitez remixer ce GitBook, contactez [Nicolas](https://github.com/nicolasloubet)) : nicolas[dot]loubet[at]protonmail[dot]com_
+_Si vous souhaitez remixer ce GitBook, contactez [Nicolas](https://github.com/nicolasloubet) : nicolas[dot]loubet[at]protonmail[dot]com_
 
