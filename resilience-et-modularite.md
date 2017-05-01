@@ -2,11 +2,13 @@
 
 ## La transition se jouera localement
 
+```
 **Janvier 2017**. À Bucarest, les activistes de Funky Citizen sont à l’origine de rassemblements historiques pour la lutte anti-corruption, une mobilisation citoyenne et spontanée sans égale depuis la chute du régime communiste.
 
 **Mai 2015**. À Barcelone, Ada Colau, ancienne squatteuse, [militante](https://fr.wikipedia.org/wiki/Militantisme) des luttes pour le droit au logement et contre la violence immobilière, est élue maire de Barcelone sous les couleurs du mouvement [Barcelone en commun](https://fr.wikipedia.org/wiki/Barcelone_en_commun).
 
 **Mai 2010**. À Reykjavik, les électeurs de la capitale islandaise retirent le pouvoir aux hommes politiques pour le confier aux amateurs. Jón Gnarr, anarchiste punk, acteur et humoriste à l’initiative du parti satirique "le Meilleur Parti" est élu maire. “_Plus c’est punk, moins c’est l’enfer !_”
+```
 
 Que nous montrent ces émergences ? En Espagne comme en Islande, ces non-professionnels de la politique avaient-ils pour dessein de prendre le pouvoir ? Rien n’est moins sûre.Engagés dans des luttes de terrains, ils ont construit en actes et au quotidien les perspectives d’une transition démocratique, sociale et environnementale basée sur la proximité et la confiance.
 
