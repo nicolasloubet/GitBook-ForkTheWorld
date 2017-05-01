@@ -407,7 +407,7 @@ Les citoyen prennent un rôle de plus en plus large dans la réappropriation des
 
 CyberGarden est la formalisation de choix tant au niveau artistique que quotidien. L’art m’a amené à me poser certaines questions sur ma vie, mon impact sur l’environnement, mon rôle social et \(a\)politique. J’ai modifié mes attentions, ma façon de penser l’existence et de créer. Entre conscience de l’état du monde, quête de sens et recherche de solutions pour envisager un avenir positif, les CyberGardens sont nés. Des alternatives poétiques jouxtant l’art, la science, la nature et la citoyenneté...
 
-Le CyberGarden est un jardin suspendu, connecté. Il est actuellement développé avec plusieurs collaborateurs. La MYNE, EcoHackLab de Lyon qui a permis a ce projet de prendre une dimension citoyenne. Libre et Open source, il est devenu l’incubateur de plusieurs autres projets \(PowerPlant & Aquaponie\) dans le cadre du “Doze Parc“ \*
+Le CyberGarden est un jardin suspendu, connecté. Il est actuellement développé avec plusieurs collaborateurs. La MYNE, EcoHackLab de Lyon qui a permis a ce projet de prendre une dimension citoyenne. Libre et Open source, il est devenu l’incubateur de plusieurs autres projets \(PowerPlant & Aquaponie\) dans le cadre du "Doze Parc".
 
 Plusieurs intentions sont développées autour de ce projet :
 
