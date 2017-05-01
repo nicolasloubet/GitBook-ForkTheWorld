@@ -82,11 +82,11 @@ Comme toute forme de vie, la Plantoïd a vocation a se reproduire. Pour se faire
 | **Initiateur\(s\)** | **R. Técher, S. Rabaaoui, L. Villard, P. Flipo, N. Loubet, C. Epié, X. Lavayssière, A. Omerin, A. Gérard, X. Coadic \(...\)** |
 | :---: | :--- |
 | **Licence\(s\)** | **CC-BY-NS-SA \(textes\), GPL3 \(code\)** |
-| **Source\(s\)** | [**Hackpad**](https://frama.link/DAISEE-knowledge)** \(connaissance\), **[**Rocket**](https://chat.daisee.org/)** \(coordination\)**[** **](https://frama.link/DAISEE-knowledge) |
+| **Source\(s\)** | [**Hackpad**](https://frama.link/DAISEE-knowledge) \(connaissance\), [**Rocket**](https://chat.daisee.org/) \(coordination\) |
 
 ### Résumé
 
-DAISEE est un commun co-produit par la [MYNE](http://lamyne.org) \(tiers-lieu basé à Lyon\) et [CELLABZ](http://cellabz.com) \(« organisme » d’acculturation aux technologies émergentes\). Ce commun mobilise l’intervention d’organisations \(‘communautés'\) qui se reconnaissent d’un objectif de transition de société et de **réappropriation des systèmes**. DAISEE doit permettre à tout usager d’échanger ou acheter de l’électricité directement à des pairs, dans son voisinage, qui en produisent en surplus. Il s'agit d'hybrider différentes technologies qui garantissent la distribution, la transparence, l’intégrité et l’inviolabilité de l’information ainsi que des pratiques de travail ou d'organisation. Les technologies blockchain au centre de cette expérimentation, bien plus comme philosophie que comme technologie, permettent de penser les systèmes différemment mais aussi des modes de co-production du commun.---
+DAISEE est un commun co-produit par la [MYNE](http://lamyne.org) \(tiers-lieu basé à Lyon\) et [CELLABZ](http://cellabz.com) \(« organisme » d’acculturation aux technologies émergentes\). Ce commun mobilise l’intervention d’organisations \(‘communautés'\) qui se reconnaissent d’un objectif de transition de société et de **réappropriation des systèmes**. DAISEE doit permettre à tout usager d’échanger ou acheter de l’électricité directement à des pairs, dans son voisinage, qui en produisent en surplus. Il s'agit d'hybrider différentes technologies qui garantissent la distribution, la transparence, l’intégrité et l’inviolabilité de l’information ainsi que des pratiques de travail ou d'organisation. Les technologies blockchain au centre de cette expérimentation, bien plus comme philosophie que comme technologie, permettent de penser les systèmes différemment mais aussi des modes de co-production du commun.
 
 ---
 
