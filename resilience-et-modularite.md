@@ -10,7 +10,7 @@
 
 Que nous montrent ces émergences ? En Espagne comme en Islande, ces non-professionnels de la politique avaient-ils pour dessein de prendre le pouvoir ? Rien n’est moins sûre.Engagés dans des luttes de terrains, ils ont construit en actes et au quotidien les perspectives d’une transition démocratique, sociale et environnementale basée sur la proximité et la confiance.
 
-Ces citoyens et ces militants ont fait - de l’urgence, leur cadre de coalition - face à la corruption, au recul des droits fondamentaux et de la protection sociale. Ils sont venus rappeler le besoin de puissance publique en bâtissant un socle commun et une convergence sur la base d’alliances autour de principes “minimum”.
+Ces citoyens et ces militants ont fait de l’**urgence** leur cadre de coalition face à la corruption, au recul des droits fondamentaux et de la protection sociale. Ils sont venus rappeler le besoin de puissance publique en bâtissant un socle commun et une convergence sur la base d’alliances autour de principes “minimum”.
 
 Ces amateurs au pouvoir rendent obsolètes la dimension partisane de la politique. Ils en font la satire. Ils sont venus sur la scène du pouvoir pour mieux démonter celle-ci, et faire de leur territoire des laboratoires de gouvernance démocratique.
 
