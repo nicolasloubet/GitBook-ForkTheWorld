@@ -10,7 +10,7 @@ Ce frigo appartenait au Garage, l’association étudiante de l’ESADE. Créée
 
 ---
 
-## **1- Cairn **
+## **1- Cairn**
 
 | **Initiateur\(s\)** | P. Gourlet \(CRI\), T. Dasse \(Carrefour Numérique\) |
 | :---: | :---: |
@@ -90,7 +90,7 @@ DAISEE est un commun co-produit par la [MYNE](http://lamyne.org) \(tiers-lieu ba
 
 ---
 
-## **5- Vélo du concierge **
+## **5- Vélo du concierge**
 
 | **Initiateur\(s\)** | **Abel Ary** |
 | :---: | :---: |
