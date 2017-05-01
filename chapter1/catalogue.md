@@ -81,7 +81,7 @@ Comme toute forme de vie, la Plantoïd a vocation a se reproduire. Pour se faire
 
 | **Initiateur\(s\)** | **R. Técher, S. Rabaaoui, L. Villard, P. Flipo, N. Loubet, C. Epié, X. Lavayssière, A. Omerin, A. Gérard, X. Coadic \(...\)** |
 | :---: | :--- |
-| **Licence\(s\)** | **CC-BY-NS-SA \(textes\), GPL3 \(code\)** |
+| **Licence\(s\)** | **CC-BY-NC-SA \(textes\), GPL3 \(code\)** |
 | **Source\(s\)** | [**Hackpad**](https://frama.link/DAISEE-knowledge) \(connaissance\), [**Rocket**](https://chat.daisee.org/) \(coordination\) |
 
 ### Résumé
