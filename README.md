@@ -33,7 +33,7 @@ Voici les ressources nécessaires minimales pour répliquer / reproduire /enrich
 * \[Google\] [Version initiale des textes de l'expo au format .doc](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
 * \[Nexcloud\] [Version des textes de l'expo au format .odt](https://frama.link/BiennaleDesign17-ForkTheWorld-Textes)
 * \[Hackpad\] [Carnet de bord de l'expérience _Fork The World_](http://frama.link/BiennaleDesign17-ForkTheWorld)
-  \[Sharypic\] [Compilation des photographies de la Biennale](https://www.sharypic.com/yii1053jns2jfnd6/all)
+* \[Sharypic\] [Compilation des photographies de la Biennale](https://www.sharypic.com/yii1053jns2jfnd6/all)
 * \[YouTube\] [Compilation des vidéos _Design Moi 1 Tiers-Lieu\(x\)_](https://www.youtube.com/channel/UCjGNiNS1hk23M0vAQCE_fIg/videos)
 * \[Telegram\] [Groupe pour échanger avec les 'co-commissaires'](https://telegram.me/forktheworld)
 
