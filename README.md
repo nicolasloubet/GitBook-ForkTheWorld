@@ -30,7 +30,7 @@ Voici les ressources nécessaires minimales pour répliquer / reproduire /enrich
 
 * [Fichiers du GitBook \(version du 2 mai 2017\)](https://frama.link/BiennaleDesign17-ForkTheWorld-GitBook)
 * [Photos de l'expo sur la Biennale de Design](https://frama.link/BiennaleDesign17-ForkTheWorld-Exposition)
-* [Version initiale des textes de l'expo au format .doc](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
+* [Version initiale des textes de l'expo \(format .doc\)](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
 * [Version des textes de l'expo au format .odt](https://frama.link/BiennaleDesign17-ForkTheWorld-Textes)
 * [Carnet de bord de l'expérience _Fork The World_](http://frama.link/BiennaleDesign17-ForkTheWorld)
 * [Compilation des photographies de la Biennale](https://www.sharypic.com/yii1053jns2jfnd6/all)
