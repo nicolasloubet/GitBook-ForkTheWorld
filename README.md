@@ -16,7 +16,7 @@ Les objectifs sont : \(1\) de permettre à celles/ceux qui vivent les Tiers-Lieu
 
 # Essaimage
 
-Plusieurs Tiers-Lieux / organismes ont exprimé leur souhait de répliquer / adapter le corpus. La première étape de ce processus de transmission va s'exprimer par des temps de restitution.
+Plusieurs Tiers-Lieux / organismes ont exprimé leur souhait de répliquer / adapter le corpus. La 1ère étape étape du processus de transmission va se traduire par des temps de restitution / remix sur plusieurs manifestations. 
 
 * [FabLab Festival](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#) \(Toulouse, 14 Mai 2017\)
 * [Journée à l'Hotel Pasteur](https://bimestriel.framapad.org/p/GouvernancePasteur) \(Rennes, 19 Mai 2017\)
