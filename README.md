@@ -29,7 +29,7 @@ Plusieurs Tiers-Lieux / organismes ont exprimé leur souhait de répliquer / ada
 Voici les ressources nécessaires minimales pour répliquer / reproduire /enrichir le corpus.
 
 * \[NextCloud\] [Fichiers du GitBook \(version du 2 mai 2017\)](https://frama.link/BiennaleDesign17-ForkTheWorld-GitBook)
-* \[NextCloud\] [Scénographie de l'expo Biennale de Design](https://frama.link/BiennaleDesign17-ForkTheWorld-Exposition)
+* \[NextCloud\] [Photos de l'expo sur la Biennale de Design](https://frama.link/BiennaleDesign17-ForkTheWorld-Exposition)
 * \[Google\] [Version initiale des textes de l'expo au format .doc](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
 * \[Nexcloud\] [Version des textes de l'expo au format .odt](https://frama.link/BiennaleDesign17-ForkTheWorld-Textes)
 * \[Hackpad\] [Carnet de bord de l'expérience _Fork The World_](http://frama.link/BiennaleDesign17-ForkTheWorld)
