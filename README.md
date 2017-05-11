@@ -28,14 +28,14 @@ Plusieurs Tiers-Lieux / organismes ont exprimé leur souhait de répliquer / ada
 
 Voici les ressources nécessaires minimales pour répliquer / reproduire /enrichir le corpus.
 
-* \[NextCloud\] [Fichiers du GitBook \(version du 2 mai 2017\)](https://frama.link/BiennaleDesign17-ForkTheWorld-GitBook)
-* \[NextCloud\] [Photos de l'expo sur la Biennale de Design](https://frama.link/BiennaleDesign17-ForkTheWorld-Exposition)
-* \[Google\] [Version initiale des textes de l'expo au format .doc](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
-* \[Nexcloud\] [Version des textes de l'expo au format .odt](https://frama.link/BiennaleDesign17-ForkTheWorld-Textes)
-* \[Hackpad\] [Carnet de bord de l'expérience _Fork The World_](http://frama.link/BiennaleDesign17-ForkTheWorld)
-* \[Sharypic\] [Compilation des photographies de la Biennale](https://www.sharypic.com/yii1053jns2jfnd6/all)
-* \[YouTube\] [Compilation des vidéos _Design Moi 1 Tiers-Lieu\(x\)_](https://www.youtube.com/channel/UCjGNiNS1hk23M0vAQCE_fIg/videos)
-* \[Telegram\] [Groupe pour échanger avec les 'co-commissaires'](https://telegram.me/forktheworld)
+* [Fichiers du GitBook \(version du 2 mai 2017\)](https://frama.link/BiennaleDesign17-ForkTheWorld-GitBook)
+* [Photos de l'expo sur la Biennale de Design](https://frama.link/BiennaleDesign17-ForkTheWorld-Exposition)
+* [Version initiale des textes de l'expo au format .doc](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
+* [Version des textes de l'expo au format .odt](https://frama.link/BiennaleDesign17-ForkTheWorld-Textes)
+* [Carnet de bord de l'expérience _Fork The World_](http://frama.link/BiennaleDesign17-ForkTheWorld)
+* [Compilation des photographies de la Biennale](https://www.sharypic.com/yii1053jns2jfnd6/all)
+* [Compilation des vidéos _Design Moi 1 Tiers-Lieu\(x\)_](https://www.youtube.com/channel/UCjGNiNS1hk23M0vAQCE_fIg/videos)
+* [Groupe pour échanger avec les 'co-commissaires'](https://telegram.me/forktheworld)
 
 ---
 
