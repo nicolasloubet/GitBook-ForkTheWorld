@@ -16,11 +16,11 @@ Les objectifs sont : \(1\) de permettre à celles/ceux qui vivent les Tiers-Lieu
 
 # Essaimage
 
-Plusieurs Tiers-Lieux / organismes ont exprimé leur souhait de répliquer / adapter le corpus. La première étape de ce processus de transmission va s'exprimer par des temps de restitution. 
+Plusieurs Tiers-Lieux / organismes ont exprimé leur souhait de répliquer / adapter le corpus. La première étape de ce processus de transmission va s'exprimer par des temps de restitution.
 
 * [FabLab Festival](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#) \(Toulouse, 14 Mai 2017\)
 * [Journée à l'Hotel Pasteur](https://bimestriel.framapad.org/p/GouvernancePasteur) \(Rennes, 19 Mai 2017\)
-* [Grand Ramdam](http://grandramdam.net) \(Poitiers, 1-2 juin 2017\)
+* [Grand Ramdam Tiers-Lieux](http://grandramdam.net) \(Poitiers, 1-2 juin 2017\)
 * [365 jours de la Cité Chantier ](http://le-wip.com)\(Caen, 15 Juin 2017\)
 * [Kick-off de la centrifugeuse](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#) \(Paris-Est, 19-23 Juin 2017\)
 
