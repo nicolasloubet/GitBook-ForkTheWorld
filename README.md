@@ -18,11 +18,11 @@ Les objectifs sont : \(1\) de permettre à celles/ceux qui vivent les Tiers-Lieu
 
 Plusieurs Tiers-Lieux / organismes ont exprimé leur souhait de répliquer / adapter le corpus. La 1ère étape étape du processus de transmission va se traduire par des temps de restitution / remix sur plusieurs manifestations.
 
-* [FabLab Festival](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#) \(Toulouse, 14 Mai 2017\)
+* [FabLab Festival](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#) \(Toulouse, 11-14 Mai 2017\)
 * [Journée à l'Hotel Pasteur](https://bimestriel.framapad.org/p/GouvernancePasteur) \(Rennes, 19 Mai 2017\)
 * [Grand Ramdam Tiers-Lieux](http://grandramdam.net) \(Poitiers, 1-2 Juin 2017\)
 * [Rencontres des Tiers-Lieux Normands](https://docs.google.com/document/d/1soe0gg5ZOcbTIm7yJ5mscetj3qsBp850ewDoqcPYbkU/edit) \(Caen, 15 Juin 2017\)
-* [Kick-off de la centrifugeuse](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#) \(Paris-Est, 19-23 Juin 2017\)
+* [Kick-off de la centrifugeuse](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#) \(Paris-Est, 21Juin 2017\)
 
 # Ressources
 
