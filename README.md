@@ -14,7 +14,7 @@ Les objectifs sont : \(1\) de permettre à celles/ceux qui vivent les Tiers-Lieu
 4. [Émancipation par le faire](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/emancipation-par-le-faire.html)
 5. [Résilience et modularité](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/resilience-et-modularite.html)
 
-NB : pour accompagner l'essaimage, un '[label tiers-lieux](https://github.com/nicolasloubet/auto-label-tiers-lieux) \(attribué entre pairs\) est proposé. Il repose sur un diagnostic des 5 propriétés d'organisation et sera réalisable \(dans un 1er temps\) sur [Communecter](https://www.communecter.org).
+NB : pour accompagner l'essaimage, un '[label tiers-lieux](https://github.com/nicolasloubet/auto-label-tiers-lieux) \(attribué entre pairs\) est proposé. Il repose sur un diagnostic des 5 propriétés d'organisation et sera porté \(dans un 1er temps\) sur [Communecter](https://www.communecter.org).
 
 # Essaimage
 
