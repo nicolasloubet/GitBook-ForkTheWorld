@@ -12,7 +12,7 @@
 
 Des hackerspaces de San Francisco au makerspace stéphanois, les communautés intentionnelles qui se constituent autour des tiers-lieux rejouent les règles du pouvoir, la distribution de la parole, les modalités de prise de décision. Le spectre des régimes de gouvernance est aussi large que les typologies de lieux sont variées.
 
-Du modèle du bazar formulé par Éric Raymond[^1] aux sept principes de Joreen Freeman[^2], destinés à structurer les organisations pour éviter leurs dysfonctionnements, le tiers-lieu rejoue les principes, les valeurs et les objectifs qui confèrent son unité au groupe. Qu’il soit héritier d’une tradition anarchiste où le consensus est règle absolue[^3], lieu d’expérimentation de la démocratie directe, ou configuration où s’écrit un code social[^4][^4], le tiers-lieu renoue avec les corps, avec les gestes, avec les actes**.** L’agir devient souvent motif de redistribution du pouvoir. La doocratie, principe de gouvernance qui donne l'avantage à l'action, permet d'encourager la prise d'initiative, et le concret plutôt que la discussion.
+Du modèle du bazar formulé par Éric Raymond[^1] aux sept principes de Joreen Freeman[^2], destinés à structurer les organisations pour éviter leurs dysfonctionnements, le tiers-lieu rejoue les principes, les valeurs et les objectifs qui confèrent son unité au groupe. Qu’il soit héritier d’une tradition anarchiste où le consensus est règle absolue[^3], lieu d’expérimentation de la démocratie directe, ou configuration où s’écrit un code social[^4], le tiers-lieu renoue avec les corps, avec les gestes, avec les actes**.** L’agir devient souvent motif de redistribution du pouvoir. La doocratie, principe de gouvernance qui donne l'avantage à l'action, permet d'encourager la prise d'initiative, et le concret plutôt que la discussion.
 
 ### **Rejouer le conflit**
 
@@ -20,7 +20,7 @@ Le tiers-lieu est l’espace où l’individu renoue avec la présence de l’au
 
 ### **Redistribuer le pouvoir**
 
-Dans les tiers-lieux, des individus s’emparent de “_la question du rapport à l’usager et des compétences techniques nécessaires pour embrayer de véritables processus de participation citoyenne et d’encapacitation au sein d’écologies technologiques et infrastructurelles particulières_.[^5]” En mettant en place des réseaux de télécommunications décentralisés et autonomes, participatifs et engageants, ces individus donnent à réfléchir à un “_horizon politique plus enclin au partage, à une nouvelle façon de penser la circulation des idées, des biens et de la vie en communauté_.” Et finalement, à une autre gouvernementalité possible.1
+Dans les tiers-lieux, des individus s’emparent de “_la question du rapport à l’usager et des compétences techniques nécessaires pour embrayer de véritables processus de participation citoyenne et d’encapacitation au sein d’écologies technologiques et infrastructurelles particulières_.[^5]” En mettant en place des réseaux de télécommunications décentralisés et autonomes, participatifs et engageants, ces individus donnent à réfléchir à un “_horizon politique plus enclin au partage, à une nouvelle façon de penser la circulation des idées, des biens et de la vie en communauté_.” Et finalement, à une autre gouvernementalité possible.
 
 **Sylvia Fredriksson**, Designer-chercheur, Pôle recherche de la Cité du Design.
 
