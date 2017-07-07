@@ -1,4 +1,4 @@
-# **Habibou Mogne : le FabLab pour démocratiser la culture **
+# **Habibou Mogne : le FabLab pour démocratiser la culture**
 
 Habibou Mogne est animateur multimédia en centre social de Bellevue à Saint-Étienne. Son interview a été réalisée pour la Biennale de Design de Saint-Etienne le 01 Mars 2017 par Sylvia Fredriksson et Aurélien Marty.
 
