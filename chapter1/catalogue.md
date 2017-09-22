@@ -48,7 +48,7 @@ _Pour aller plus loin, lire cette _[_interview_](https://github.com/nicolasloube
 
 ### Resumé
 
-Pour faire comprendre le fonctionnement de la technologie blockchain, les designers du Collectif Bam a souhaité imaginer ce qu’elle serait si elle était physique. Aidé par Alexandre Stachtchenko de Blockchain France, ils ont imaginé son usage à travers une installation qui parle à tous : la corvée de vaisselle !
+Pour faire comprendre le fonctionnement de la technologie blockchain, les designers du[ Collectif Bam](http://www.collectifbam.fr/) ont souhaité imaginer ce qu’elle serait si elle était physique. Aidés par Alexandre Stachtchenko de Blockchain France, ils ont imaginé son usage à travers une installation qui parle à tous : la corvée de vaisselle !
 
 > Léo, Jules, Marie et Elsa sont 4 frères et soeurs vivant dans la même maison. Comme dans beaucoup de familles, la corvée de vaisselle est un sujet propice à de nombreuses discordes. Entre celui qui prétend avoir effectué sa corvée plus souvent et celle qui a oublié son tour, le casse-tête est infini et la **confiance** n’existe plus. Le dilemme prend souvent fin par l’intervention autoritaire des parents.
 >
@@ -56,7 +56,7 @@ Pour faire comprendre le fonctionnement de la technologie blockchain, les design
 >
 > Ainsi chacun peut **vérifier** la bonne réalisation des tâches ou savoir à qui est le prochain tour en jetant un oeil au tube. Il est ici impossible de **falsifier** le tube en essayant de venir récupérer de quelconque manière un palet déjà tombé à l’intérieur. Transparent, infalsifiable et indestructible, on pourrait dire de ce tube qu’il est en quelque sorte le tube de la vérité, acceptée par le consensus. Malheureusement ce principe fonctionne bien si l’honnêteté est de mise dans la maison. Mais si 2 ou 3 frères sont un jour de mauvaise foi, alors le palet ne sera pas validé !
 
-_Pour aller plus loin, ne pas hésiter à consulter ce [_livre blanc_](http://bit.ly/beyondblockchain) rédigé par Cellabz._
+_Pour aller plus loin, ne pas hésiter à consulter ce \[\_livre blanc\__\]\([http://bit.ly/beyondblockchain](http://bit.ly/beyondblockchain)\) rédigé par Cellabz.
 
 ---
 
@@ -138,7 +138,7 @@ GNU/Linux ou Linux est un système d'exploitation créé en 1991 par Linus Torva
 
 ### Résumé
 
-Avec "Biohack la planète" comme credo, The Odin tire son origine d'une volonté  d'inclure davantage de personnes en science, et plus particulièrement dans le champ des biotechnologies. Biberonnée à la biologie participative, l'équipe revendique une nécessaire acculturation et appropriation de l'ingénierie des génomes par les citoyens. Chez Odin, rendre accessible à tous les techniques d'édition de l'ADN passe par la conception, et aujourd'hui vente, de kits permettant de remanier génétiquement des organismes unicellulaires inoffensifs. Le Bacterial [DIY CRISPR Kit](https://docs.google.com/document/d/1qJ-hkVjE3uqbSazqJdDkhdM7K9HDTqWl8pN-reX26JM/edit) propose ainsi de modifier l'espèce bactérienne E. Coli, couramment utilisée au laboratoire, pour lui permettre de survivre dans un milieu de culture, habituellement létal pour elle. De l'indispensable micropipette au milieu de culture, le kit contient tout le nécessaire pour faire ses premiers pas: 150$ et quelques heures, c'est ce qu'il en coûte aujourd'hui, à l'ère de la dernière née des techniques d'édition génomique CRISPR-cas9.
+Avec "Biohack la planète" comme credo, [The Odin](http://www.the-odin.com/) tire son origine d'une volonté  d'inclure davantage de personnes en science, et plus particulièrement dans le champ des biotechnologies. Biberonnée à la biologie participative, l'équipe revendique une nécessaire acculturation et appropriation de l'ingénierie des génomes par les citoyens. Chez Odin, rendre accessible à tous les techniques d'édition de l'ADN passe par la conception, et aujourd'hui vente, de kits permettant de remanier génétiquement des organismes unicellulaires inoffensifs. Le Bacterial [DIY CRISPR Kit](https://docs.google.com/document/d/1qJ-hkVjE3uqbSazqJdDkhdM7K9HDTqWl8pN-reX26JM/edit) propose ainsi de modifier l'espèce bactérienne E. Coli, couramment utilisée au laboratoire, pour lui permettre de survivre dans un milieu de culture, habituellement létal pour elle. De l'indispensable micropipette au milieu de culture, le kit contient tout le nécessaire pour faire ses premiers pas: 150$ et quelques heures, c'est ce qu'il en coûte aujourd'hui, à l'ère de la dernière née des techniques d'édition génomique CRISPR-cas9.
 
 #### **Texte critique de Quitterie Largeteau \(Biohacking Safari\)**
 
@@ -301,7 +301,7 @@ Extrait d’interview de **Yoann Duriaux** par Sylvia Fredriksson \(3 mars 2017\
 
 ### Résumé
 
-Bacterian Farm, ferme de production de cellulose bactérienne automatisée à partir de sucre, thé et vinaigre. L’intérêt de cette matière est qu’elle ressemble énormément à du cuir issue des bactéries de la boisson Kombucha \(Scoby\). La fabrication est très similaire à la production de vinaigre, et de cellulose bactérienne industrielle mais en DiY. Suivant les ingrédients et le séchage, l’aspect, la couleur et l’odeur peuvent être modifiés. Le but de la ferme est de permettre une culture contrôlée \(Température, PH, séchage\) dans un système clos afin de permettre l'incubation et la culture DiY sans contrainte, et ainsi de faciliter le développement de cette matière dans un usage artisanal local et autonome.
+Bacterian Farm, ferme de production de cellulose bactérienne automatisée à partir de sucre, thé et vinaigre. Ce projet à démarré avec un don de souche de culture de la part d'[Open BioFabrics. ](https://openbiofabrics.github.io)L’intérêt de cette matière est qu’elle ressemble énormément à du cuir issu des bactéries et levures de la boisson Kombucha \(Scoby, _Symbiotic Colony Of Bacteria and Yeats_\). La fabrication est très similaire à la production de vinaigre \(on peut d'ailleurs utiliser une mère de vinaigre comme SCOBY\), et de cellulose bactérienne industrielle mais en DiY. Suivant les ingrédients et le séchage, l’aspect, la couleur et l’odeur peuvent être modifiés. Le but de la ferme est de permettre une culture contrôlée \(Température, PH, séchage\) dans un système clos afin de permettre l'incubation et la culture DiY sans contrainte, et ainsi de faciliter le développement de cette matière dans un usage artisanal local et autonome.
 
 ---
 
@@ -326,7 +326,7 @@ Bacterian Farm, ferme de production de cellulose bactérienne automatisée à pa
 
 #### **Sorcières Cyborg**
 
-Le projet Gynepunk se structure principalement autour de Klau Kinki, artiste, performer et hacktiviste d’origine chilienne, entourée de Paula Pin, artiste, musicien-ne, hacker/biohacker, et Gaia Leandra, chercheur-e, performer, biohacker. Gynepunk est un des nombreux projets questionnant genre, pouvoir, narrations, et technologies, animés par ce collectif polymorphe.
+Le projet [Gynepunk ](http://gynepunk.tumblr.com/)se structure principalement autour de Klau Kinki, artiste, performer et hacktiviste d’origine chilienne, entourée de Paula Pin, artiste, musicien-ne, hacker/biohacker, et Gaia Leandra, chercheur-e, performer, biohacker. Gynepunk est un des nombreux projets questionnant genre, pouvoir, narrations, et technologies, animés par ce collectif polymorphe.
 
 Gynepunk englobe différents types d’outils, d’actions et d’interventions, sans hiérarchie, ni permanence. Le projet lui-même est open-source, implémentable par tou.te.s celleux qui s’en emparent. Il s’agit de :
 
