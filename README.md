@@ -4,7 +4,7 @@ Si vous consultez cette page, c'est que vous êtes lié.e, de près ou de loin, 
 
 # À propos
 
-Ce corpus doit être considéré comme un " collage", i.e.  un ensemble d'idées,  de définitions, d'extraits de texte, de témoignages, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en perspective ce que font les protagonistes des Tiers-Lieux.
+Ce corpus doit être considéré comme un "collage", i.e.  un ensemble d'idées,  de définitions, d'extraits de texte, de témoignages, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en perspective ce que font les protagonistes des Tiers-Lieux.
 
 Les objectifs sont : \(1\) de permettre à celles/ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent \(2\) de soutenir la **formulation de récits** \(de\) Tiers-Lieux \(3\) d'engager un **essaimage actif** de l'expérience _Fork The World_ avec le réseau. En filigrane, l'intention est de tester empiriquement l'hypothèse selon laquelle le fonctionnement des Tiers-Lieux est régi par **5 propriétés fondamentales** :
 
@@ -14,7 +14,7 @@ Les objectifs sont : \(1\) de permettre à celles/ceux qui vivent les Tiers-Lieu
 4. [Émancipation par le faire](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/emancipation-par-le-faire.html)
 5. [Résilience et modularité](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/resilience-et-modularite.html)
 
-NB : pour accompagner l'essaimage, un '[**label tiers-lieux**](https://github.com/nicolasloubet/auto-label-tiers-lieux) \(attribué entre pairs\) est proposé. Il repose sur le diagnostic des 5 propriétés d'organisation et sera porté \(dans un premier temps\) par [Communecter](https://www.communecter.org). Cette proposition s'inscrit plus globalement dans une réflexion sur les [**marques collectives de certification**](http://movilab.org/index.php?title=Marque_collective_de_certification_Tilios).
+NB : pour accompagner l'essaimage, un '[**label tiers-lieux**](https://github.com/nicolasloubet/auto-label-tiers-lieux) \(attribué entre pairs\) est proposé. Il repose sur le diagnostic des 5 propriétés et sera porté \(dans un premier temps\) par [Communecter](https://www.communecter.org). Cette proposition s'inscrit plus globalement dans une réflexion sur les [**marques collectives de certification**](http://movilab.org/index.php?title=Marque_collective_de_certification_Tilios).
 
 # Essaimage
 
