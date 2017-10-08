@@ -14,7 +14,7 @@ Les objectifs sont : \(1\) de permettre à celles/ceux qui vivent les Tiers-Lieu
 4. [Émancipation par le faire](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/emancipation-par-le-faire.html)
 5. [Résilience et modularité](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/resilience-et-modularite.html)
 
-NB : pour accompagner l'essaimage, un '[**label tiers-lieux**](https://github.com/nicolasloubet/auto-label-tiers-lieux) \(attribué entre pairs\) est proposé. Il repose sur un diagnostic des 5 propriétés d'organisation et devrait être porté \(dans un premier temps\) par [Communecter](https://www.communecter.org). Cette proposition s'inscrit plus largement dans une réflexion sur l'édition de [**marques collectives de certification**](http://movilab.org/index.php?title=Marque_collective_de_certification_Tilios).
+NB : pour accompagner l'essaimage, un '[**label tiers-lieux**](https://github.com/nicolasloubet/auto-label-tiers-lieux) \(attribué entre pairs\) est proposé. Il repose sur le diagnostic des 5 propriétés d'organisation et sera porté \(dans un premier temps\) par [Communecter](https://www.communecter.org). Cette proposition s'inscrit plus globalement dans une réflexion sur les [**marques collectives de certification**](http://movilab.org/index.php?title=Marque_collective_de_certification_Tilios).
 
 # Essaimage
 
