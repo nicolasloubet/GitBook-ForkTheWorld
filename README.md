@@ -28,7 +28,7 @@ La **1ère étape** du processus s’est traduite par des **restitutions sur des
 * [Le Forum Camping des Grands Voisins](https://drive.google.com/file/d/0BwTBzng3rgljX1ZLR1dYNWJROW8/view) \(Paris, 14-15 Juin 2017\)
 * [La rencontre des Tiers-Lieux Normands](https://docs.google.com/document/d/1soe0gg5ZOcbTIm7yJ5mscetj3qsBp850ewDoqcPYbkU/edit) \(Caen, 15 Juin 2017\)
 
-La **2ème étape** prend la forme de **temps de contribution &** **processus d’hybridation** :
+La **2ème étape** prend la forme de **temps de contribution **& **processus d’hybridation** :
 
 * [Cours à l’École Camondo \(Paul Marchesseau\)](https://drive.google.com/drive/u/1/folders/0B875Hm4ydSyGRWQ1S2FwTEZmMlU)
 * [Expo. à la Cité Descartes \(Caroline Bessault\)](http://frama.link/tiers-lieux-cite-descartes)
