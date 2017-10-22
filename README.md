@@ -14,11 +14,13 @@ Les objectifs sont : \(1\) de permettre à celles/ceux qui vivent les Tiers-Lieu
 4. [Émancipation par le faire](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/emancipation-par-le-faire.html)
 5. [Résilience et modularité](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/resilience-et-modularite.html)
 
-NB : pour accompagner l'essaimage, un '[**label tiers-lieux**](https://github.com/nicolasloubet/auto-label-tiers-lieux) \(attribué entre pairs\) est proposé. Il repose sur le diagnostic des 5 propriétés et sera porté \(dans un premier temps\) par [Communecter](https://www.communecter.org). Cette proposition s'inscrit plus globalement dans une réflexion sur les [**marques collectives de certification**](http://movilab.org/index.php?title=Marque_collective_de_certification_Tilios).
+NB : pour accompagner l'essaimage, un '[**label tiers-lieux**](https://github.com/nicolasloubet/auto-label-tiers-lieux) \(attribué entre pairs\) est proposé. Il repose sur le diagnostic des 5 propriétés et sera porté \(dans un premier temps\) par [Communecter](https://www.communecter.org). Cette proposition s'inscrit plus globalement dans une réflexion sur les [**marques collectives de certification**](https://pad.lamyne.org/s/B1lykDm3b).
 
 # Essaimage
 
-Plusieurs organismes ont exprimé leur souhait d'adapter et/ou enrichir le corpus. La 1ère étape étape du processus de transmission s'est traduite par des temps de restitution sur plusieurs manifestations.
+Plusieurs organismes ont exprimé leur souhait d'adapter et/ou enrichir le corpus. 
+
+La **1ère étape** du processus s’est traduite par des **restitutions sur des événements** : 
 
 * [Le FabLab Festival - Make Europe](http://www.fablabfestival.fr) \(Toulouse, 11-14 Mai 2017\)
 * [La journée Gouvernance de l'Hotel Pasteur](https://bimestriel.framapad.org/p/GouvernancePasteur) \(Rennes, 19 Mai 2017\)
@@ -26,6 +28,14 @@ Plusieurs organismes ont exprimé leur souhait d'adapter et/ou enrichir le corpu
 * [Le Forum Camping des Grands Voisins](https://drive.google.com/file/d/0BwTBzng3rgljX1ZLR1dYNWJROW8/view) \(Paris, 14-15 Juin 2017\)
 * [La rencontre des Tiers-Lieux Normands](https://docs.google.com/document/d/1soe0gg5ZOcbTIm7yJ5mscetj3qsBp850ewDoqcPYbkU/edit) \(Caen, 15 Juin 2017\)
 * [La rencontre Tiers-Lieux à la Centrifugeuse](/frama.link/tiers-lieux-cite-descartes) \(Paris-Est, 21Juin 2017\)
+
+La **2ème étape** prend la forme de **temps de contribution &** **processus d’hybridation** : 
+
+* [Cours à l’École Camondo \(Paul Marchesseau\)](https://drive.google.com/drive/u/1/folders/0B875Hm4ydSyGRWQ1S2FwTEZmMlU)
+* [Visite virtuelle aux ROUMICs \(Sébastien Plihon\)](http://www.roumics.com/les-roumics/vivre-des-communs/18-nov.html)
+* [Game Jam avec CommUnJeu \(Sébastien Kurt\)](https://pad.lamyne.org/s/r1J_kbZnb)
+* [Hackathon Open Democray Now \(Pierre Lalu\)](https://pad.lamyne.org/s/B1AWfTg3-)
+* [Exposition Titre à Venir \(David Bartholomeo\)](https://hackmd.io/s/SJJCcK81W)
 
 # Ressources
 
