@@ -18,20 +18,20 @@ NB : pour accompagner l'essaimage, un '[**label tiers-lieux**](https://github.co
 
 # Essaimage
 
-Plusieurs organismes ont exprimé leur souhait d'adapter et/ou enrichir le corpus. 
+Plusieurs organismes ont exprimé leur souhait d'adapter et/ou enrichir le corpus.
 
-La **1ère étape** du processus s’est traduite par des **restitutions sur des événements** : 
+La **1ère étape** du processus s’est traduite par des **restitutions sur des événements** :
 
 * [Le FabLab Festival - Make Europe](http://www.fablabfestival.fr) \(Toulouse, 11-14 Mai 2017\)
 * [La journée Gouvernance de l'Hotel Pasteur](https://bimestriel.framapad.org/p/GouvernancePasteur) \(Rennes, 19 Mai 2017\)
 * [Le Grand Ramdam des Tiers-Lieux](http://grandramdam.net) \(Poitiers, 1-2 Juin 2017\)
 * [Le Forum Camping des Grands Voisins](https://drive.google.com/file/d/0BwTBzng3rgljX1ZLR1dYNWJROW8/view) \(Paris, 14-15 Juin 2017\)
 * [La rencontre des Tiers-Lieux Normands](https://docs.google.com/document/d/1soe0gg5ZOcbTIm7yJ5mscetj3qsBp850ewDoqcPYbkU/edit) \(Caen, 15 Juin 2017\)
-* [La rencontre Tiers-Lieux à la Centrifugeuse](/frama.link/tiers-lieux-cite-descartes) \(Paris-Est, 21Juin 2017\)
 
-La **2ème étape** prend la forme de **temps de contribution &** **processus d’hybridation** : 
+La **2ème étape** prend la forme de **temps de contribution &** **processus d’hybridation** :
 
 * [Cours à l’École Camondo \(Paul Marchesseau\)](https://drive.google.com/drive/u/1/folders/0B875Hm4ydSyGRWQ1S2FwTEZmMlU)
+* [Expo. à la Cité Descartes \(Caroline Bessault\)](http://frama.link/tiers-lieux-cite-descartes)
 * [Visite virtuelle aux ROUMICs \(Sébastien Plihon\)](http://www.roumics.com/les-roumics/vivre-des-communs/18-nov.html)
 * [Game Jam avec CommUnJeu \(Sébastien Kurt\)](https://pad.lamyne.org/s/r1J_kbZnb)
 * [Hackathon Open Democray Now \(Pierre Lalu\)](https://pad.lamyne.org/s/B1AWfTg3-)
