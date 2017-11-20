@@ -32,7 +32,7 @@ La **2ème étape** prend la forme de **temps de contribution** & **processus d�
 
 * [Cours à l’École Camondo \(Paul Marchesseau\)](https://drive.google.com/drive/u/1/folders/0B875Hm4ydSyGRWQ1S2FwTEZmMlU)
 * [Expo. à la Cité Descartes \(Caroline Bessault\)](http://frama.link/tiers-lieux-cite-descartes)
-* [Visite virtuelle aux ROUMICs \(Sébastien Plihon\)](http://www.roumics.com/les-roumics/vivre-des-communs/18-nov.html)
+* [Visite virtuelle aux ROUMICs \(Antony Cote\)](https://www.twitch.tv/videos/202347929)
 * [Game Jam avec CommUnJeu \(Sébastien Kurt\)](https://pad.lamyne.org/s/r1J_kbZnb)
 * [Hackathon Open Democray Now \(Pierre Lalu\)](https://pad.lamyne.org/s/B1AWfTg3-)
 * [Exposition Titre à Venir \(David Bartholomeo\)](https://hackmd.io/s/SJJCcK81W)
